@@ -5,11 +5,16 @@
 起爆药是爆破器材装药的主要材料，当它受到外界作用(冲击、摩擦、火焰等)的影响时，能在瞬间放出大量的起爆能，引爆各种炸药。
 
 起爆药是雷管、火帽和底火等火工品的主装药。因此，对起爆药的基本要求是：
-(1)起爆力大。起爆力愈强，则被起爆的炸药所作的功就愈大；
-(2)对外界的作用有足够的敏感性，以保证在使用中准确发火；
-(3)有良好的疏散性和压药性；
-(4)化学安定性好，如在光、空气和水分的影响下，其理化性质和爆炸性质不变化；
-(5)在常温条件下，能长期贮存。
+
+>(1)起爆力大。起爆力愈强，则被起爆的炸药所作的功就愈大；
+
+>(2)对外界的作用有足够的敏感性，以保证在使用中准确发火；
+
+>(3)有良好的疏散性和压药性；
+
+>(4)化学安定性好，如在光、空气和水分的影响下，其理化性质和爆炸性质不变化；
+
+>(5)在常温条件下，能长期贮存。
 
 起爆药的种类很多，如雷汞、氮化铅和三硝基间苯二酚铅等，但在实际生产中大量采用的是雷汞。
 
@@ -36,6 +41,7 @@
 
 雷汞(又称雷酸汞)俗称白药。外观为白色或灰色的斜状结晶。化学式为  $Hg(ONC)_2$，分子量为 284，假密度为 1.2～1.5 克/厘米 $^3$，晶体的比重为 4.39～4.41。它的纯度与比重有关，纯度愈大，比重则愈小。
 
+<div style="text-align: center;" id="tb-1">表1 雷汞纯度与比重的关系</div>
 
 | 留汞含量% | 97.0 | 98.0 | 99.0 | 99.7 |
 | --------- | ---- | ---- | ---- | ---- |
@@ -43,6 +49,7 @@
 
 雷汞的吸湿性很小，在不同的条件下它的吸湿量如下：
 
+<div style="text-align: center;" id="tb-2">表2 雷汞在不同条件下的吸湿量</div>
 
 | 相对湿度 %  | 样品存放时间(昼夜)    | 吸收水分数量 %  |
 | :--------: | :------------------: | :------------: |
@@ -62,6 +69,7 @@ $$
 Hg(ONC)_2 \longrightarrow 1.01Hg + 1.99CO + 0.98N_2(气体分析结果)
 $$
 
+<div style="text-align: center;" id="tb-3">表3 雷汞与金属的作用情况</div>
 
 | 金属名称 | 作用情况                                                                                             | 作用条件                                | 作用速度 |
 | :------: | :------------------------------------------------------------------------------------------------- | :-------------------------------------- | :------: |
@@ -87,8 +95,9 @@ $$
 ```mermaid
 flowchart TD
     %% 银处理流程
-    A[银准备] -->|硝酸浓度8~12%| B[银化学处理]
-    B --> C[配制硝酸银]
+    A[汞] -->B[汞过滤]
+    B -->|硝酸浓度4~8%| B1[汞化学处理]
+    B1 --> C[配制硝酸汞]
 
     %% 配酸流程
     C1[浓硝酸] --> C2[配酸]
@@ -96,26 +105,26 @@ flowchart TD
     C2 --> C
 
     %% 酒精处理流程
-    E[酒精准备<br/>浓度92%以上] --> F[酒精预热<br/>温度18~30℃]
-    F --> G[雷银化合<br/>化合温度不超过83℃]
+    E[酒精<br/>浓度92%以上] --> F[酒精预热<br/>温度18~30℃]
+    F --> G[化合反应<br/>化合温度不超过83℃]
 
     %% 核心化合
-    C -->|预热30~40℃<br/>时间30~40分钟| G
+    C --> G
     G -.->|废气排入大气| W[废气处理]
-    G --> H[雷银洗涤]
+    G --> H[雷汞洗涤]
     C3 -->|洗涤至中性为止| H
 
     %% 洗涤分支
     H -->|洗涤废水| I[洗涤水沉淀]
-    H --> J[雷银干燥]
-    H -->|温度不低于5℃<br/>时间不超过15天| K[湿雷银存放]
+    H --> J[雷汞干燥]
+    H -->|温度不低于5℃<br/>时间不超过15天| K[湿雷汞存放]
     
     I --> O[水排出]
     I --> P[沉淀物定期销毁]
     K --> J
 
     %% 成品流程
-    J -->|温度40~45℃<br/>时间36小时| L[雷银倒盒]
+    J -->|温度40~45℃<br/>时间36小时| L[雷汞倒盒]
     L --> M[成品]
 ```
 
@@ -133,7 +142,7 @@ $$
 
 ## 4 配硝酸
 
-硝酸在使用前应进行沉淀，用比重计测定其比重，如比重为1.415，则从表7中可查得该酸的浓度为68.63%，使用时需加水稀释。
+硝酸在使用前应进行沉淀，用比重计测定其比重，如比重为1.415，则从[表7](#tb-7)中可查得该酸的浓度为68.63%，使用时需加水稀释。
 
 使用浓度大的硝酸配酸时，最好使用蒸馏水，也可采用以布过滤的净水。使用的水要求洁净，如果水中所含的砂粒等杂质混入产品中，会增高雷汞的敏感度，对装药、压药的操作极为不利。
 
@@ -228,7 +237,7 @@ $$
 
 每次配制硝酸汞的数量与化合反应的投料量有关。如采用罐法化合，每次每罐的投料量若以水银500克计算，即配制每一份硝酸汞用水银500克，投料比采用1:9，则硝酸投料量为4500克。
 
-配制硝酸汞最好是选用口细底大的玻璃瓶。配制时先将已精制的水银称量500克为一份，注入细口瓶(图4)中；再称取浓度为 $ 60\pm1.5\% $的硝酸4500克，小心地加入瓶中，用玻璃片把瓶口盖上。硝酸加入后，汞与硝酸开始反应，几分钟后，就可以观察到有棕色的烟雾产生，温度亦随之上升。配制硝酸汞的反应，应至汞完全被硝化为止，整个反应时间约为1~1.5小时。
+配制硝酸汞最好是选用口细底大的玻璃瓶。配制时先将已精制的水银称量500克为一份，注入细口瓶(图4)中；再称取浓度为 $60\pm1.5\%$ 的硝酸4500克，小心地加入瓶中，用玻璃片把瓶口盖上。硝酸加入后，汞与硝酸开始反应，几分钟后，就可以观察到有棕色的烟雾产生，温度亦随之上升。配制硝酸汞的反应，应至汞完全被硝化为止，整个反应时间约为1~1.5小时。
 
 在配制硝酸汞时，为了使反应速度加快和物料反应完全，硝酸汞溶液的温度要保持在30～40℃范围内。硝酸汞加温时，是将盛有硝酸汞溶液的细口瓶置于木槽或水泥槽内，并经常测定槽(图5)内水的温度，用调整冷热水加入量的方法来保证所要求的水温。
 
@@ -261,9 +270,7 @@ $$
 
 在战争的年代，由于受到物质条件的限制，没有采用耐高温(100℃)的曲颈瓶作为化合的设备，而是采用了民间所用的表面光滑的瓷罐作为化合设备(图6)。
 
-瓷罐的来源广泛，保温条件好，耐腐蚀。其缺点是不透明，
-
-观察不到内部的反应情况。
+瓷罐的来源广泛，保温条件好，耐腐蚀。其缺点是不透明，观察不到内部的反应情况。
 
 在操作前首先将硝酸汞准备好，再把酒精从5000克为一份装入广口瓶中，置于水槽内保温，当温度达到18～35℃时，即可使用。
 
@@ -275,7 +282,7 @@ $$
 
 <div style="text-align: center;">
 <img src="/baopojianyishengchanfa/images/img_in_image_box_412_623_956_801.jpg" alt="Image" width="51%" />
-<p>1—反应罐；2—砷墩。</p>
+<p>1—反应罐；2—砖墩。</p>
 <div style="text-align: center;">图 7 露天化合反应作业</div>
 </div>
 
@@ -342,15 +349,13 @@ $$
 
 倒药所采用的设备如图 12 所示。
 
-倒药装置除框架是木制以外，其他部件均用厚纸板制成。内
+倒药装置除框架是木制以外，其他部件均用厚纸板制成。内外均以纸糊成光洁无缝，并涂上两层虫胶漆，在药盒的下面铺以橡皮板。
 
 <div style="text-align: center;">
 <img src="/baopojianyishengchanfa/images/img_in_image_box_99_255_529_897.jpg" alt="Image" width="40%" />
 <div style="text-align: center;">1—拉绳；2—药盘；3—支架；4—输药漏斗；5—纸盒；6—橡皮板；7—厚毡垫</div>
 <div style="text-align: center;">图12 倒药装置</div>
 </div>
-
-外均以纸糊成光洁无缝，并涂上两层虫胶漆，在药盒的下面铺以橡皮板。
 
 倒药时可能有静电产生，当时是采用在橡皮板上涂以导电漆。导电漆的成分为65%的清漆和35%的石墨粉的混合物。
 
@@ -360,9 +365,7 @@ $$
 
 由于雷汞制造过程中可能会产生起火和爆炸，因此，不要用草房和草棚，离居民地点也不宜太近，屋顶有纸棚的应将纸棚拆除。如系多年的老房子，一经震动就会有灰尘落下，这对雷汞生产也是不合适的。为了避免灰尘下落掉入药中，在室内屋顶挂上布，保持室内清洁。在战争年代，虽然厂房简陋，但能经常保持室内整洁，操作也井然有条，因而保证了优质高产和生产安全。
 
-在战争的岁月里，除厂房自动手动改建外，设备是自己加工制造的，工具、量具和仪器也多是自己制作的。如量筒，虽然构造简单，但用途很广泛，可计量液体、测定密度、测定固体粉(粒)状物质的假比重等。这些用具大多是以自力更生的方法来解决的。如在玻璃杯或玻璃管中，注入温度为 4℃ 的定量的水( 4℃时的水比重为1)，然后在杯的水准面处，
-
-刻上标记(刻度)，即可制成简单的量筒(图 13)。当时是采用这种简易的办法，制做出诸如此类各式各样的工具和仪器。
+在战争的岁月里，除厂房自动手动改建外，设备是自己加工制造的，工具、量具和仪器也多是自己制作的。如量筒，虽然构造简单，但用途很广泛，可计量液体、测定密度、测定固体粉(粒)状物质的假比重等。这些用具大多是以自力更生的方法来解决的。如在玻璃杯或玻璃管中，注入温度为 4℃ 的定量的水( 4℃时的水比重为1)，然后在杯的水准面处，刻上标记(刻度)，即可制成简单的量筒(图 13)。当时是采用这种简易的办法，制做出诸如此类各式各样的工具和仪器。
 
 在生产和战斗的间隙，职工们开展了各种科学研究活动，虽然参考资料缺乏，书籍不多，但由于职工们积极努力，充分利用当时条件，所以研究成果很显著，并多用于生产上。
 
@@ -393,9 +396,44 @@ $$
 
 <div style="text-align: center;">
 <div style="text-align: center;">流程 2 雷银制造工艺流程</div> 
-<img src="/baopojianyishengchanfa/images/img_in_image_box_128_249_918_1013.jpg" alt="Image" width="75%" />
+<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_128_249_918_1013.jpg" alt="Image" width="75%" /> -->
 <div style="text-align: center;">物料投料比——银：硝酸：酒精为1:15:15。</div>
 </div>
+
+```mermaid
+flowchart TD
+    %% 银处理流程
+    A[银准备] -->|硝酸浓度8~12%| B[银化学处理]
+    B --> C[配制硝酸银]
+
+    %% 配酸流程
+    C1[浓硝酸] --> C2[配酸]
+    C3[过滤水或蒸馏水] -->|浓度60±1.5%| C2
+    C2 --> C
+
+    %% 酒精处理流程
+    E[酒精准备<br/>浓度92%以上] --> F[酒精预热<br/>温度18~30℃]
+    F --> G[雷银化合<br/>化合温度不超过83℃]
+
+    %% 核心化合
+    C -->|预热30~40℃<br/>时间30~40分钟| G
+    G -.->|废气排入大气| W[废气处理]
+    G --> H[雷银洗涤]
+    C3 -->|洗涤至中性为止| H
+
+    %% 洗涤分支
+    H -->|洗涤废水| I[洗涤水沉淀]
+    H --> J[雷银干燥]
+    H -->|温度不低于5℃<br/>时间不超过15天| K[湿雷银存放]
+    
+    I --> O[水排出]
+    I --> P[沉淀物定期销毁]
+    K --> J
+
+    %% 成品流程
+    J -->|温度40~45℃<br/>时间36小时| L[雷银倒盒]
+    L --> M[成品]
+```
 
 ## 13 原料准备及配制硝酸银
 
@@ -444,12 +482,12 @@ $$
 
 几千年来元宝都为剥削阶级所占有，成为压榨和剥削劳动人民血汗的工具。今天在人民手中，用它制造出爆炸物，为解放事业发出了光和热，在兵工史上记载了光荣的一页。
 
-<div style="text-align: center;">表 4 雷银试验记录片断</div>
+<div style="text-align: center;" id="tb-4">表4 雷银试验记录片断</div>
 
 <table border=1 style='margin: auto; word-wrap: break-word;'>
 <tr><td rowspan="2">试验次数</td><td rowspan="2">加入银的重量(克)</td><td colspan="3">硝酸</td><td colspan="2">酒精浓度90%</td><td colspan="3">反应情况</td><td colspan="2">得率</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>比重1.56(克)</td><td style='text-align: center; word-wrap: break-word;'>水(克)</td><td style='text-align: center; word-wrap: break-word;'>温度(℃)</td><td style='text-align: center; word-wrap: break-word;'>重量(克)</td><td style='text-align: center; word-wrap: break-word;'>温度(℃)</td><td style='text-align: center; word-wrap: break-word;'>初温(℃)</td><td style='text-align: center; word-wrap: break-word;'>终温(℃)</td><td style='text-align: center; word-wrap: break-word;'>产量(克)</td><td style='text-align: center; word-wrap: break-word;'>为理论得率的%</td><td style='text-align: center; word-wrap: break-word;'>备注</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>6</td><td style='text-align: center; word-wrap: break-word;'>36.5</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>51(水套加热)</td><td style='text-align: center; word-wrap: break-word;'>76</td><td style='text-align: center; word-wrap: break-word;'>0.95</td><td style='text-align: center; word-wrap: break-word;'>34.3</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>8</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>12</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>51(水套加热)</td><td style='text-align: center; word-wrap: break-word;'>74</td><td style='text-align: center; word-wrap: break-word;'>0.46</td><td style='text-align: center; word-wrap: break-word;'>16.6</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>8</td><td style='text-align: center; word-wrap: break-word;'>45</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>50(水套加热)</td><td style='text-align: center; word-wrap: break-word;'>67</td><td style='text-align: center; word-wrap: break-word;'>0.55</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>7</td><td style='text-align: center; word-wrap: break-word;'>45</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>50(水套加热)</td><td style='text-align: center; word-wrap: break-word;'>65</td><td style='text-align: center; word-wrap: break-word;'>0.42</td><td style='text-align: center; word-wrap: break-word;'>15.3</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>3</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>自起作用</td><td style='text-align: center; word-wrap: break-word;'>77</td><td style='text-align: center; word-wrap: break-word;'>1.07</td><td style='text-align: center; word-wrap: break-word;'>39</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6</td><td style='text-align: center; word-wrap: break-word;'>4</td><td style='text-align: center; word-wrap: break-word;'>60</td><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>42</td><td style='text-align: center; word-wrap: break-word;'>60</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>自起作用</td><td style='text-align: center; word-wrap: break-word;'>82</td><td style='text-align: center; word-wrap: break-word;'>4.3</td><td style='text-align: center; word-wrap: break-word;'>78</td><td style='text-align: center; word-wrap: break-word;'>白色针状结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>7</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>25</td><td style='text-align: center; word-wrap: break-word;'>7</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>自起作用</td><td style='text-align: center; word-wrap: break-word;'>75</td><td style='text-align: center; word-wrap: break-word;'>1.62</td><td style='text-align: center; word-wrap: break-word;'>50</td><td style='text-align: center; word-wrap: break-word;'>白色针状结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>8</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>15</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>自起作用</td><td style='text-align: center; word-wrap: break-word;'>74</td><td style='text-align: center; word-wrap: break-word;'>1.23</td><td style='text-align: center; word-wrap: break-word;'>44</td><td style='text-align: center; word-wrap: break-word;'>白色针状结晶</td></tr></table>
 
-<div style="text-align: center;">表 5 酒精浓度表(15.56℃时)</div>
+<div style="text-align: center;" id="tb-5">表5 酒精浓度表(15.56℃时)</div>
 
 | 乙醇体积百分率% | 单位体积重量克/厘米$^3$  | 乙醇体积百分率% | 单位体积重量克/厘米$^3$ | 乙醇体积百分率% | 单位体积重量克/厘米$^3$ | 乙醇体积百分率% | 单位体积重量克/厘米$^3$ |
 |:--------------:|:----------------------:|:--------------:|:----------------------:|:--------------:|:----------------------:|:--------------:|:------------------:|
@@ -482,8 +520,7 @@ $$
 | 75             | 0.8765                | 83             | 0.8547                | 91             | 0.8299                | 99             | 0.7988                |
 | 76             | 0.8739                | 84             | 0.8518                | 92             | 0.8265                | 100            | 0.7937                |
 
-<div style="text-align: center;">表 6 各种温度下的酒精比重表</div>
-
+<div style="text-align: center;" id="tb-6">表6 各种温度下的酒精比重表</div>
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>乙醇重量</td><td colspan="4">比重(与4℃的同体积水相比)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>百分率</td><td style='text-align: center; word-wrap: break-word;'>0℃</td><td style='text-align: center; word-wrap: break-word;'>10℃</td><td style='text-align: center; word-wrap: break-word;'>20℃</td><td style='text-align: center; word-wrap: break-word;'>30℃</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>0</td><td style='text-align: center; word-wrap: break-word;'>0.99988</td><td style='text-align: center; word-wrap: break-word;'>0.99975</td><td style='text-align: center; word-wrap: break-word;'>0.99831</td><td style='text-align: center; word-wrap: break-word;'>0.99579</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>0.99135</td><td style='text-align: center; word-wrap: break-word;'>0.99113</td><td style='text-align: center; word-wrap: break-word;'>0.98945</td><td style='text-align: center; word-wrap: break-word;'>0.98680</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10</td><td style='text-align: center; word-wrap: break-word;'>0.98493</td><td style='text-align: center; word-wrap: break-word;'>0.98409</td><td style='text-align: center; word-wrap: break-word;'>0.98195</td><td style='text-align: center; word-wrap: break-word;'>0.97892</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>15</td><td style='text-align: center; word-wrap: break-word;'>0.97995</td><td style='text-align: center; word-wrap: break-word;'>0.97816</td><td style='text-align: center; word-wrap: break-word;'>0.97527</td><td style='text-align: center; word-wrap: break-word;'>0.97142</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>0.97566</td><td style='text-align: center; word-wrap: break-word;'>0.97263</td><td style='text-align: center; word-wrap: break-word;'>0.96877</td><td style='text-align: center; word-wrap: break-word;'>0.96413</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>25</td><td style='text-align: center; word-wrap: break-word;'>0.97115</td><td style='text-align: center; word-wrap: break-word;'>0.96662</td><td style='text-align: center; word-wrap: break-word;'>0.96185</td><td style='text-align: center; word-wrap: break-word;'>0.95628</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>30</td><td style='text-align: center; word-wrap: break-word;'>0.96540</td><td style='text-align: center; word-wrap: break-word;'>0.95998</td><td style='text-align: center; word-wrap: break-word;'>0.95403</td><td style='text-align: center; word-wrap: break-word;'>0.94751</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>35</td><td style='text-align: center; word-wrap: break-word;'>0.95784</td><td style='text-align: center; word-wrap: break-word;'>0.95174</td><td style='text-align: center; word-wrap: break-word;'>0.94514</td><td style='text-align: center; word-wrap: break-word;'>0.93813</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>0.94939</td><td style='text-align: center; word-wrap: break-word;'>0.94255</td><td style='text-align: center; word-wrap: break-word;'>0.93511</td><td style='text-align: center; word-wrap: break-word;'>0.92813</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>45</td><td style='text-align: center; word-wrap: break-word;'>0.93977</td><td style='text-align: center; word-wrap: break-word;'>0.93254</td><td style='text-align: center; word-wrap: break-word;'>0.92493</td><td style='text-align: center; word-wrap: break-word;'>0.91710</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>50</td><td style='text-align: center; word-wrap: break-word;'>0.92940</td><td style='text-align: center; word-wrap: break-word;'>0.92182</td><td style='text-align: center; word-wrap: break-word;'>0.91400</td><td style='text-align: center; word-wrap: break-word;'>0.90577</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>55</td><td style='text-align: center; word-wrap: break-word;'>0.91848</td><td style='text-align: center; word-wrap: break-word;'>0.91074</td><td style='text-align: center; word-wrap: break-word;'>0.90275</td><td style='text-align: center; word-wrap: break-word;'>0.89456</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>60</td><td style='text-align: center; word-wrap: break-word;'>0.90742</td><td style='text-align: center; word-wrap: break-word;'>0.89944</td><td style='text-align: center; word-wrap: break-word;'>0.89129</td><td style='text-align: center; word-wrap: break-word;'>0.88304</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>65</td><td style='text-align: center; word-wrap: break-word;'>0.89595</td><td style='text-align: center; word-wrap: break-word;'>0.88790</td><td style='text-align: center; word-wrap: break-word;'>0.87961</td><td style='text-align: center; word-wrap: break-word;'>0.87125</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>70</td><td style='text-align: center; word-wrap: break-word;'>0.88420</td><td style='text-align: center; word-wrap: break-word;'>0.87613</td><td style='text-align: center; word-wrap: break-word;'>0.86781</td><td style='text-align: center; word-wrap: break-word;'>0.85925</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>75</td><td style='text-align: center; word-wrap: break-word;'>0.87245</td><td style='text-align: center; word-wrap: break-word;'>0.86427</td><td style='text-align: center; word-wrap: break-word;'>0.85580</td><td style='text-align: center; word-wrap: break-word;'>0.84719</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>80</td><td style='text-align: center; word-wrap: break-word;'>0.86035</td><td style='text-align: center; word-wrap: break-word;'>0.85215</td><td style='text-align: center; word-wrap: break-word;'>0.84366</td><td style='text-align: center; word-wrap: break-word;'>0.83483</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>85</td><td style='text-align: center; word-wrap: break-word;'>0.84789</td><td style='text-align: center; word-wrap: break-word;'>0.83967</td><td style='text-align: center; word-wrap: break-word;'>0.83115</td><td style='text-align: center; word-wrap: break-word;'>0.82232</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>90</td><td style='text-align: center; word-wrap: break-word;'>0.83482</td><td style='text-align: center; word-wrap: break-word;'>0.82665</td><td style='text-align: center; word-wrap: break-word;'>0.81801</td><td style='text-align: center; word-wrap: break-word;'>0.80918</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>95</td><td style='text-align: center; word-wrap: break-word;'>0.82119</td><td style='text-align: center; word-wrap: break-word;'>0.81241</td><td style='text-align: center; word-wrap: break-word;'>0.80433</td><td style='text-align: center; word-wrap: break-word;'>0.79553</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>100</td><td style='text-align: center; word-wrap: break-word;'>0.80625</td><td style='text-align: center; word-wrap: break-word;'>0.79788</td><td style='text-align: center; word-wrap: break-word;'>0.78945</td><td style='text-align: center; word-wrap: break-word;'>0.78096</td></tr></table>
 
@@ -499,7 +536,7 @@ a ——受试乙醇的比重；
 
 V——体积百分率。
 
-<div style="text-align: center;">表 7 &nbsp;&nbsp; 15℃ 时硝酸的比重(与  4℃ 的同体积水相比)</div>
+<div style="text-align: center;" id="tb-7">表7 &nbsp;&nbsp; 15℃ 时硝酸的比重(与  4℃ 的同体积水相比)</div>
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>比重</td><td style='text-align: center; word-wrap: break-word;'>重量百分数</td><td style='text-align: center; word-wrap: break-word;'>比重</td><td style='text-align: center; word-wrap: break-word;'>重量百分数</td><td style='text-align: center; word-wrap: break-word;'>比重</td><td style='text-align: center; word-wrap: break-word;'>重量百分数</td><td style='text-align: center; word-wrap: break-word;'>比重</td><td style='text-align: center; word-wrap: break-word;'>重量百分数</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.000</td><td style='text-align: center; word-wrap: break-word;'>0.10</td><td style='text-align: center; word-wrap: break-word;'>1.135</td><td style='text-align: center; word-wrap: break-word;'>22.54</td><td style='text-align: center; word-wrap: break-word;'>1.270</td><td style='text-align: center; word-wrap: break-word;'>42.87</td><td style='text-align: center; word-wrap: break-word;'>1.405</td><td style='text-align: center; word-wrap: break-word;'>66.40</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.005</td><td style='text-align: center; word-wrap: break-word;'>1.00</td><td style='text-align: center; word-wrap: break-word;'>1.140</td><td style='text-align: center; word-wrap: break-word;'>23.31</td><td style='text-align: center; word-wrap: break-word;'>1.275</td><td style='text-align: center; word-wrap: break-word;'>43.64</td><td style='text-align: center; word-wrap: break-word;'>1.410</td><td style='text-align: center; word-wrap: break-word;'>67.50</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.010</td><td style='text-align: center; word-wrap: break-word;'>1.90</td><td style='text-align: center; word-wrap: break-word;'>1.145</td><td style='text-align: center; word-wrap: break-word;'>24.08</td><td style='text-align: center; word-wrap: break-word;'>1.280</td><td style='text-align: center; word-wrap: break-word;'>44.41</td><td style='text-align: center; word-wrap: break-word;'>1.415</td><td style='text-align: center; word-wrap: break-word;'>68.63</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.015</td><td style='text-align: center; word-wrap: break-word;'>2.80</td><td style='text-align: center; word-wrap: break-word;'>1.150</td><td style='text-align: center; word-wrap: break-word;'>24.84</td><td style='text-align: center; word-wrap: break-word;'>1.285</td><td style='text-align: center; word-wrap: break-word;'>45.18</td><td style='text-align: center; word-wrap: break-word;'>1.420</td><td style='text-align: center; word-wrap: break-word;'>69.80</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.020</td><td style='text-align: center; word-wrap: break-word;'>3.70</td><td style='text-align: center; word-wrap: break-word;'>1.155</td><td style='text-align: center; word-wrap: break-word;'>25.60</td><td style='text-align: center; word-wrap: break-word;'>1.290</td><td style='text-align: center; word-wrap: break-word;'>45.95</td><td style='text-align: center; word-wrap: break-word;'>1.425</td><td style='text-align: center; word-wrap: break-word;'>70.98</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.025</td><td style='text-align: center; word-wrap: break-word;'>4.60</td><td style='text-align: center; word-wrap: break-word;'>1.160</td><td style='text-align: center; word-wrap: break-word;'>26.36</td><td style='text-align: center; word-wrap: break-word;'>1.295</td><td style='text-align: center; word-wrap: break-word;'>46.72</td><td style='text-align: center; word-wrap: break-word;'>1.430</td><td style='text-align: center; word-wrap: break-word;'>72.17</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.030</td><td style='text-align: center; word-wrap: break-word;'>5.50</td><td style='text-align: center; word-wrap: break-word;'>1.165</td><td style='text-align: center; word-wrap: break-word;'>27.12</td><td style='text-align: center; word-wrap: break-word;'>1.300</td><td style='text-align: center; word-wrap: break-word;'>47.49</td><td style='text-align: center; word-wrap: break-word;'>1.435</td><td style='text-align: center; word-wrap: break-word;'>73.39</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.035</td><td style='text-align: center; word-wrap: break-word;'>6.38</td><td style='text-align: center; word-wrap: break-word;'>1.170</td><td style='text-align: center; word-wrap: break-word;'>27.88</td><td style='text-align: center; word-wrap: break-word;'>1.305</td><td style='text-align: center; word-wrap: break-word;'>48.26</td><td style='text-align: center; word-wrap: break-word;'>1.440</td><td style='text-align: center; word-wrap: break-word;'>74.68</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.040</td><td style='text-align: center; word-wrap: break-word;'>7.26</td><td style='text-align: center; word-wrap: break-word;'>1.175</td><td style='text-align: center; word-wrap: break-word;'>28.93</td><td style='text-align: center; word-wrap: break-word;'>1.310</td><td style='text-align: center; word-wrap: break-word;'>49.07</td><td style='text-align: center; word-wrap: break-word;'>1.445</td><td style='text-align: center; word-wrap: break-word;'>75.98</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.045</td><td style='text-align: center; word-wrap: break-word;'>8.13</td><td style='text-align: center; word-wrap: break-word;'>1.180</td><td style='text-align: center; word-wrap: break-word;'>29.38</td><td style='text-align: center; word-wrap: break-word;'>1.315</td><td style='text-align: center; word-wrap: break-word;'>49.89</td><td style='text-align: center; word-wrap: break-word;'>1.450</td><td style='text-align: center; word-wrap: break-word;'>77.28</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.050</td><td style='text-align: center; word-wrap: break-word;'>8.99</td><td style='text-align: center; word-wrap: break-word;'>1.185</td><td style='text-align: center; word-wrap: break-word;'>30.13</td><td style='text-align: center; word-wrap: break-word;'>1.320</td><td style='text-align: center; word-wrap: break-word;'>50.71</td><td style='text-align: center; word-wrap: break-word;'>1.455</td><td style='text-align: center; word-wrap: break-word;'>78.60</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.055</td><td style='text-align: center; word-wrap: break-word;'>9.84</td><td style='text-align: center; word-wrap: break-word;'>1.190</td><td style='text-align: center; word-wrap: break-word;'>30.88</td><td style='text-align: center; word-wrap: break-word;'>1.325</td><td style='text-align: center; word-wrap: break-word;'>51.53</td><td style='text-align: center; word-wrap: break-word;'>1.460</td><td style='text-align: center; word-wrap: break-word;'>79.89</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.060</td><td style='text-align: center; word-wrap: break-word;'>10.68</td><td style='text-align: center; word-wrap: break-word;'>1.195</td><td style='text-align: center; word-wrap: break-word;'>31.62</td><td style='text-align: center; word-wrap: break-word;'>1.330</td><td style='text-align: center; word-wrap: break-word;'>52.37</td><td style='text-align: center; word-wrap: break-word;'>1.465</td><td style='text-align: center; word-wrap: break-word;'>81.42</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.065</td><td style='text-align: center; word-wrap: break-word;'>11.51</td><td style='text-align: center; word-wrap: break-word;'>1.200</td><td style='text-align: center; word-wrap: break-word;'>32.36</td><td style='text-align: center; word-wrap: break-word;'>1.335</td><td style='text-align: center; word-wrap: break-word;'>53.22</td><td style='text-align: center; word-wrap: break-word;'>1.470</td><td style='text-align: center; word-wrap: break-word;'>82.90</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.070</td><td style='text-align: center; word-wrap: break-word;'>12.33</td><td style='text-align: center; word-wrap: break-word;'>1.205</td><td style='text-align: center; word-wrap: break-word;'>33.09</td><td style='text-align: center; word-wrap: break-word;'>1.340</td><td style='text-align: center; word-wrap: break-word;'>54.07</td><td style='text-align: center; word-wrap: break-word;'>1.475</td><td style='text-align: center; word-wrap: break-word;'>84.45</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.075</td><td style='text-align: center; word-wrap: break-word;'>13.15</td><td style='text-align: center; word-wrap: break-word;'>1.210</td><td style='text-align: center; word-wrap: break-word;'>33.82</td><td style='text-align: center; word-wrap: break-word;'>1.345</td><td style='text-align: center; word-wrap: break-word;'>54.93</td><td style='text-align: center; word-wrap: break-word;'>1.480</td><td style='text-align: center; word-wrap: break-word;'>86.05</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.080</td><td style='text-align: center; word-wrap: break-word;'>13.95</td><td style='text-align: center; word-wrap: break-word;'>1.215</td><td style='text-align: center; word-wrap: break-word;'>34.55</td><td style='text-align: center; word-wrap: break-word;'>1.350</td><td style='text-align: center; word-wrap: break-word;'>55.79</td><td style='text-align: center; word-wrap: break-word;'>1.485</td><td style='text-align: center; word-wrap: break-word;'>87.70</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.085</td><td style='text-align: center; word-wrap: break-word;'>14.74</td><td style='text-align: center; word-wrap: break-word;'>1.220</td><td style='text-align: center; word-wrap: break-word;'>35.28</td><td style='text-align: center; word-wrap: break-word;'>1.355</td><td style='text-align: center; word-wrap: break-word;'>56.66</td><td style='text-align: center; word-wrap: break-word;'>1.490</td><td style='text-align: center; word-wrap: break-word;'>89.60</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.090</td><td style='text-align: center; word-wrap: break-word;'>15.53</td><td style='text-align: center; word-wrap: break-word;'>1.225</td><td style='text-align: center; word-wrap: break-word;'>36.03</td><td style='text-align: center; word-wrap: break-word;'>1.360</td><td style='text-align: center; word-wrap: break-word;'>57.57</td><td style='text-align: center; word-wrap: break-word;'>1.495</td><td style='text-align: center; word-wrap: break-word;'>91.60</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.095</td><td style='text-align: center; word-wrap: break-word;'>16.32</td><td style='text-align: center; word-wrap: break-word;'>1.230</td><td style='text-align: center; word-wrap: break-word;'>36.78</td><td style='text-align: center; word-wrap: break-word;'>1.365</td><td style='text-align: center; word-wrap: break-word;'>58.48</td><td style='text-align: center; word-wrap: break-word;'>1.500</td><td style='text-align: center; word-wrap: break-word;'>94.09</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.100</td><td style='text-align: center; word-wrap: break-word;'>17.11</td><td style='text-align: center; word-wrap: break-word;'>1.235</td><td style='text-align: center; word-wrap: break-word;'>37.53</td><td style='text-align: center; word-wrap: break-word;'>1.370</td><td style='text-align: center; word-wrap: break-word;'>59.39</td><td style='text-align: center; word-wrap: break-word;'>1.505</td><td style='text-align: center; word-wrap: break-word;'>96.39</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.105</td><td style='text-align: center; word-wrap: break-word;'>17.88</td><td style='text-align: center; word-wrap: break-word;'>1.240</td><td style='text-align: center; word-wrap: break-word;'>38.29</td><td style='text-align: center; word-wrap: break-word;'>1.375</td><td style='text-align: center; word-wrap: break-word;'>60.30</td><td style='text-align: center; word-wrap: break-word;'>1.510</td><td style='text-align: center; word-wrap: break-word;'>98.10</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.110</td><td style='text-align: center; word-wrap: break-word;'>18.67</td><td style='text-align: center; word-wrap: break-word;'>1.245</td><td style='text-align: center; word-wrap: break-word;'>39.05</td><td style='text-align: center; word-wrap: break-word;'>1.380</td><td style='text-align: center; word-wrap: break-word;'>61.27</td><td style='text-align: center; word-wrap: break-word;'>1.515</td><td style='text-align: center; word-wrap: break-word;'>99.07</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.115</td><td style='text-align: center; word-wrap: break-word;'>19.45</td><td style='text-align: center; word-wrap: break-word;'>1.250</td><td style='text-align: center; word-wrap: break-word;'>39.82</td><td style='text-align: center; word-wrap: break-word;'>1.385</td><td style='text-align: center; word-wrap: break-word;'>62.24</td><td style='text-align: center; word-wrap: break-word;'>1.520</td><td style='text-align: center; word-wrap: break-word;'>99.67</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.120</td><td style='text-align: center; word-wrap: break-word;'>20.23</td><td style='text-align: center; word-wrap: break-word;'>1.255</td><td style='text-align: center; word-wrap: break-word;'>40.58</td><td style='text-align: center; word-wrap: break-word;'>1.390</td><td style='text-align: center; word-wrap: break-word;'>63.23</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.125</td><td style='text-align: center; word-wrap: break-word;'>21.00</td><td style='text-align: center; word-wrap: break-word;'>1.260</td><td style='text-align: center; word-wrap: break-word;'>41.34</td><td style='text-align: center; word-wrap: break-word;'>1.395</td><td style='text-align: center; word-wrap: break-word;'>64.25</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.130</td><td style='text-align: center; word-wrap: break-word;'>21.77</td><td style='text-align: center; word-wrap: break-word;'>1.265</td><td style='text-align: center; word-wrap: break-word;'>42.10</td><td style='text-align: center; word-wrap: break-word;'>1.400</td><td style='text-align: center; word-wrap: break-word;'>65.30</td></tr></table>
 
