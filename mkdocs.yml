@@ -114,6 +114,17 @@ extra_javascript:
 nav:
 - Home: index.md
 - Guide:
-    - chapter 0: baopojianyishengchanfa\chapter 0.md
+    - about: baopojianyishengchanfa\about.md
     - chapter 1: baopojianyishengchanfa\chapter 1.md
     - chapter 2: baopojianyishengchanfa\chapter 2.md
+    - chapter 3: baopojianyishengchanfa\chapter 3.md
+    - chapter 4: baopojianyishengchanfa\chapter 4.md
+    - chapter 5: baopojianyishengchanfa\chapter 5.md
+    - chapter 6: baopojianyishengchanfa\chapter 6.md
+    - chapter 7: baopojianyishengchanfa\chapter 7.md
+    - chapter 8: baopojianyishengchanfa\chapter 8.md
+    - chapter 9: baopojianyishengchanfa\chapter 9.md
+    - chapter 10: baopojianyishengchanfa\chapter 10.md
+    - chapter 11: baopojianyishengchanfa\chapter 11.md
+    - chapter 12: baopojianyishengchanfa\chapter 12.md
+    - chapter 13: baopojianyishengchanfa\chapter 13.md

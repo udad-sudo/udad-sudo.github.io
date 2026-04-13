@@ -4,23 +4,25 @@
 
 硝化甘油学名为三硝酸甘油脂。它是以甘油为原料经混酸作用而制得，是一种液态的烈性炸药。它可用谷糠粉、细木粉、麻杆炭粉和硅藻土等多孔物质吸收，再与硝酸铵、火硝等混合制成各种混合炸药。作为装填地雷、手榴弹、爆破筒和爆破药包的装药。硝化甘油也是制造双基无烟火药和胶质炸药的主要原料。
 
-· 制造硝化甘油所用的原料为甘油和混酸。酸的来源是采用缸塔法自制(详见第十二章)，也曾少量外购。而甘油是以解放区的各种动、植物油(其中以植物油为主)经皂化而制得。
+制造硝化甘油所用的原料为甘油和混酸。酸的来源是采用缸塔法自制(详见第十二章)，也曾少量外购。而甘油是以解放区的各种动、植物油(其中以植物油为主)经皂化而制得。
 
-制造硝化甘油的方法，如諾貝爾式硝化法、納唐式硝化法和連續硝化法等在工业中均被采用过。但上述的工艺方法需要較复杂的专用設備。如
+制造硝化甘油的方法，如诺贝尔式硝化法、纳唐式硝化法和连续硝化法等在工业中均被采用过。但上述的工艺方法需要较复杂的专用设备。如
+通常所采用的纳唐式硝化设备(图15)，它是一个圆形的铅质容器，在容器内装有蛇形管，通过蛇形管内的冷却水来控制硝化温度。采用上述方法除需整套专用设备外，还需设置冷却盐水、压缩空气等辅助系统。
 
-<div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_487_587_960_1317.jpg" alt="Image" width="44%" />
-<div style="text-align: center;">1—硝化器；2—排油窥视孔；3—溜子的檢查口盖；4—排油溜子；5—窥视窗；6—接触温度计；7—压缩空气管；8—冷却盐水管；9—酸管；10—混酸管；11—酸酸出口管；12—置换酸管</div>
-<div style="text-align: center;">图15 納唐-湯姆逊硝化器</div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/baopojianyishengchanfa/images/img_in_image_box_487_587_960_1317.jpg" alt="图15 纳唐-汤姆逊硝化器" width="44%" style="margin-right: 2em;" />
+  <div>
+  <li>1—硝化器；</li><li>2—排油窥视孔；</li><li>3—溜子的检查口盖；</li><li>4—排油溜子；</li><li>5—窥视窗；</li><li>6—接触温度计；</li>
+  <li>7—压缩空气管；</li><li>8—冷却盐水管；</li><li>9—酸管；<li>10—混酸管；</li><li>11—废酸出口管；</li><li>12—置换酸管</li>
+  </div>
 </div>
+<div style="text-align: center;">图15 纳唐-汤姆逊硝化器</div>
 
-通常所采用的納唐式硝化設备(图15)，它是一个圓形的鉛质容器，在容器內裝有蛇形管，通过蛇形管內的冷却水來控制硝化溫度。采用上述方法除需整套专用設备外，还需設置冷却盐水、圧縮空气等輔助系統。
-
-在战争环境中，生产方式和设备的选择，必须满足“上马快”，投产快，设备輕巧和机动灵活，设备与材料自給等要求。經过反复研究和試驗，当时是采用以瓷盆為硝化設备，因而称之为“盆式硝化法”。这种方法所采用的設备簡單，生产时机動性大，产量可大可小；可以一盆投产也可以數盆同時生產。
+在战争环境中，生产方式和设备的选择，必须满足“上马快”，投产快，设备轻巧和机动灵活，设备与材料自给等要求。经过反复研究和试验，当时是采用以瓷盆为硝化设备，因而称之为“盆式硝化法”。这种方法所采用的设备简单，生产时机动性大，产量可大可小；可以一盆投产也可以数盆同时生产。
 
 ## 2 硝化甘油的性质
 
-硝化甘油的分子式为  $C_3H_5(ONO_2)_3$，分子量为 227，通常用 NG 字母做为它的简写符号。純硝化甘油是无色透明的油状液体，工业品为黄色或棕黄色。15℃时比重为 1.600，20℃时为 1.591。粘度比水大 2.5 倍，20℃时为 35.5 厘沲，它的粘度随温度的升高而降低。
+硝化甘油的分子式为  $C_3H_5(ONO_2)_3$，分子量为 227，通常用 NG 字母做为它的简写符号。纯硝化甘油是无色透明的油状液体，工业品为黄色或棕黄色。15℃时比重为 1.600，20℃时为 1.591。粘度比水大 2.5 倍，20℃时为 35.5 厘沲，它的粘度随温度的升高而降低。
 
 硝化甘油有安定型和不安定型两种。安定型的凝固点为13.2℃，熔点13.5℃；而不安定型的凝固点为2.1℃，熔点2.8℃。
 
@@ -32,13 +34,13 @@ $$
 
 所以在制造中常用酒精碱液破坏(分解)残存的微量甘油。
 
-純硝化甘油在 50℃ 时开始分解， 135℃ 时激烈分解，加热到 145℃ 时则产生大量棕烟，当温度达到  200~218℃ 时会发生爆炸，其爆炸分解反应式为
+纯硝化甘油在 50℃ 时开始分解， 135℃ 时激烈分解，加热到 145℃ 时则产生大量棕烟，当温度达到  200~218℃ 时会发生爆炸，其爆炸分解反应式为
 
 $$
 2C_3H_5(ONO_2)_3 \longrightarrow 6CO_2 + 5H_2O + 3N_2 + \frac{1}{2}O_2
 $$ 
 
-硝化甘油对撞击摩擦敏感，在金属之间或在磁与磁之間撞击摩擦均易引起爆炸。它对火焰也十分敏感；遇火焰作用，即会引起剧烈燃烧，甚至转为爆轰。硝化甘油的爆速，根据卡斯特的研究为7450米/秒。对冲击摩擦的感度，根据柯克-奥斯莫的研究，以2公斤重的落锤进行10次试验中，引起爆炸的最小高度为15厘米。
+硝化甘油对撞击摩擦敏感，在金属之间或在磁与磁之间撞击摩擦均易引起爆炸。它对火焰也十分敏感；遇火焰作用，即会引起剧烈燃烧，甚至转为爆轰。硝化甘油的爆速，根据卡斯特的研究为7450米/秒。对冲击摩擦的感度，根据柯克-奥斯莫的研究，以2公斤重的落锤进行10次试验中，引起爆炸的最小高度为15厘米。
 
 硝化甘油具有刺激性甜味，当人体呼吸到硝化甘油蒸气和皮肤与它接触时，会引起头痛和心跳。在操作过程中要避免人体直接与它接触。如发生中毒症状，可用茶叶、咖啡因或黑咖啡等进行解毒，也可到空气新鲜的地方休息一下。
 
@@ -52,13 +54,13 @@ $$
 
 在战争年代，解放区广大乡村中有较丰富的动植物油，尤其是植物油，如葵花籽油、大麻籽油、花生油、亚麻籽油和棉籽油等。由于人民群众的积极支持，甘油原料用之不尽，取之不竭。
 
-根据制取甘油的經驗來看，不論是植物油还是动物油均能提出合格的甘油。为了节约动物油脂，供給人民需要，多采用植物油制取甘油。其中以大麻籽油、核桃油、花生油較好，而棉籽油較差。
+根据制取甘油的经验来看，不论是植物油还是动物油均能提出合格的甘油。为了节约动物油脂，供给人民需要，多采用植物油制取甘油。其中以大麻籽油、核桃油、花生油较好，而棉籽油较差。
 
 提取甘油时，先将油脂制成钙皂，再由钙皂中洗出甘油，经过滤和浓缩即可制得合格的甘油。
 
 ### (一) 油脂皂化成钙皂
 
-油脂皂化的设备是利用民间煮飯用的大鉄鍋。先將鍋擦干净，將占鍋容积1/4～1/5的油脂經過称量後加入鍋中，在灶內徐徐生火加熱使溫度平穩上升，當鍋內物料的溫度上升到70～80℃時，將事先准备好的濃度為30%的氫氧化鈣乳狀液加入鍋中，其加入量为油脂加入量的17～18%。加入氫氧化鈣水溶液的時用木棒攪拌，鍋內物料溫度保持在70～80℃，這時油脂和氫氧化鈣溶液進行以下反应：
+油脂皂化的设备是利用民间煮饭用的大铁锅。先将锅擦干净，将占锅容积1/4～1/5的油脂经过称量后加入锅中，在灶内徐徐生火加热使温度平稳上升，当锅内物料的温度上升到70～80℃时，将事先准备好的浓度为30%的氢氧化钙乳状液加入锅中，其加入量为油脂加入量的17～18%。加入氢氧化钙水溶液的时用木棒搅拌，锅内物料温度保持在70～80℃，这时油脂和氢氧化钙溶液进行以下反应：
 
 $$
 \ce{
@@ -72,11 +74,11 @@ $$
 + 3 Ca(OH)2
 ->
 \begin{matrix}
-  \ce{RCOO)2Ca}\\
+  \ce{(RCOO)2Ca}\\
   \\
-  \ce{RCOO)2Ca}\\
+  \ce{(RCOO)2Ca}\\
   \\
-  \ce{RCOO)2Ca}
+  \ce{(RCOO)2Ca}
 \end{matrix}
 + 2 \begin{matrix}
   \ce{CH2OH}\\
@@ -93,43 +95,43 @@ $$
 <div style="text-align: center;">
 <img src="/baopojianyishengchanfa/images/img_in_image_box_179_962_878_1429.jpg" alt="Image" width="66%" />
 <p>1—铁锅；2—套圈；3—炉灶；4—隔火墙</p>
-<div style="text-align: center;">图16 油脂皂化鍋</div>
+<div style="text-align: center;">图16 油脂皂化锅</div>
 </div>
 
 皂化结束后，将料液用工具盛入可临时装配的活动槽中(如图 17 所示)，或凹形铁板上，待钙皂冷却后将槽的侧板拆下来，取出物料，破碎和磨成细粉。
 
-在制鈣皂过程中，加热油脂要注意防火，可采用图16所示的隔墙加热的方法。在安装鍋時应在鍋口的上部用木板或水泥制做一个套圈，避免当物料沸腾时濺出鍋外。油脂加热，溫度要徐徐上升，不能火力过猛，如温度骤然上升，易引起料液外溅。氢氧化钙水溶液加入的数量不宜过多或过少，过多则在甘油水中含的  $Ca(OH)_2$ 杂质多；过少则碱化不完全，物料发粘，甘油不易提出。
+在制钙皂过程中，加热油脂要注意防火，可采用图16所示的隔墙加热的方法。在安装锅时应在锅口的上部用木板或水泥制做一个套圈，避免当物料沸腾时溅出锅外。油脂加热，温度要徐徐上升，不能火力过猛，如温度骤然上升，易引起料液外溅。氢氧化钙水溶液加入的数量不宜过多或过少，过多则在甘油水中含的  $Ca(OH)_2$ 杂质多；过少则碱化不完全，物料发粘，甘油不易提出。
 
 <div style="text-align: center;">
 <img src="/baopojianyishengchanfa/images/img_in_image_box_479_251_916_527.jpg" alt="Image" width="41%" />
 <div style="text-align: center;">图17 装配槽 1—槽体；2—底板。</div>
 </div>
 
-### (二) 水洗鈣皂提出甘油
+### (二) 水洗钙皂提出甘油
 
-所制成的鈣皂由装配槽中卸出并破碎成小块，再用碾子压成細粉，愈細愈好。在缸或大盆內加入清水，再將鈣皂粉加入水中浸泡洗滌，使甘油溶于水中。当甘油水濃度达到12%以上时，就用孔徑不大于0.15毫米的篩网过滤，分离出不溶于水的鈣皂粉并除去甘油水中的机械杂质。甘油水經过滤後即可送去蒸发濃縮。
+所制成的钙皂由装配槽中卸出并破碎成小块，再用碾子压成细粉，愈细愈好。在缸或大盆内加入清水，再将钙皂粉加入水中浸泡洗涤，使甘油溶于水中。当甘油水浓度达到12%以上时，就用孔径不大于0.15毫米的筛网过滤，分离出不溶于水的钙皂粉并除去甘油水中的机械杂质。甘油水经过滤后即可送去蒸发浓缩。
 
 ### (三) 甘油水浓缩
 
 过滤后的甘油水浓度通常为 12～16%，但需使其浓度增大到 97% 以上，这一过程可分为两个工艺步骤进行。
 
-(1)先将稀甘油水倒入鍋或缸中，以火加热，控制物料溫度在100℃左右，使水分蒸发。此时适当掌握溫度，既能尽快濃縮，又不致沸騰翻起沉淀下去的鈣皂粉粒，进而提高甘油的质量。在鍋內的物料濃度一般可达到60%(沸点109.6℃)～70%(沸点114℃)。如使甘油濃度增加到95%以上，則物料溫度需在175℃以上。在常压的条件下，用鍋蒸发濃縮达不到目的，故先蒸发至60～70%。
+(1)先将稀甘油水倒入锅或缸中，以火加热，控制物料温度在100℃左右，使水分蒸发。此时适当掌握温度，既能尽快浓缩，又不致沸腾翻起沉淀下去的钙皂粉粒，进而提高甘油的质量。在锅内的物料浓度一般可达到60%(沸点109.6℃)～70%(沸点114℃)。如使甘油浓度增加到95%以上，则物料温度需在175℃以上。在常压的条件下，用锅蒸发浓缩达不到目的，故先蒸发至60～70%。
 
-<div style="text-align: center;">表11 甘油濃度(%)与甘油沸点的关系</div>
+<div style="text-align: center;">表11 甘油浓度(%)与甘油沸点的关系</div>
 
 <table border=1 style='margin: auto; word-wrap: break-word;'><tr><td rowspan="2">压力(毫米水银柱)</td><td rowspan="2">单位</td><td colspan="10">甘油浓度</td><td rowspan="2">水沸点</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10%</td><td style='text-align: center; word-wrap: break-word;'>20%</td><td style='text-align: center; word-wrap: break-word;'>30%</td><td style='text-align: center; word-wrap: break-word;'>40%</td><td style='text-align: center; word-wrap: break-word;'>50%</td><td style='text-align: center; word-wrap: break-word;'>60%</td><td style='text-align: center; word-wrap: break-word;'>70%</td><td style='text-align: center; word-wrap: break-word;'>80%</td><td style='text-align: center; word-wrap: break-word;'>90%</td><td style='text-align: center; word-wrap: break-word;'>95.64%</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>760.00</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>100.7</td><td style='text-align: center; word-wrap: break-word;'>100.6</td><td style='text-align: center; word-wrap: break-word;'>102.9</td><td style='text-align: center; word-wrap: break-word;'>104.5</td><td style='text-align: center; word-wrap: break-word;'>106.7</td><td style='text-align: center; word-wrap: break-word;'>109.6</td><td style='text-align: center; word-wrap: break-word;'>114.0</td><td style='text-align: center; word-wrap: break-word;'>121.5</td><td style='text-align: center; word-wrap: break-word;'>139.8</td><td style='text-align: center; word-wrap: break-word;'>175.8</td><td style='text-align: center; word-wrap: break-word;'>100</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>525.00</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>90.6</td><td style='text-align: center; word-wrap: break-word;'>91.5</td><td style='text-align: center; word-wrap: break-word;'>92.8</td><td style='text-align: center; word-wrap: break-word;'>94.2</td><td style='text-align: center; word-wrap: break-word;'>96.3</td><td style='text-align: center; word-wrap: break-word;'>99.3</td><td style='text-align: center; word-wrap: break-word;'>103.5</td><td style='text-align: center; word-wrap: break-word;'>114.3</td><td style='text-align: center; word-wrap: break-word;'>127.8</td><td style='text-align: center; word-wrap: break-word;'>161.1</td><td style='text-align: center; word-wrap: break-word;'>90</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>355.00</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>80.5</td><td style='text-align: center; word-wrap: break-word;'>81.4</td><td style='text-align: center; word-wrap: break-word;'>82.6</td><td style='text-align: center; word-wrap: break-word;'>84.0</td><td style='text-align: center; word-wrap: break-word;'>86.0</td><td style='text-align: center; word-wrap: break-word;'>88.8</td><td style='text-align: center; word-wrap: break-word;'>92.8</td><td style='text-align: center; word-wrap: break-word;'>99.3</td><td style='text-align: center; word-wrap: break-word;'>116.0</td><td style='text-align: center; word-wrap: break-word;'>146.0</td><td style='text-align: center; word-wrap: break-word;'>80</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>233.53</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>70.4</td><td style='text-align: center; word-wrap: break-word;'>71.2</td><td style='text-align: center; word-wrap: break-word;'>72.4</td><td style='text-align: center; word-wrap: break-word;'>73.7</td><td style='text-align: center; word-wrap: break-word;'>75.6</td><td style='text-align: center; word-wrap: break-word;'>78.5</td><td style='text-align: center; word-wrap: break-word;'>82.2</td><td style='text-align: center; word-wrap: break-word;'>88.3</td><td style='text-align: center; word-wrap: break-word;'>104.0</td><td style='text-align: center; word-wrap: break-word;'>132.1</td><td style='text-align: center; word-wrap: break-word;'>70</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>149.19</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>60.3</td><td style='text-align: center; word-wrap: break-word;'>61.0</td><td style='text-align: center; word-wrap: break-word;'>62.2</td><td style='text-align: center; word-wrap: break-word;'>63.5</td><td style='text-align: center; word-wrap: break-word;'>65.5</td><td style='text-align: center; word-wrap: break-word;'>68.1</td><td style='text-align: center; word-wrap: break-word;'>71.5</td><td style='text-align: center; word-wrap: break-word;'>77.3</td><td style='text-align: center; word-wrap: break-word;'>92.0</td><td style='text-align: center; word-wrap: break-word;'>117.6</td><td style='text-align: center; word-wrap: break-word;'>60</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>92.30</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>50.7</td><td style='text-align: center; word-wrap: break-word;'>50.9</td><td style='text-align: center; word-wrap: break-word;'>52.1</td><td style='text-align: center; word-wrap: break-word;'>53.4</td><td style='text-align: center; word-wrap: break-word;'>55.2</td><td style='text-align: center; word-wrap: break-word;'>57.6</td><td style='text-align: center; word-wrap: break-word;'>61.0</td><td style='text-align: center; word-wrap: break-word;'>66.2</td><td style='text-align: center; word-wrap: break-word;'>80.1</td><td style='text-align: center; word-wrap: break-word;'>103.1</td><td style='text-align: center; word-wrap: break-word;'>50</td></tr></table>
 
-(2)經濃縮至60～70%的甘油，用工具掏入瓷盆里，在火炕●式的沙盘上进一步蒸发濃縮。蒸发濃縮甘油的裝置是在火炕上放置一层厚度一定的砂子做为傳热介质，再將盛有甘油的瓷盆置于砂中，如图18所示。
+(2)经浓缩至60～70%的甘油，用工具掏入瓷盆里，在火炕●式的沙盘上进一步蒸发浓缩。蒸发浓缩甘油的装置是在火炕上放置一层厚度一定的砂子做为传热介质，再将盛有甘油的瓷盆置于砂中，如图18所示。
 
 <div style="text-align: center;">
 <img src="/baopojianyishengchanfa/images/img_in_image_box_191_880_896_1263.jpg" alt="Image" width="67%" />
-<div style="text-align: center;">1—磁盘；2—甘油；3—砂子；4—土坯或磚砌的火炕</div>
+<div style="text-align: center;">1—磁盘；2—甘油；3—砂子；4—土坯或砖砌的火炕</div>
 <div style="text-align: center;">图18 甘油蒸滤砂盘</div>
 </div>
 
 在火炕的一端加火，使砂子的温度升高，盆中的甘油即逐渐蒸浓并需保持温度平稳上升，这一阶段需3～5天。在蒸浓的同时，物料中的游离钙皂和其他微量杂质沉淀，使甘油与沉淀物以及杂质自行分开。用工具将甘油取出则沉淀物和杂质残留于盆底，这样可制出较纯的甘油。
 
-已經蒸濃合格的甘油可以直接用于硝化，也可以裝入洁净密封的桶中，放置於干燥的地方。甘油在低溫时会凝結成晶体(如98.2%的甘油凝固点為13.5℃)，結晶的甘油对硝化甘油制造过程中的安全有影响，所以存放甘油地点的溫度不宜低于15℃。
+已经蒸浓合格的甘油可以直接用于硝化，也可以装入洁净密封的桶中，放置于干燥的地方。甘油在低温时会凝结成晶体(如98.2%的甘油凝固点为13.5℃)，结晶的甘油对硝化甘油制造过程中的安全有影响，所以存放甘油地点的温度不宜低于15℃。
 
 ## 4 硝化甘油制造
 
@@ -143,7 +145,7 @@ $$
 |:-------|-------------|
 | 硝酸   | 48～50%      |
 | 硫酸   | 49～51%      |
-| 水     | ≥ 1%         |
+| 水     | ≤ 1%         |
 
 混酸与甘油的投料比，按重量比为7:1。硝化所使用的硝酸比重要求在1.50以上，硫酸比重为1.84以上。原料酸测定比重后，按配比要求称量，配制混酸。
 
@@ -157,15 +159,29 @@ $$
 <div style="text-align: center;">图19 配酸装置</div>
 </div>
 
+```mermaid
+flowchart TD
+    A["硝酸(HNO₃)"] --> C[配混酸]
+    B["发烟硫酸(H₂SO₄·SO₃)"] --> C
+    D[甘油准备] --> E[硝化]
+    C --> E
+    E --> F[分离]
+    G[洗涤水准备] --> H[洗涤]
+    F --> H
+    H --> I[成品]
+    H --> J[废水沉淀]
+    J --> K[废水排出]
+    J --> L[沉淀物定期销毁]
+```
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_190_208_854_874.jpg" alt="Image" width="63%" />
+<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_190_208_854_874.jpg" alt="Image" width="63%" /> -->
 <div style="text-align: center;">流程 3 硝化甘油制造流程</div>
 </div>
 
 配酸过程中由于放热作用，使物料温度升高，此时酸量有所损耗。为了减少酸量损耗，就需降温冷却。在当时是采用冷水槽来降低料液温度。
 
-酸全部加完后继續攪拌 15～20 分钟，再令其靜置 72 小时以上，使酸中杂质充分沉淀。配制合格的混酸即可送去硝化使用。
+酸全部加完后继续搅拌 15～20 分钟，再令其静置 72 小时以上，使酸中杂质充分沉淀。配制合格的混酸即可送去硝化使用。
 
 ### (二) 甘油准备
 
@@ -179,11 +195,11 @@ $$
 C_3H_5(OH)_3 + 3HNO_3 \longrightarrow C_3H_5(ONO_2)_3 + 3H_2O 
 $$
 
-由上式可见，每 100 公斤甘油(100% 計)完全硝化，在理論計算上可生成 246.7 公斤的硝化甘油和 58.7 公斤的水，而需要硝酸为 205 公斤(硝酸量以 100% 計)。在硝化过程中硫酸不直接参加反应，而起脱水作用。
+由上式可见，每 100 公斤甘油(100% 计)完全硝化，在理论计算上可生成 246.7 公斤的硝化甘油和 58.7 公斤的水，而需要硝酸为 205 公斤(硝酸量以 100% 计)。在硝化过程中硫酸不直接参加反应，而起脱水作用。
 
 甘油硝化过程应控制硝化温度不超过 23℃。如温度上升到 25℃，即会产生大量棕烟，温度继续上升，就有引起爆炸的危险。加料时向酸中加入甘油，顺序不能颠倒。在硝化过程中甘油与混酸作用放出热量(1公斤甘油硝化时放出193.9仟卡热量)。同时硝化反应所生成的水将混酸冲淡也产生稀释热，使物料温度升高。为降低硝化温度，除控制加入甘油的速度和充分的搅拌外，还需要进行冷却。
 
-在战争年代，要求设备輕巧、生产灵活机动和投产快。因此当时选用搪瓷盆或陶瓷盆做为甘油的硝化容器。瓷盆来源广泛，既耐酸腐蚀，又移动方便，产量和盆的数量都不受条件限制。晴天时硝化作业就在河沟或泉水旁进行操作，利用河水或泉水做为冷却水。有时干脆将小船划到河的中央，在船上办起硝化甘油制造“工厂”，用河水降温冷却。当风雨天或严冬季节，就在室内作业。
+在战争年代，要求设备轻巧、生产灵活机动和投产快。因此当时选用搪瓷盆或陶瓷盆做为甘油的硝化容器。瓷盆来源广泛，既耐酸腐蚀，又移动方便，产量和盆的数量都不受条件限制。晴天时硝化作业就在河沟或泉水旁进行操作，利用河水或泉水做为冷却水。有时干脆将小船划到河的中央，在船上办起硝化甘油制造“工厂”，用河水降温冷却。当风雨天或严冬季节，就在室内作业。
 
 进行硝化作业时，首先将已准备好的混酸使其温度降低到 10℃ 以下，最高也不超过 17℃。为了控制温度，当时没有采用人工制冷设备，而是选择每一天中气温较低的时间来进行硝化作业，如清晨水温、气温较低，适合硝化作业。先将称量好的混酸倒入事先准备妥当的表面光洁的搪瓷盆或陶瓷盆中。再将准备好的甘油呈线状缓慢地加入混酸中(最好是以雾状喷入)，加入甘
 
@@ -193,23 +209,23 @@ $$
 <div style="text-align: center;">图20 硝化槽</div>
 </div>
 
-油的同时，用棒(玻璃、铝、橡皮均可)迅速的攪拌，并密切地观测硝化液温度的变化，如温度上升到 22℃ 时应立即停止加入甘油，待温度下降后再继续加甘油操作。当温度上升到 23℃ 时，应加强攪拌使温度降低。若温度一直上升到 25℃ 并有棕烟和气泡出现时，则应迅速地把硝化液倒入水中。在室内作业时，硝化前就应将盆置于有水的木槽托板上，当温度上升到 25℃ 时，将盆倾倒水中；若在室外作业时，就将硝化液和盆一起倒入河水或泉水中以免发生事故。
+油的同时，用棒(玻璃、铝、橡皮均可)迅速的搅拌，并密切地观测硝化液温度的变化，如温度上升到 22℃ 时应立即停止加入甘油，待温度下降后再继续加甘油操作。当温度上升到 23℃ 时，应加强搅拌使温度降低。若温度一直上升到 25℃ 并有棕烟和气泡出现时，则应迅速地把硝化液倒入水中。在室内作业时，硝化前就应将盆置于有水的木槽托板上，当温度上升到 25℃ 时，将盆倾倒水中；若在室外作业时，就将硝化液和盆一起倒入河水或泉水中以免发生事故。
 
 按上述过程将甘油全部加完后，再继续搅拌3～5分钟，整个硝化过程就告结束。
 
-硝化过程结束后，硝化甘油和痠酸由于比重不同而自行分开(硝化甘油比重为1.6, 外观为油状透明体, 硝化痠酸比重为1.7)。用勺或虹吸管把硝化甘油取出，送去洗涤。
+硝化过程结束后，硝化甘油和酸酸由于比重不同而自行分开(硝化甘油比重为1.6, 外观为油状透明体, 硝化酸酸比重为1.7)。用勺或虹吸管把硝化甘油取出，送去洗涤。
 
 硝化作业是硝化甘油制造中的主要工序。操作是否正常直接影响到产品质量、得率和生产安全。所以对硝化的操作提出以下注意事项：
 
 >(1) 硝化前要检查混酸的成分是否合格，酸量是否正确；
 
->(2)硝化前要檢查甘油的溫度與质量，如发现有凝結現象，甘油就不能采用；
+>(2)硝化前要检查甘油的温度与质量，如发现有凝结现象，甘油就不能采用；
 
->(3)硝化前要檢查所使用的器皿是否清洁完整，溫度計是否正确可靠；
+>(3)硝化前要检查所使用的器皿是否清洁完整，温度计是否正确可靠；
 
->(4)投料时应先加混酸，然后将甘油緩緩地加入混酸中，加料速度不能过快，加料次序不能颠倒；
+>(4)投料时应先加混酸，然后将甘油缓缓地加入混酸中，加料速度不能过快，加料次序不能颠倒；
 
->(5)甘油加入时不能停止攪拌；
+>(5)甘油加入时不能停止搅拌；
 
 >(6) 硝化过程中要密切注意并掌握温度变化;
 
@@ -235,11 +251,11 @@ $$
 | 第四次洗涤  | 2.5～3%浓度的碳酸钠水溶液 | 40～50℃      | 5～8分钟 |
 | 第五次洗涤  | 净水                    | 30～35℃       | —       |
 
-洗滌操作的具体步骤为：将待洗滌的硝化甘油盛于瓷盆内，先以温度不高于 25℃ 的温水洗滌，边洗滌，边攪拌，攪拌的工具可用玻璃棒或橡皮棒；然后再用 30~35℃ 和 40~45℃ 的溫水各洗一遍。为了中和物料中的殘酸，再用濃度为 2.5~3% 的碳酸鈉水洗滌一次。碱水洗滌後，最后再用 30~50℃ 的溫水洗滌一次，以除去磚份。
+洗涤操作的具体步骤为：将待洗涤的硝化甘油盛于瓷盆内，先以温度不高于 25℃ 的温水洗涤，边洗涤，边搅拌，搅拌的工具可用玻璃棒或橡皮棒；然后再用 30~35℃ 和 40~45℃ 的温水各洗一遍。为了中和物料中的残酸，再用浓度为 2.5~3% 的碳酸钠水洗涤一次。碱水洗涤后，最后再用 30~50℃ 的温水洗涤一次，以除去碱份。
 
 在硝化甘油的洗涤过程中，搅拌要轻，不要剧烈搅动，防止冲击摩擦或将硝化甘油溅到盆外。洗涤后的产品，经充分静置后，若有仪器可进行阿贝尔安定度试验(试验时，以温度为75℃，碘化钾淀粉试纸变色时间不少于15分钟为合格)。所制成的炸药，若不长期保存，也可采用石蕊试纸进行鉴定。
 
-洗滌后的硝化甘油在表面上还残存有一部分洗滌水，可用勺将水排出。所制得的产品即为硝化甘油液体炸药。
+洗涤后的硝化甘油在表面上还残存有一部分洗涤水，可用勺将水排出。所制得的产品即为硝化甘油液体炸药。
 
 洗涤也是硝化甘油制造过程中的一个比较主要工序，为保证质量和安全应注意以下各项：
 
@@ -255,7 +271,7 @@ $$
 
 硝化甘油受阳光作用，也易分解，存放产品的地点要防止阳光直接照射。
 
-制造硝化甘油过程中，要注意避免硝化甘油撒落在地上或其它物件上。若撒出的量少时，可先用湿布輕輕擦淨，再用酒精碱液处理；如撒出量較大，先用木粉將甘油吸收，再用湿布擦淨和酒精碱液处理。
+制造硝化甘油过程中，要注意避免硝化甘油撒落在地上或其它物件上。若撒出的量少时，可先用湿布轻轻擦净，再用酒精碱液处理；如撒出量较大，先用木粉将甘油吸收，再用湿布擦净和酒精碱液处理。
 
 酒精碱液的配方为
 
@@ -265,11 +281,11 @@ $$
 
 >(3)水
 
-因含有杂质或由于其他原因而不能使用的硝化甘油应及时毁掉。销毁可用十倍于硝化甘油量的木粉将硝化甘油吸收，然后在处理場地上将它撒成一条直線，操作人員站在上風方向点火，将它燒毀。
+因含有杂质或由于其他原因而不能使用的硝化甘油应及时毁掉。销毁可用十倍于硝化甘油量的木粉将硝化甘油吸收，然后在处理场地上将它撒成一条直线，操作人员站在上风方向点火，将它烧毁。
 
 洗涤硝化甘油的废水，不要排在工作地点附近，最好用一个大缸收集起来，经充分沉淀再排出；沉淀出的硝化甘油，如不含杂质，经净水洗涤后仍可使用。
 
-在艰苦的战争年代，就是采用上述办法制造出了硝化甘油高緻炸药。有了它就打开了制造炸药的大門，配制出多种多样的以硝化甘油为敏感剂的混合炸药，如周氏炸药，硝化甘油和麻杆炭粉混合物，硝化甘油强棉炸药及含有硝化甘油的硝酸铵类炸药等。
+在艰苦的战争年代，就是采用上述办法制造出了硝化甘油高致炸药。有了它就打开了制造炸药的大门，配制出多种多样的以硝化甘油为敏感剂的混合炸药，如周氏炸药，硝化甘油和麻杆炭粉混合物，硝化甘油强棉炸药及含有硝化甘油的硝酸铵类炸药等。
 
 <div style="text-align: center;">表13 甘油比重浓度换算表(19.6℃时)</div>
 
@@ -290,7 +306,7 @@ $$
 | 1.264  | 99.49 | 99.53 | 99.56 | 99.60 | 99.64 | 99.68 | 99.72 | 99.76 | 99.80 | 99.84 |
 | 1.265  | 99.88 | 99.92 | 99.96 | 10.000|       |       |       |       |       |       |
 
-<div style="text-align: center;">表14 硫酸的比重与濃度表(15℃时)</div>
+<div style="text-align: center;">表14 硫酸的比重与浓度表(15℃时)</div>
 
 | 比重   | $H_2SO_4(\%)$ | 比重   | $H_2SO_4(\%)$ | 比重   | $H_2SO_4(\%)$ |
 |--------|---------------|--------|---------------|--------|---------------|
