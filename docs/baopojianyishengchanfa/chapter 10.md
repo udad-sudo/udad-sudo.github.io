@@ -28,9 +28,9 @@ $$ P_4+5O_2\longrightarrow2P_2O_5 $$
 
 $$ \beginaligned&P_2O_5+H_2O\xrightarrow\quad2HPO_3\ ( 偏磷酸 )\\ &P_2O_5+2H_2O\xrightarrow\quadH_4P_2O_7\ ( 焦磷酸 )\\ &P_2O_5+3H_2O\xrightarrow\quad2H_3PO_4\ ( 正磷酸 )\\ \endaligned $$ 
 
-黄磷有剧毒，誤食0.1克即能使人致死。因此，从事黄磷的有关操作时，要特别注意。
+黄磷有剧毒，误食0.1克即能使人致死。因此，从事黄磷的有关操作时，要特别注意。
 
-抗战时期以磷装填的手榴弹、燃燒罐和燃燒盒等，均属于近战武器。手榴彈在爆炸时可产生大量烟雾和热能，燒伤敌人的有生力量。燃燒盒和燃燒罐等主要用于纵火，可以迅速的点燃草堆、草房、木质桥梁和一切易燃燒材料制成的建筑物和构筑物。因此，以磷装药的武器主要作用为：(1)用于伪装，制造烟幕迷惑敌人；(2)杀伤有生力量，当燃烧弹或地雷爆炸时磷的颗粒四处喷射，在空气中燃烧，落在衣服或皮肤上立即引起烧伤；(3)对易燃烧材料的目标纵火。
+抗战时期以磷装填的手榴弹、燃烧罐和燃烧盒等，均属于近战武器。手榴弹在爆炸时可产生大量烟雾和热能，烧伤敌人的有生力量。燃烧盒和燃烧罐等主要用于纵火，可以迅速的点燃草堆、草房、木质桥梁和一切易燃烧材料制成的建筑物和构筑物。因此，以磷装药的武器主要作用为：(1)用于伪装，制造烟幕迷惑敌人；(2)杀伤有生力量，当燃烧弹或地雷爆炸时磷的颗粒四处喷射，在空气中燃烧，落在衣服或皮肤上立即引起烧伤；(3)对易燃烧材料的目标纵火。
 
 ## (二)氯酸钾与硫酸点火剂
 
@@ -40,24 +40,24 @@ $$ \beginaligned&P_2O_5+H_2O\xrightarrow\quad2HPO_3\ ( 偏磷酸 )\\ &P_2O_5+2H_
 
 $$  2KClO_3\longrightarrow2KCl+3O_2 $$ 
 
-氯酸鉀易溶于水，微溶于醇，在水中的溶解度如表 34 所示。
+氯酸钾易溶于水，微溶于醇，在水中的溶解度如表 34 所示。
 
 <div style="text-align: center;"><div style="text-align: center;">表34 氯酸钾在水中的溶解度</div> </div>
 
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>水温 (°C)</td><td style='text-align: center; word-wrap: break-word;'>溶解氨酸鉀%</td><td style='text-align: center; word-wrap: break-word;'>水温 (°C)</td><td style='text-align: center; word-wrap: break-word;'>溶解氯酸鉀%</td><td style='text-align: center; word-wrap: break-word;'>水温 (°C)</td><td style='text-align: center; word-wrap: break-word;'>溶解氯酸鉀%</td><td style='text-align: center; word-wrap: break-word;'>水温 (°C)</td><td style='text-align: center; word-wrap: break-word;'>溶解氯酸鉀%</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>0</td><td style='text-align: center; word-wrap: break-word;'>3.2</td><td style='text-align: center; word-wrap: break-word;'>30</td><td style='text-align: center; word-wrap: break-word;'>9.2</td><td style='text-align: center; word-wrap: break-word;'>60</td><td style='text-align: center; word-wrap: break-word;'>20.6</td><td style='text-align: center; word-wrap: break-word;'>90</td><td style='text-align: center; word-wrap: break-word;'>32.3</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10</td><td style='text-align: center; word-wrap: break-word;'>4.8</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>12.7</td><td style='text-align: center; word-wrap: break-word;'>70</td><td style='text-align: center; word-wrap: break-word;'>24.5</td><td style='text-align: center; word-wrap: break-word;'>100</td><td style='text-align: center; word-wrap: break-word;'>36.0</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>6.8</td><td style='text-align: center; word-wrap: break-word;'>50</td><td style='text-align: center; word-wrap: break-word;'>16.5</td><td style='text-align: center; word-wrap: break-word;'>80</td><td style='text-align: center; word-wrap: break-word;'>28.4</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>水温 (°C)</td><td style='text-align: center; word-wrap: break-word;'>溶解氨酸钾%</td><td style='text-align: center; word-wrap: break-word;'>水温 (°C)</td><td style='text-align: center; word-wrap: break-word;'>溶解氯酸钾%</td><td style='text-align: center; word-wrap: break-word;'>水温 (°C)</td><td style='text-align: center; word-wrap: break-word;'>溶解氯酸钾%</td><td style='text-align: center; word-wrap: break-word;'>水温 (°C)</td><td style='text-align: center; word-wrap: break-word;'>溶解氯酸钾%</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>0</td><td style='text-align: center; word-wrap: break-word;'>3.2</td><td style='text-align: center; word-wrap: break-word;'>30</td><td style='text-align: center; word-wrap: break-word;'>9.2</td><td style='text-align: center; word-wrap: break-word;'>60</td><td style='text-align: center; word-wrap: break-word;'>20.6</td><td style='text-align: center; word-wrap: break-word;'>90</td><td style='text-align: center; word-wrap: break-word;'>32.3</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10</td><td style='text-align: center; word-wrap: break-word;'>4.8</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>12.7</td><td style='text-align: center; word-wrap: break-word;'>70</td><td style='text-align: center; word-wrap: break-word;'>24.5</td><td style='text-align: center; word-wrap: break-word;'>100</td><td style='text-align: center; word-wrap: break-word;'>36.0</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>6.8</td><td style='text-align: center; word-wrap: break-word;'>50</td><td style='text-align: center; word-wrap: break-word;'>16.5</td><td style='text-align: center; word-wrap: break-word;'>80</td><td style='text-align: center; word-wrap: break-word;'>28.4</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
 
-氯酸鉀不易吸湿，在溫度  $ 20^\circ $C 时，氯酸鉀飽和溶液的相對湿度為97%。
+氯酸钾不易吸湿，在温度  $ 20℃ 时，氯酸钾饱和溶液的相对湿度为97%。
 
-氯酸钾加热至  $ 356^\circ $C 时，开始溶化并逸出氧气，加热至  $ 550^\circ $C 时逸出全部氧。氯酸钾遇强酸即分解，发生猛烈的爆炸。因此，利用这种化学特性来装填燃烧罐和燃烧瓶。
+氯酸钾加热至  $ 356℃ 时，开始溶化并逸出氧气，加热至  $ 550℃ 时逸出全部氧。氯酸钾遇强酸即分解，发生猛烈的爆炸。因此，利用这种化学特性来装填燃烧罐和燃烧瓶。
 
-氯酸钾中如含有可燃的杂质(如碳、磷、硫、紙或淀粉)，则化学安定性受到影响，而机械敏感度会有很大程度的增加。含有可燃性杂质的氯酸钾在加热或研磨中可能产生爆炸，因此，氯酸钾在加工时，不能混合入可燃性杂质及其他机械杂质。
+氯酸钾中如含有可燃的杂质(如碳、磷、硫、纸或淀粉)，则化学安定性受到影响，而机械敏感度会有很大程度的增加。含有可燃性杂质的氯酸钾在加热或研磨中可能产生爆炸，因此，氯酸钾在加工时，不能混合入可燃性杂质及其他机械杂质。
 
 ## (三) 胶化油料
 
-有机易燃物的种类很多，如各种树脂、瀝青、松香和石蜡等。然而这些物质均不适用于作为纵火材料。最有价值的纵火材料是易燃的液体汽油或煤油及苯类。但易燃液体油料的流动性很大，对燃烧的效应有影响，也给装填工作增加了困难，需将易燃液体材料加工成半液态或胶状。为了得到良好的使用效果，要求凝固油料(1)挥发性小，(2)易于引燃，(3)热效应大，(4)燃烧温度高，(5)在运输保存中不变质。
+有机易燃物的种类很多，如各种树脂、沥青、松香和石蜡等。然而这些物质均不适用于作为纵火材料。最有价值的纵火材料是易燃的液体汽油或煤油及苯类。但易燃液体油料的流动性很大，对燃烧的效应有影响，也给装填工作增加了困难，需将易燃液体材料加工成半液态或胶状。为了得到良好的使用效果，要求凝固油料(1)挥发性小，(2)易于引燃，(3)热效应大，(4)燃烧温度高，(5)在运输保存中不变质。
 
 凝固油料的方法，可采用如图 125 的装置。
 
@@ -67,9 +67,9 @@ $$  2KClO_3\longrightarrow2KCl+3O_2 $$
 <div style="text-align: center;"><div style="text-align: center;">图125 胶化油料装置</div> </div>
 
 
-图中所示的鋼槽可用鋁槽代替，在槽与缸之間充滿热水。
+图中所示的钢槽可用铝槽代替，在槽与缸之间充满热水。
 
-所采用的原料为煤油55%，汽油40%，硬脂酸5%。将物料按上述比例称取后，加入反应槽内，使物料加温至70℃，边加入1—陶缸；2—鋼槽；3—物料；4—热水。物料边攪拌，物料全部加完后，在攪拌的条件下再加入飽和的苛性鋼酒精溶液(苛性鋼0.5%；酒精15%，此数值并不计算在装料混合物的比例之内)。物料温度保持在70℃，继续攪拌1小时，经自然降温后，即成为胶状体。
+所采用的原料为煤油55%，汽油40%，硬脂酸5%。将物料按上述比例称取后，加入反应槽内，使物料加温至70℃，边加入1—陶缸；2—钢槽；3—物料；4—热水。物料边搅拌，物料全部加完后，在搅拌的条件下再加入饱和的苛性钢酒精溶液(苛性钢0.5%；酒精15%，此数值并不计算在装料混合物的比例之内)。物料温度保持在70℃，继续搅拌1小时，经自然降温后，即成为胶状体。
 
 
 
@@ -85,15 +85,15 @@ A型燃烧瓶是最简易的一种，这种燃烧瓶的外壳采用的是<div st
 <div style="text-align: center;"><div style="text-align: center;">图126 燃烧瓶</div> </div>
 
 
-1—橡皮塞；2—橡皮塞；3—汽油；4—硫酸；5—玻璃管；6—玻璃瓶；7—氯酸钾；8—緩燃綫；9—黄磷；10—油紙。
+1—橡皮塞；2—橡皮塞；3—汽油；4—硫酸；5—玻璃管；6—玻璃瓶；7—氯酸钾；8—缓燃线；9—黄磷；10—油纸。
 
-玻璃瓶，在瓶中装入汽油，盖上橡皮塞，通过塞上的孔，插入一根緩燃綫并固定好，緩燃綫的长度根据其燃燒速度和投擲的距离来決定。A型的燃燒瓶不能自燃发火，使用时將緩燃綫点着，在投擲飞行中，緩燃綫將汽油点燃，碰击目标時玻璃瓶被打碎，汽油开始燃燒，引燃目标起火。这种燃燒瓶虽然发火方式比較原始，但結構簡單，制造容易。
+玻璃瓶，在瓶中装入汽油，盖上橡皮塞，通过塞上的孔，插入一根缓燃线并固定好，缓燃线的长度根据其燃烧速度和投掷的距离来决定。A型的燃烧瓶不能自燃发火，使用时将缓燃线点着，在投掷飞行中，缓燃线将汽油点燃，碰击目标时玻璃瓶被打碎，汽油开始燃烧，引燃目标起火。这种燃烧瓶虽然发火方式比较原始，但结构简单，制造容易。
 
-B型燃烧瓶属于自燃发火的一种。外壳是一个玻璃瓶，在瓶中装入汽油，每一立升汽油内加入40～50克的粉状氯酸钾，然后塞上带有玻璃管的橡皮塞。玻璃管内充入40～50立方厘米的比重为1.84的濃硫酸，在玻璃管上再盖一个橡皮塞以免酸液外溢。这种燃烧瓶的使用时不需点火，命中目标后，燃烧瓶破碎，瓶内装濃硫酸的玻璃管也被撞碎，濃硫酸即与汽油中的氯酸钾发生作用，当即起火点燃四处流散的汽油，烧毁目标。
+B型燃烧瓶属于自燃发火的一种。外壳是一个玻璃瓶，在瓶中装入汽油，每一立升汽油内加入40～50克的粉状氯酸钾，然后塞上带有玻璃管的橡皮塞。玻璃管内充入40～50立方厘米的比重为1.84的浓硫酸，在玻璃管上再盖一个橡皮塞以免酸液外溢。这种燃烧瓶的使用时不需点火，命中目标后，燃烧瓶破碎，瓶内装浓硫酸的玻璃管也被撞碎，浓硫酸即与汽油中的氯酸钾发生作用，当即起火点燃四处流散的汽油，烧毁目标。
 
 C型燃烧瓶又称为黄磷燃烧瓶，瓶内装填的液体，本身就是自燃材料，不需借助其他材料发火点燃。它是采用一个玻璃瓶，里面装一些黄磷，磷的表面上注清水，避免磷与空气接触。当命中目标时，瓶体被打碎，磷即在空气中燃烧，引起目标的燃烧。这种燃烧瓶在燃烧时，伴有大量的白色烟幕。黄磷燃烧瓶是燃烧瓶中较理想的一种。
 
-D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用濃硫酸与氯酸钾作用而发火的。燃烧瓶的外壳是一个玻璃瓶，在橡皮塞的中央装一支盛有濃硫酸的玻璃管。在玻璃管的周围包以油紙或塑料薄膜，玻璃管与紙的中間裝有氯酸鉀細粉。当命中目标时，玻璃管與玻璃瓶撞碎，硫酸與氯酸鉀作用起火，点燃瓶中汽油，引起目标的燃燒。
+D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用浓硫酸与氯酸钾作用而发火的。燃烧瓶的外壳是一个玻璃瓶，在橡皮塞的中央装一支盛有浓硫酸的玻璃管。在玻璃管的周围包以油纸或塑料薄膜，玻璃管与纸的中间装有氯酸钾细粉。当命中目标时，玻璃管与玻璃瓶撞碎，硫酸与氯酸钾作用起火，点燃瓶中汽油，引起目标的燃烧。
 
 上述各种燃烧瓶，尺寸可大可小，形状不限，只是装填后，瓶口塞子要求密封，以免油料及硫酸外溢。
 
@@ -113,7 +113,7 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用濃硫酸与氯
 <div style="text-align: center;"><div style="text-align: center;">图127 燃烧手榴弹 1—黄磷或胶化油料。</div> </div>
 
 
-由木柄、彈壳和拉火裝置三个部分組成。木柄和拉火裝置與木柄糸併手榴彈完全相同。只是彈壳材料和彈头裝药有所不同。燃燒手榴彈的壳体材料是采用0.7～1毫米厚的鉄皮(最好是鍍鉾鉄皮)，药是采用黃磷和胶化油料。胶化油料的裝药比較簡單，只是称取一定数量的胶化油料裝入彈壳，然后再與装有拉火裝置的木柄合裝在一起，其合裝的方法與糸併手榴彈同。裝填黃磷需采用注裝法。燃燒手榴彈的构造如图127所示。## (二) 熔磷
+由木柄、弹壳和拉火装置三个部分组成。木柄和拉火装置与木柄糸并手榴弹完全相同。只是弹壳材料和弹头装药有所不同。燃烧手榴弹的壳体材料是采用0.7～1毫米厚的鉄皮(最好是镀𫓴鉄皮)，药是采用黄磷和胶化油料。胶化油料的装药比较简单，只是称取一定数量的胶化油料装入弹壳，然后再与装有拉火装置的木柄合装在一起，其合装的方法与糸并手榴弹同。装填黄磷需采用注装法。燃烧手榴弹的构造如图127所示。## (二) 熔磷
 
 进厂的黄磷是块状，一般均保存在清水中，使用时需将磷熔化。在战争年代里，由于设备条件所限，磷的熔化是用热水槽来进行的，其构造如图 128 所示。
 
@@ -135,7 +135,7 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用濃硫酸与氯
 
 ## (三) 注磷
 
-彈壳注磷的方法是，先将彈壳准备好，倒置于水槽的固定托板上，在彈壳內先充入1/2的淨水。注磷的工具采用鉄壺，在鉄壺里先加入1/3的60～80℃的热水，然后由熔磷槽中将磷通过出料管裝入鉄壺中，操作人員戴好防毒面具和胶皮手套，然后进行澆注。
+弹壳注磷的方法是，先将弹壳准备好，倒置于水槽的固定托板上，在弹壳内先充入1/2的净水。注磷的工具采用鉄壶，在鉄壶里先加入1/3的60～80℃的热水，然后由熔磷槽中将磷通过出料管装入鉄壶中，操作人员戴好防毒面具和胶皮手套，然后进行浇注。
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5477f17b-b624-4a13-aea6-5ccbf7332782/markdown_1/imgs/img_in_image_box_150_1222_397_1416.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A14Z%2F-1%2F%2F12468c34e253e771821a4f064e34f5ef3469c2a7f643f4a28993911489ab6c42" alt="Image" width="23%" /></div>
 
@@ -151,9 +151,9 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用濃硫酸与氯
 
 1—黄磷；2—弹壳。利用黄磷和水的不同，用黄磷将弹壳中的水置换出来(如图129所示)。这样可避免黄磷与空气接触发生自燃。
 
-注磷时，操作要迅速准确，不要使黄磷溢出壳外。黄磷注装完毕后，立即将准备好的弹壳底盖旋上扦擰紧。为了很好地进行密封，弹壳底盖的螺纹应先塗上一层鉛丹油，然后再旋入壳体上。
+注磷时，操作要迅速准确，不要使黄磷溢出壳外。黄磷注装完毕后，立即将准备好的弹壳底盖旋上扦拧紧。为了很好地进行密封，弹壳底盖的螺纹应先涂上一层铅丹油，然后再旋入壳体上。
 
-旋好底盖的弹头，将外表面擦拭干净，在螺纹结合处再塗上一层密封剂。經檢驗合格後，可與帶有拉火裝置的彈柄合裝。裝配的方法與糸飭手榴彈相同。
+旋好底盖的弹头，将外表面擦拭干净，在螺纹结合处再涂上一层密封剂。经检验合格后，可与带有拉火装置的弹柄合装。装配的方法与糸饬手榴弹相同。
 
 弹头与弹柄合装前，对弹头要进行密封性检验。检验时，将已装磷的弹头置于干燥室的干燥架上，在室温60℃的条件下加温1小时，加温时如发现有白烟，说明有磷漏出；没有白烟发生就为合格品。
 
@@ -161,7 +161,7 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用濃硫酸与氯
 
 ##### 5 燃烧地雷制造法
 
-燃烧地雷主要是由燃烧桶、炸药包(或黑火药包)及拉火机构所组成。燃烧地雷的发火方式一般均采用拉火，拉火的构造与杀伤地雷拉火机构完全相同(詳見第九章)。
+燃烧地雷主要是由燃烧桶、炸药包(或黑火药包)及拉火机构所组成。燃烧地雷的发火方式一般均采用拉火，拉火的构造与杀伤地雷拉火机构完全相同(详见第九章)。
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5477f17b-b624-4a13-aea6-5ccbf7332782/markdown_2/imgs/img_in_image_box_103_1170_530_1380.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A15Z%2F-1%2F%2F52b32991f63a1e9d7621eca04b49a7b567af26d105f923fca1cd1ee15e650d1c" alt="Image" width="40%" /></div>
 
@@ -189,6 +189,6 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用濃硫酸与氯
 
 (如图132所示)。
 
-在盒里先充入 1/3 的水，再注入 2/3 的黄磷。将盒盖擰紧后即可使用。使用时，将盒两端的螺盖全擰下来，然后向目标投擲。当盒中的水排出后，磷即与空气接触开始燃烧并喷出火焰，以点燃目标。
+在盒里先充入 1/3 的水，再注入 2/3 的黄磷。将盒盖拧紧后即可使用。使用时，将盒两端的螺盖全拧下来，然后向目标投掷。当盒中的水排出后，磷即与空气接触开始燃烧并喷出火焰，以点燃目标。
 
 燃烧盒的尺寸小，可做成日用品的各种形状，便于伪装和携带。由于盒内装填的是黄磷自燃剂，所以燃烧盒是很好的纵火器材。燃烧盒做好之后，要保证携带和保存时的安全，须进行密封性试验，试验的方法和工艺条件与燃烧手榴弹相同。
