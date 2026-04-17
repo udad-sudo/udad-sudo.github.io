@@ -106,16 +106,10 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.arithmatex:
       generic: true
-  - footnotes
-  - def_list
-  - pymdownx.tasklist:
-      custom_checkbox: true
 
 extra_javascript:
   - javascripts/config.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-  - javascripts/tables.js
   # mermaid的配置脚本，字体大小，图表颜色等。
   - javascripts/optionalConfig.js
 
@@ -135,4 +129,3 @@ nav:
     - chapter 10: baopojianyishengchanfa\chapter 10.md
     - chapter 11: baopojianyishengchanfa\chapter 11.md
     - chapter 12: baopojianyishengchanfa\chapter 12.md
-    - chapter 13: baopojianyishengchanfa\chapter 13.md

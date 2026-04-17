@@ -2,7 +2,7 @@
 
 #### 1 概 述
 
-抗战时期，地雷用途极为广泛，也是大量使用的爆破器材之一，用于敷设在公路或铁路上，炸毁敌人的汽車、火車及杀伤人馬。
+抗战时期，地雷用途极为广泛，也是大量使用的爆破器材之一，用于敷设在公路或铁路上，炸毁敌人的汽车、火车及杀伤人马。
 
 战争年代所制造的地雷种类很多，如拉发地雷、跳雷和子母雷等。在重量上有数百克的小地雷，也有二十余公斤的大地雷。雷体装药主要是用周氏炸药和硝酸铵类炸药，也应用过黑火药。地雷壳体所用的材料，更是花样繁多，除大量使用铁壳外，也用过石壳、木壳，还用过铁壶、铁罐、木箱和木匣等。
 
@@ -18,15 +18,15 @@
 
 (1)反步兵地雷——用于杀伤散兵，成组使用时可杀伤敌群。这种地雷尺寸较小，装药量在500克以下，壳体材料可用石壳、木壳和铁壳等。发火方式为压发或拉发。
 
-(2)反步兵子母雷——用于杀伤敌群。子母雷爆炸时，产生的破片较多，装药量在1~1.5公斤。壳体材料为鑄鉄，发火方式多采用压发。
+(2)反步兵子母雷——用于杀伤敌群。子母雷爆炸时，产生的破片较多，装药量在1~1.5公斤。壳体材料为铸铁，发火方式多采用压发。
 
-(3)防运输地雷——用以炸毁汽车、馬車或摩托車等各种車輛，並具有尒伤作用。裝药量为2～5公斤，壳体材料為鉄壳。發火方式多為壓發，也可用拉發。
+(3)防运输地雷——用以炸毁汽车、马车或摩托车等各种车辆，并具有尒伤作用。装药量为2～5公斤，壳体材料为铁壳。发火方式多为压发，也可用拉发。
 
 (4)防坦克地雷——用于炸毁坦克和装甲车辆。壳体材料为铁壳，装药量为5～8公斤，发火方式多用压发。
 
-(5)反铁路运输地雷——这种地雷埋设在铁轨下，用于炸毁铁路机车和车辆。壳体材料为鑄鉄，装药量为15～20公斤，发火方式为压发。
+(5)反铁路运输地雷——这种地雷埋设在铁轨下，用于炸毁铁路机车和车辆。壳体材料为铸铁，装药量为15～20公斤，发火方式为压发。
 
-(6)特地雷——詭雷和跳雷等，以杀伤人馬为主。
+(6)特地雷——诡雷和跳雷等，以杀伤人马为主。
 
 从发火方式上来分：
 
@@ -36,7 +36,7 @@
 
 从壳体材料上来分：
 
-1)铁壳地雷——壳体为鑄鉄；
+1)铁壳地雷——壳体为铸铁；
 
 2)石壳地雷——各种石头(圆形的或方形的)；
 
@@ -48,7 +48,7 @@
 
 ## (一) 压发地雷
 
-铁壳压发地雷，其壳体为鑄鉄，发火机构采用压发或拉发，<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//fed1d67e-f594-432b-bada-02b08944f306/markdown_0/imgs/img_in_image_box_102_181_516_543.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A02Z%2F-1%2F%2F5e190c66772dcd1125ba7d1c40ac8fb4822d069b5f49ce5a2834eb30e0d016ae" alt="Image" width="39%" /></div>
+铁壳压发地雷，其壳体为铸铁，发火机构采用压发或拉发，<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//fed1d67e-f594-432b-bada-02b08944f306/markdown_0/imgs/img_in_image_box_102_181_516_543.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A02Z%2F-1%2F%2F5e190c66772dcd1125ba7d1c40ac8fb4822d069b5f49ce5a2834eb30e0d016ae" alt="Image" width="39%" /></div>
 
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//fed1d67e-f594-432b-bada-02b08944f306/markdown_0/imgs/img_in_image_box_617_162_847_388.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A03Z%2F-1%2F%2Fdc0039321ff38aec174574c1fca53b110bf3fee3aafa0daa19a30d5cfdde29f2" alt="Image" width="21%" /></div>
@@ -71,9 +71,9 @@
 
 地雷的尺寸和装药可根据用途决定。铁壳压发的构造如图97所示。
 
-铁壳地雷的壳体材料；一般是采用鑄鉄。壳的形状，有方形的、长方形的和圓形的等(图98、99、100)。
+铁壳地雷的壳体材料；一般是采用铸铁。壳的形状，有方形的、长方形的和圆形的等(图98、99、100)。
 
-铁壳的来源，十分广泛，除工厂自行制造外，也广泛地利用民間鑄造設备，大量鑄造鉄壳。也利用不少生活用具如鉄壺、鉄罐和小鉄匣子等各种各样的鉄容器做为雷壳。
+铁壳的来源，十分广泛，除工厂自行制造外，也广泛地利用民间铸造设备，大量铸造铁壳。也利用不少生活用具如铁壶、铁罐和小铁匣子等各种各样的铁容器做为雷壳。
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//fed1d67e-f594-432b-bada-02b08944f306/markdown_0/imgs/img_in_image_box_151_1138_387_1399.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A03Z%2F-1%2F%2Fcac54a9f1d3b9ac72581d481db52824f7f37c825f29ac1edfed15c2301fb9d96" alt="Image" width="22%" /></div>
 
@@ -87,7 +87,7 @@
 <div style="text-align: center;"><div style="text-align: center;">图101 石壳压发地雷</div> </div>
 
 
-当地雷的压盖上受到一定重荷的压力时，薄紙板支撑受压变形，击针将切断销切断，击针击发雷管而引起地雷爆炸，这是铁壳压发地雷的发火原理。
+当地雷的压盖上受到一定重荷的压力时，薄纸板支撑受压变形，击针将切断销切断，击针击发雷管而引起地雷爆炸，这是铁壳压发地雷的发火原理。
 
 石壳压发地雷在全面抗战运动时期，用途极广，数量极大。达到了“村村有雷”。石壳材料到处都有，解放区的男女老少，都能做石雷壳。
 
@@ -125,7 +125,7 @@
 
 1—木壳；2—炸药；3—拉绳。压发地雷只要受到重荷作用，即可发生爆炸。拉发地雷则是
 
-依靠人來操纵，当地雷敷設后，由操作者用拉綫控制，当目标进入布雷区的威力圈內，立即拉绳，使发火机构发火，引起爆炸。拉发的优点是命中率高，但需要人工來操纵。压发虽然命中率較差，但事先經過對敌情做詳細的調查和研判，才能確保這樣的狀態。
+依靠人来操纵，当地雷敷设后，由操作者用拉线控制，当目标进入布雷区的威力圈内，立即拉绳，使发火机构发火，引起爆炸。拉发的优点是命中率高，但需要人工来操纵。压发虽然命中率较差，但事先经过对敌情做详细的调查和研判，才能确保这样的状态。
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//fed1d67e-f594-432b-bada-02b08944f306/markdown_2/imgs/img_in_image_box_616_228_955_376.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A07Z%2F-1%2F%2F056a04f14fc7ad919d14df7b6c2ee71d3fd7d4bd691f595c68293d0b3fe591e2" alt="Image" width="32%" /></div>
 
@@ -133,13 +133,13 @@
 <div style="text-align: center;"><div style="text-align: center;">图106 木壳拉发地雷   1—爆药；2—木壳。</div> </div>
 
 
-細的調查研究，机动灵活的进行埋設，命中率还是很高的。
+细的调查研究，机动灵活的进行埋设，命中率还是很高的。
 
 ## (三) 子母雷
 
 子母雷用于杀伤敌人的散兵群，它的特点是爆炸威力大和破片多。
 
-它的壳体，一般均采用鑄鉄壳，也用过木壳，很少用石壳。发火机构采用压发或拉发。
+它的壳体，一般均采用铸铁壳，也用过木壳，很少用石壳。发火机构采用压发或拉发。
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//fed1d67e-f594-432b-bada-02b08944f306/markdown_2/imgs/img_in_image_box_197_811_523_1041.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A07Z%2F-1%2F%2F1e11f8e7abdd74a9494145384b1e6d74fe740d2b6ee82f55695d1be0559eaaaf" alt="Image" width="30%" /></div>
 
@@ -188,7 +188,7 @@
 
 压发发火机构是由雷管(或导爆管)、金属(铁)套管、切断销、纸圈及压板等组成。
 
-压发发火机构在安定状态时，是由一根金属切断销(又称保險銷)穿过套管孔和击針的中心，以防止击針受压力时冲击雷管。因此，不受压力时
+压发发火机构在安定状态时，是由一根金属切断销(又称保险销)穿过套管孔和击针的中心，以防止击针受压力时冲击雷管。因此，不受压力时
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//fed1d67e-f594-432b-bada-02b08944f306/markdown_3/imgs/img_in_image_box_628_976_922_1340.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A09Z%2F-1%2F%2Fd6f87b6137bdcf93c58dafdbf6a396ddb62f7a6d7f005b1e7707ca38680747bd" alt="Image" width="27%" /></div>
 
@@ -196,19 +196,19 @@
 <div style="text-align: center;"><div style="text-align: center;">图111 压发机构视图</div> </div>
 
 
-1—压盖；2—紙支撐圈；3—紙；4—击針；5—切断銷；6—盖板；7—套管；8—雷管；9—銅皮(0.1毫米)。它能保持安定的状态(如图111所示)。
+1—压盖；2—纸支撑圈；3—纸；4—击针；5—切断销；6—盖板；7—套管；8—雷管；9—铜皮(0.1毫米)。它能保持安定的状态(如图111所示)。
 
-当人、車、馬或其他重荷圧在圧板上，压力超过保險銷所能承受的压力时，保險銷被切断，击針突然下落，冲击雷管(或导爆管)，使雷管爆炸，引起地雷中的炸药爆炸。
+当人、车、马或其他重荷圧在圧板上，压力超过保险销所能承受的压力时，保险销被切断，击针突然下落，冲击雷管(或导爆管)，使雷管爆炸，引起地雷中的炸药爆炸。
 
-紙制支撐圈的作用是托衬压板，使压板与盖板之間有一定空隙，以免在敷設時，土壤进入压板與蓋之間，影响缶針下落。因此，支撐圈不宜用金屬材料制作。
+纸制支撑圈的作用是托衬压板，使压板与盖板之间有一定空隙，以免在敷设时，土壤进入压板与盖之间，影响缶针下落。因此，支撑圈不宜用金属材料制作。
 
-切断銷应保證在敷設及伪装地雷時操作安全，当受一定重量作用时应立即切断。因此保險銷在制造時，所采用的材料和直徑的大小，需事先經過試驗，一般选取切断銷在承受重量13公斤以下時，不應切斷，承受15公斤以上的重量時應該立即切斷。切斷銷的材料最好采用脆性較大的材料(如黃銅)。
+切断销应保证在敷设及伪装地雷时操作安全，当受一定重量作用时应立即切断。因此保险销在制造时，所采用的材料和直径的大小，需事先经过试验，一般选取切断销在承受重量13公斤以下时，不应切断，承受15公斤以上的重量时应该立即切断。切断销的材料最好采用脆性较大的材料(如黄铜)。
 
 套管用于固定雷管和击针，并承受一定的荷重，它采用金属材料较适合。套管的大小以能装入雷管或导爆管为宜。
 
 另外，压发机构中所使用的雷管，无论是纸壳或者是铜壳，当雷管装药时，在加强帽内须事先加入一个厚度为0.1～0.6毫米的铜垫。这样，当击针下落时，先穿透铜垫，使击发药所承受压力突然增加，可以提高击发药对冲击作用的敏感度。
 
-除上述切断销式的保险发火机构外，也采用过不少鋼珠保險
+除上述切断销式的保险发火机构外，也采用过不少钢珠保险
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//fed1d67e-f594-432b-bada-02b08944f306/markdown_4/imgs/img_in_image_box_110_1078_558_1248.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A10Z%2F-1%2F%2F9aa12c72399a673b08303ad632a7f797c8293988a2b89776a56931f877fd3f26" alt="Image" width="42%" /></div>
 
@@ -225,25 +225,25 @@
 <div style="text-align: center;"><div style="text-align: center;">图112. A所示的发火机构，亦是镧珠压发机构的一种型式。</div> </div>
 
 
-这种发火机构是用于炸毁火車的地雷上，它可以定点的炸毁任何一节車廂。
+这种发火机构是用于炸毁火车的地雷上，它可以定点的炸毁任何一节车厢。
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//4f2d618e-dee8-4219-8201-242fbdbe03c9/markdown_0/imgs/img_in_image_box_196_252_803_819.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A04Z%2F-1%2F%2Ff5fc1a020cf4b5b6a0f3ab9fec2aa73104bd4556eb3dc208979fa3dd51d65902" alt="Image" width="57%" /></div>
 
 
-<div style="text-align: center;"><div style="text-align: center;">图112. A 1944年式炸火車用定点爆炸地雷發火機構</div> </div>
+<div style="text-align: center;"><div style="text-align: center;">图112. A 1944年式炸火车用定点爆炸地雷发火机构</div> </div>
 
 
 1—压板；2—压杆；3—弹簧；4—钢珠；5—顶销；6—弹簧；7—螺塞；8—
 
-保險銷；9—彈簧；10—螺塞；11—螺塞；12—雷管；13—击針；14—彈簧；15—保險插銷；16—發火機構套體；17—切斷銷。
+保险销；9—弹簧；10—螺塞；11—螺塞；12—雷管；13—击针；14—弹簧；15—保险插销；16—发火机构套体；17—切断销。
 
-1944年式炸火車用定点爆炸地雷敷設後，火車車輪通过压板1，圧縮彈簧3，圧杆2下落，鋼珠4圧縮保險銷8，後落入槽体16中。依次作用，當槽內空隙填滿時，車輛通过圧板，將切斷銷17切断，使保險插銷15向下移动，击針13被釋放，在彈簧14的作用下，冲击雷管12，引起整个雷体爆炸。
+1944年式炸火车用定点爆炸地雷敷设后，火车车轮通过压板1，圧缩弹簧3，圧杆2下落，钢珠4圧缩保险销8，后落入槽体16中。依次作用，当槽内空隙填满时，车辆通过圧板，将切断销17切断，使保险插销15向下移动，击针13被释放，在弹簧14的作用下，冲击雷管12，引起整个雷体爆炸。
 
-使用定点爆炸地雷的发火机构之前，要对目标調查清楚，根据目标所在位置調整待压入鋼珠的数量。发火件上的雷管，当敷設地雷时，才与发火机构連接，避免由于運輸等原因而造成事故，這種發火機構構造簡單、作用准确。
+使用定点爆炸地雷的发火机构之前，要对目标调查清楚，根据目标所在位置调整待压入钢珠的数量。发火件上的雷管，当敷设地雷时，才与发火机构连接，避免由于运输等原因而造成事故，这种发火机构构造简单、作用准确。
 
 ## (二) 拉发发火机构
 
-拉发机构的形式很多，图 113 所示就是拉发机构中的一种，它是由击針、銷子、彈簧、套管、火帽及雷管所組成。在敷設地雷時，將拉繩拴在銷子的环上，拉火時把銷子拔出，在彈簧的作用下，击針下落，冲击火帽發火，点燃雷管引爆地雷。
+拉发机构的形式很多，图 113 所示就是拉发机构中的一种，它是由击针、销子、弹簧、套管、火帽及雷管所组成。在敷设地雷时，将拉绳拴在销子的环上，拉火时把销子拔出，在弹簧的作用下，击针下落，冲击火帽发火，点燃雷管引爆地雷。
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//4f2d618e-dee8-4219-8201-242fbdbe03c9/markdown_1/imgs/img_in_image_box_258_316_833_437.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A05Z%2F-1%2F%2Fb932f749fadfb64223a713be215c99f0ecdbe882b119dae5963dc86074eeb9e7" alt="Image" width="54%" /></div>
 
@@ -261,13 +261,13 @@
 <div style="text-align: center;"><div style="text-align: center;">图114 拉发式拉火</div> </div>
 
 
-1—拉火绳；2—地雷盖板；3—紙垫；4—拉火帽；5—雷管(或导爆管)；6—中心管；7—套管(紙)；8—炸药；9—地雷壳。
+1—拉火绳；2—地雷盖板；3—纸垫；4—拉火帽；5—雷管(或导爆管)；6—中心管；7—套管(纸)；8—炸药；9—地雷壳。
 
 种机构是由雷管(或导爆管)、套管和拉火帽组成(如图 114 所示)。
 
 当拉动拉火绳，拉火帽受摩擦而发火，引起雷管爆炸，导致地雷装药的爆炸。
 
-拉火的结构是在金属套管里，装入一个紙(或銅)壳火雷管或导爆管，在雷管的端部裝置一个带有拉火絲的拉火帽，為固定拉火帽，在它的上面，墊以厚紙墊，再將套管收口，使火帽、紙墊和雷管緊密的配合。拉火帽的尺寸與雷管尺寸相配合。拉火帽的裝药及制造方法與手榴彈用拉火帽相同。
+拉火的结构是在金属套管里，装入一个纸(或铜)壳火雷管或导爆管，在雷管的端部装置一个带有拉火丝的拉火帽，为固定拉火帽，在它的上面，垫以厚纸垫，再将套管收口，使火帽、纸垫和雷管紧密的配合。拉火帽的尺寸与雷管尺寸相配合。拉火帽的装药及制造方法与手榴弹用拉火帽相同。
 
 ####  5 导爆管制造
 
@@ -340,11 +340,11 @@
 
 
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>序号</td><td style='text-align: center; word-wrap: break-word;'>地雷种类</td><td style='text-align: center; word-wrap: break-word;'>炸药种类</td><td style='text-align: center; word-wrap: break-word;'>装药量(公斤)</td><td style='text-align: center; word-wrap: break-word;'>壳体材料</td><td style='text-align: center; word-wrap: break-word;'>导爆管号数</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>反步兵地雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或硝铵炸药</td><td style='text-align: center; word-wrap: break-word;'>0.5～1</td><td style='text-align: center; word-wrap: break-word;'>铁壳、石壳、木壳</td><td style='text-align: center; word-wrap: break-word;'>3号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>反步兵子母雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或黑火药</td><td style='text-align: center; word-wrap: break-word;'>1～1.5</td><td style='text-align: center; word-wrap: break-word;'>铁壳</td><td style='text-align: center; word-wrap: break-word;'>3号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3</td><td style='text-align: center; word-wrap: break-word;'>防运输地雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或硝铵炸药</td><td style='text-align: center; word-wrap: break-word;'>2～5</td><td style='text-align: center; word-wrap: break-word;'>铁壳、木壳</td><td style='text-align: center; word-wrap: break-word;'>2号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4</td><td style='text-align: center; word-wrap: break-word;'>防坦克地雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或硝铵炸药</td><td style='text-align: center; word-wrap: break-word;'>5～8</td><td style='text-align: center; word-wrap: break-word;'>铁壳</td><td style='text-align: center; word-wrap: break-word;'>1号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>防火車运输地雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或硝铵炸药</td><td style='text-align: center; word-wrap: break-word;'>15～20</td><td style='text-align: center; word-wrap: break-word;'>铁壳</td><td style='text-align: center; word-wrap: break-word;'>1号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6</td><td style='text-align: center; word-wrap: break-word;'>跳雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或黑火药</td><td style='text-align: center; word-wrap: break-word;'>0.5～1</td><td style='text-align: center; word-wrap: break-word;'>铁壳、石壳</td><td style='text-align: center; word-wrap: break-word;'>3号导爆管</td></tr></table>
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>序号</td><td style='text-align: center; word-wrap: break-word;'>地雷种类</td><td style='text-align: center; word-wrap: break-word;'>炸药种类</td><td style='text-align: center; word-wrap: break-word;'>装药量(公斤)</td><td style='text-align: center; word-wrap: break-word;'>壳体材料</td><td style='text-align: center; word-wrap: break-word;'>导爆管号数</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>反步兵地雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或硝铵炸药</td><td style='text-align: center; word-wrap: break-word;'>0.5～1</td><td style='text-align: center; word-wrap: break-word;'>铁壳、石壳、木壳</td><td style='text-align: center; word-wrap: break-word;'>3号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>反步兵子母雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或黑火药</td><td style='text-align: center; word-wrap: break-word;'>1～1.5</td><td style='text-align: center; word-wrap: break-word;'>铁壳</td><td style='text-align: center; word-wrap: break-word;'>3号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3</td><td style='text-align: center; word-wrap: break-word;'>防运输地雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或硝铵炸药</td><td style='text-align: center; word-wrap: break-word;'>2～5</td><td style='text-align: center; word-wrap: break-word;'>铁壳、木壳</td><td style='text-align: center; word-wrap: break-word;'>2号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4</td><td style='text-align: center; word-wrap: break-word;'>防坦克地雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或硝铵炸药</td><td style='text-align: center; word-wrap: break-word;'>5～8</td><td style='text-align: center; word-wrap: break-word;'>铁壳</td><td style='text-align: center; word-wrap: break-word;'>1号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>防火车运输地雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或硝铵炸药</td><td style='text-align: center; word-wrap: break-word;'>15～20</td><td style='text-align: center; word-wrap: break-word;'>铁壳</td><td style='text-align: center; word-wrap: break-word;'>1号导爆管</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6</td><td style='text-align: center; word-wrap: break-word;'>跳雷</td><td style='text-align: center; word-wrap: break-word;'>周氏炸药或黑火药</td><td style='text-align: center; word-wrap: break-word;'>0.5～1</td><td style='text-align: center; word-wrap: break-word;'>铁壳、石壳</td><td style='text-align: center; word-wrap: break-word;'>3号导爆管</td></tr></table>
 
 ## (三) 装药方法
 
-地雷的装配分为两个步骤进行，即壳体装药和全备雷装配。通常当立即使用时，才对地雷进行全备装配。长期储存时，是将发火机构单独的包装，待敷设地雷时，现場装配。这样在运输或保管时比较安全。
+地雷的装配分为两个步骤进行，即壳体装药和全备雷装配。通常当立即使用时，才对地雷进行全备装配。长期储存时，是将发火机构单独的包装，待敷设地雷时，现场装配。这样在运输或保管时比较安全。
 
 地雷壳的装药方法有注装、压装和散装三种。注装是将炸药熔化后注入壳体内。它对炸药的要求条件为：(1)炸药的熔点低于130℃；(2)在温度130℃时加热2小时，炸药不分解。适合上述条件的炸药有梯恩梯和苦味酸。
 
@@ -352,13 +352,13 @@
 
 散装则多采用周氏炸药和硝铵炸药。散装法的操作如下：
 
-(1)雷壳清理：雷壳装药前要檢查内外表面是否清洁和完整，再用小毛刷把雷壳刷干净。
+(1)雷壳清理：雷壳装药前要检查内外表面是否清洁和完整，再用小毛刷把雷壳刷干净。
 
-(2)雷壳内表面塗漆和晾干：如采用鉄壳，为防止药与金属直接接触，最好在药室里塗上一层瀝青或虫胶漆。經干燥(自然晾干)後，送去裝药。
+(2)雷壳内表面涂漆和晾干：如采用铁壳，为防止药与金属直接接触，最好在药室里涂上一层沥青或虫胶漆。经干燥(自然晾干)后，送去装药。
 
-(3)装药：装药的方法有两种。10公斤以上的地雷装药时，先将炸药用油纸包成数个小包，每包1~2公斤，然后整齐地放入雷管中。另一种方法是，无论是大雷或小雷，先将雷壳和炸药准备好，用小鏟子将炸药装入壳内。装药的同时用木棒将炸药捣平。捣炸药时，要轻压平，不要用力过猛，更避免与壳体摩擦，装填炸药时留出装发火机构的孔。
+(3)装药：装药的方法有两种。10公斤以上的地雷装药时，先将炸药用油纸包成数个小包，每包1~2公斤，然后整齐地放入雷管中。另一种方法是，无论是大雷或小雷，先将雷壳和炸药准备好，用小铲子将炸药装入壳内。装药的同时用木棒将炸药捣平。捣炸药时，要轻压平，不要用力过猛，更避免与壳体摩擦，装填炸药时留出装发火机构的孔。
 
-(4)雷体清理和装上防潮塞：装好药的雷体，用抹布把表面擦拭干净，将上盖盖好，在装发火机构的孔内装上一个木制的防潮塞。在可能的条件下，一般均在炸药的表面涂上一层25～40%的酒精虫胶漆，也曾在炸药的表面上放置一張油紙，主要是为了防潮。
+(4)雷体清理和装上防潮塞：装好药的雷体，用抹布把表面擦拭干净，将上盖盖好，在装发火机构的孔内装上一个木制的防潮塞。在可能的条件下，一般均在炸药的表面涂上一层25～40%的酒精虫胶漆，也曾在炸药的表面上放置一张油纸，主要是为了防潮。
 
 装好的地雷与发火机构一起配套，装入包装箱内，存放在干燥地点或直接送去使用。
 
@@ -366,13 +366,13 @@
 
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//f5f88756-2b10-4e29-849d-096a5e6b216f/markdown_0/imgs/img_in_image_box_235_760_819_1536.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A01Z%2F-1%2F%2F30c0caabb3f535cc9f4309d96e1bc4901968eab47be56b0adec7848122ef666c" alt="Image" width="55%" /></div>
-#####  7 地雷的敷設
+#####  7 地雷的敷设
 
-抗战时期，地雷的使用方法繁多，方法巧妙，除伏击敌人，封锁交通和破坏工事外，也曾用来大摆地雷陣。由于运用灵活，均收到了预期的效果，有力地打击了敌人。概括起来可分为室内敷设、特种敷设和地面敷设。
+抗战时期，地雷的使用方法繁多，方法巧妙，除伏击敌人，封锁交通和破坏工事外，也曾用来大摆地雷阵。由于运用灵活，均收到了预期的效果，有力地打击了敌人。概括起来可分为室内敷设、特种敷设和地面敷设。
 
-## (一) 封鎖交通布雷
+## (一) 封锁交通布雷
 
-地雷用于封鎖交通時，通常敷設在村口、大路或小路上。敷設前应对敌人的行动，有較詳細的了解，一般是在应用前几小時进行敷設。由于地雷沒有防潮性能，所以不能敷設在有水的地方。
+地雷用于封锁交通时，通常敷设在村口、大路或小路上。敷设前应对敌人的行动，有较详细的了解，一般是在应用前几小时进行敷设。由于地雷没有防潮性能，所以不能敷设在有水的地方。
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//f5f88756-2b10-4e29-849d-096a5e6b216f/markdown_1/imgs/img_in_image_box_85_677_391_978.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A02Z%2F-1%2F%2Fd35a7c96f9f8b052edc00896c6ba63a01c2d0d8576ed5f62cd5ae2ea7ebbc54b" alt="Image" width="29%" /></div>
 
@@ -380,23 +380,23 @@
 <div style="text-align: center;"><div style="text-align: center;">图117 公路布雷</div> </div>
 
 
-敷設時，地雷的上面要很好的伪装，
+敷设时，地雷的上面要很好的伪装，
 
 如采用压发地雷，地雷上面的复土总
 
-重量不应超过 10 公斤，以免在敷設
+重量不应超过 10 公斤，以免在敷设
 
-时发生危險。
+时发生危险。
 
-封鎖道路時，地雷可单个的使用，但一般都是成組使用。每个雷間距保持1～1.5米，星罗棋布，使敌人难以捉摸，寸步难行。大路、小路、村口或山坡可能出现敌人的地方，均可設雷。公路布雷方法如图117所示。
+封锁道路时，地雷可单个的使用，但一般都是成组使用。每个雷间距保持1～1.5米，星罗棋布，使敌人难以捉摸，寸步难行。大路、小路、村口或山坡可能出现敌人的地方，均可设雷。公路布雷方法如图117所示。
 
 
 
-## (二) 封鎖鉄路布雷
+## (二) 封锁铁路布雷
 
-封鎖鉄路，主要是炸毀机車或車輛，斷絕交通和繳获物資。炸毀机車的地雷較大，裝药量在15～20公斤，發火方式多采用拉發但也可以采用壓發。拉發時可將地雷敷設在軌道的下面，最好布在鉄軌與兩個枕木之間，當機車通過時，由人工操組，拉動繩子使地雷爆炸。
+封锁铁路，主要是炸毁机车或车辆，断绝交通和缴获物资。炸毁机车的地雷较大，装药量在15～20公斤，发火方式多采用拉发但也可以采用压发。拉发时可将地雷敷设在轨道的下面，最好布在铁轨与两个枕木之间，当机车通过时，由人工操组，拉动绳子使地雷爆炸。
 
-布雷时拉绳一定要从铁轨的下面穿过，否则，机車通过时把<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//f5f88756-2b10-4e29-849d-096a5e6b216f/markdown_2/imgs/img_in_image_box_276_194_849_528.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A03Z%2F-1%2F%2Fa635240aefd47ee705f75b0c8e18d05fc6929c7f268596970f2dedbe97bce7cb" alt="Image" width="54%" /></div>
+布雷时拉绳一定要从铁轨的下面穿过，否则，机车通过时把<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//f5f88756-2b10-4e29-849d-096a5e6b216f/markdown_2/imgs/img_in_image_box_276_194_849_528.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A03Z%2F-1%2F%2Fa635240aefd47ee705f75b0c8e18d05fc6929c7f268596970f2dedbe97bce7cb" alt="Image" width="54%" /></div>
 
 
 <div style="text-align: center;"><div style="text-align: center;">图118 拉发地雷布雷</div> </div>
@@ -414,11 +414,11 @@
 
 绳子压断，起不到应有的作用(如图 118 所示)。
 
-采用压发时，雷应布在铁轨的下面(两枕木之间)，当机車通过时压爆。为了确保作用，在炸毁机車或封鎖鉄路時，一般可將两个以上的压发地雷布設在一起(如图 119 所示)。
+采用压发时，雷应布在铁轨的下面(两枕木之间)，当机车通过时压爆。为了确保作用，在炸毁机车或封锁铁路时，一般可将两个以上的压发地雷布设在一起(如图 119 所示)。
 
 ## (三) 室内布雷
 
-在敌人可能搜索或利用的房屋内进行布雷，地雷可敷设在門口、箱子里或鍋里，敌人一推門就爆炸，一掀鍋也爆炸，到处都在爆炸，处处都可能爆炸(图120、121)。
+在敌人可能搜索或利用的房屋内进行布雷，地雷可敷设在门口、箱子里或锅里，敌人一推门就爆炸，一掀锅也爆炸，到处都在爆炸，处处都可能爆炸(图120、121)。
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//f5f88756-2b10-4e29-849d-096a5e6b216f/markdown_3/imgs/img_in_image_box_145_310_515_509.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A05Z%2F-1%2F%2F2b58342cde48b81dab9f597791dbb9203451a82afb3aca3f60a70a4ea924d668" alt="Image" width="35%" /></div>
 
@@ -429,9 +429,9 @@
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//f5f88756-2b10-4e29-849d-096a5e6b216f/markdown_3/imgs/img_in_image_box_577_312_895_518.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A05Z%2F-1%2F%2Ff7306fec3cfc546fb30cfb1909536844893b7db470812e2a23839d5f66c83297" alt="Image" width="30%" /></div>
 
 
-1—門；2—拉绳；3—地雷；4—支架。
+1—门；2—拉绳；3—地雷；4—支架。
 
-<div style="text-align: center;"><div style="text-align: center;">图121 鍋內布雷</div> </div>
+<div style="text-align: center;"><div style="text-align: center;">图121 锅内布雷</div> </div>
 
 
 <div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//f5f88756-2b10-4e29-849d-096a5e6b216f/markdown_3/imgs/img_in_image_box_231_677_774_941.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A05Z%2F-1%2F%2F38a5e3886dcdc68b128fec27d116ec808cc7adffa66d110fac86e94a53bfebcb" alt="Image" width="51%" /></div>
@@ -453,9 +453,9 @@
 
 1—拉火绳；2—墙；3—石壳跳雷。
 
-<div style="text-align: center;"><div style="text-align: center;">图124 利用标語牌布雷</div> </div>
+<div style="text-align: center;"><div style="text-align: center;">图124 利用标语牌布雷</div> </div>
 ## (四) 特种布雷
 
 特种布雷的方法更是繁多，用这种方法布雷时，要充分利用地形和环境条件，如图 122、图 123 和图 124 即为其中几个示例。
 
-地雷的敷設要因地因時制宜，到处設置，使敌人如入天罗地网。
+地雷的敷设要因地因时制宜，到处设置，使敌人如入天罗地网。
