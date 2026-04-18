@@ -9,6 +9,7 @@ theme:
         icon: material/eye
     # Palette toggle for dark mode
     - scheme: slate
+      primary: blue
       toggle:
         icon: material/eye-off
   features:
@@ -21,7 +22,7 @@ theme:
     - navigation.tabs.sticky  #启用粘性选项卡后，导航选项卡将锁定在标题下方，并在向下滚动时始终保持可见
     - navigation.sections #启用部分后，顶级部分在边栏中呈现为1220px以上视口的组，但在移动设备上保持原样
     - navigation.top # 返回顶部的按钮 在上滑时出现
-    - navigation.footer #页脚将呈现在边栏中，但在移动设备上保持原样
+    # - navigation.footer #页脚将呈现在边栏中，但在移动设备上保持原样
     - navigation.path # 9.7.0新增：在页面标题上方显示面包屑导航
     - navigation.prune # 9.2.0新增：仅包含可见导航项，减少构建站点大小（与navigation.expand不兼容）
     # - search.suggest # 搜索输入一些字母时推荐补全整个单词
@@ -55,7 +56,9 @@ extra:
       link: /Mkdocs-Wcowin/ZH-TW/
       # https://wcowin-work.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-CN&_x_tr_pto=wapp
       lang: zh-TW
-  generator: true #是否删除页脚显示“使用 MkDocs 材料制造”
+
+  generator: false #是否删除页脚显示“使用 MkDocs 材料制造”
+  
   social:
     - icon: fontawesome/brands/weixin
       link: https://s1.imagehub.cc/images/2024/02/02/bb9ee71b03ee7a3b87caad5cc4bcebff.jpeg
@@ -72,6 +75,7 @@ extra:
       link: mailto:<wangkewen821@gmail.com> #邮件联系方式
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/1407028951/lists/4566631?type=series
+  
   analytics:
     provider: google #谷歌分析
     property:  ##如果你 clone 了my模板，请将这个修改为你的
@@ -91,12 +95,6 @@ extra:
           note: >-
             Thanks for your feedback! Help us improve this page by
             using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
-  # cookies设置（可选）
-  # consent:
-  #   title: Cookie consent
-  #   description: >-
-  #     我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
-  #     如果你同意,你可以帮助我们让我们的网站更好
 
 markdown_extensions:
   - pymdownx.superfences:
@@ -106,12 +104,16 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.arithmatex:
       generic: true
+  - footnotes
 
 extra_javascript:
   - javascripts/config.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   # mermaid的配置脚本，字体大小，图表颜色等。
   - javascripts/optionalConfig.js
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
 - Home: index.md

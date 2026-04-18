@@ -26,15 +26,15 @@
 
 磷与空气中氧接触，很易自燃，它的发火点取决于它的表面积的大小。如细碎的磷当温度接近零度时，仍能燃烧。而整块的磷在空气中的燃点为40℃。磷燃烧时形成一种白色烟幕，完全氧化时，则生成五氧化二磷或磷酸酐：
 
-$$ P_4+5O_2\longrightarrow2P_2O_5 $$ 
+$$ P_4 + 5O_2 \longrightarrow 2P_2O_5 $$ 
 
 磷酸酐的吸湿性极强，与水化合时，根据化合水的数量不同生成三种不同的磷酸。
 
-$$ P_2O_5+H_2O \longrightarrow 2HPO_3 (偏磷酸)$$ 
+$$ P_2O_5 + H_2O \longrightarrow 2HPO_3 (偏磷酸)$$ 
 
-$$ P_2O_5+2H_2O \longrightarrow H_4P_2O_7\ (焦磷酸) $$
+$$ P_2O_5 + 2H_2O \longrightarrow H_4P_2O_7 (焦磷酸) $$
 
-$$ P_2O_5+3H_2O \longrightarrow 2H_3PO_4\ (正磷酸) $$
+$$ P_2O_5 + 3H_2O \longrightarrow 2H_3PO_4 (正磷酸) $$
 
 黄磷有剧毒，误食0.1克即能使人致死。因此，从事黄磷的有关操作时，要特别注意。
 
@@ -50,7 +50,7 @@ $$ P_2O_5+3H_2O \longrightarrow 2H_3PO_4\ (正磷酸) $$
 
 氯酸钾化学式为$KClO_3$，分子量122.55。外观为无色带有光泽的小片状或为四角的单斜片状结晶(亦可为六角的单斜片状结晶)，比重2.34，熔点356℃，分解温度为400℃。分解时按下列方程式放出氧氯酸钾易溶于水，微溶于醇，在水中的溶解度如表 34 所示。
 
-$$  2KClO_3\longrightarrow2KCl+3O_2 $$ 
+$$  2KClO_3 \longrightarrow 2KCl + 3O_2 $$ 
 
 <div style="text-align: center;">表34 氯酸钾在水中的溶解度</div>
 
@@ -68,37 +68,41 @@ $$  2KClO_3\longrightarrow2KCl+3O_2 $$
 
 ### (三) 胶化油料
 
-有机易燃物的种类很多，如各种树脂、沥青、松香和石蜡等。然而这些物质均不适用于作为纵火材料。最有价值的纵火材料是易燃的液体汽油或煤油及苯类。但易燃液体油料的流动性很大，对燃烧的效应有影响，也给装填工作增加了困难，需将易燃液体材料加工成半液态或胶状。为了得到良好的使用效果，要求凝固油料(1)挥发性小，(2)易于引燃，(3)热效应大，(4)燃烧温度高，(5)在运输保存中不变质。
+有机易燃物的种类很多，如各种树脂、沥青、松香和石蜡等。然而这些物质均不适用于作为纵火材料。最有价值的纵火材料是易燃的液体汽油或煤油及苯类。但易燃液体油料的流动性很大，对燃烧的效应有影响，也给装填工作增加了困难，需将易燃液体材料加工成半液态或胶状。
+
+为了得到良好的使用效果，要求凝固油料
+
+1. 挥发性小，
+2. 易于引燃，
+3. 热效应大，
+4. 燃烧温度高，
+5. 在运输保存中不变质。
 
 凝固油料的方法，可采用如图 125 的装置。
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//22902d79-0f1b-4adc-8276-688634dab538/markdown_3/imgs/img_in_image_box_161_701_474_893.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A07Z%2F-1%2F%2F421e861eb260544403999af138af43214d8b146ad28a7b2277906bbae127a358" alt="Image" width="29%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">图125 胶化油料装置</div> </div>
-
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_161_701_474_893.jpg" alt="Image" width="29%" />
+<div style="text-align: center;">1—陶缸；2—钢槽；3—物料；4—热水。</div>
+<div style="text-align: center;">图125 胶化油料装置</div>
+</div>
 
 图中所示的钢槽可用铝槽代替，在槽与缸之间充满热水。
 
-所采用的原料为煤油55%，汽油40%，硬脂酸5%。将物料按上述比例称取后，加入反应槽内，使物料加温至70℃，边加入1—陶缸；2—钢槽；3—物料；4—热水。物料边搅拌，物料全部加完后，在搅拌的条件下再加入饱和的苛性钢酒精溶液(苛性钢0.5%；酒精15%，此数值并不计算在装料混合物的比例之内)。物料温度保持在70℃，继续搅拌1小时，经自然降温后，即成为胶状体。
-
-
+所采用的原料为煤油55%，汽油40%，硬脂酸5%。将物料按上述比例称取后，加入反应槽内，使物料加温至70℃，边加入物料边搅拌，物料全部加完后，在搅拌的条件下再加入饱和的苛性钢酒精溶液(苛性钢0.5%；酒精15%，此数值并不计算在装料混合物的比例之内)。物料温度保持在70℃，继续搅拌1小时，经自然降温后，即成为胶状体。
 
 依上法所制得的胶状汽油和煤油混合物，比重为0.8，熔点57℃，外观类似蜂蜜或石蜡。冷却后的胶化油料即可用作装药，胶化油料的适用范围很广，可以装填各种类型的燃烧纵火器材。
 
-### 3 燃烧瓶制造法
+## 3 燃烧瓶制造法
 
 抗战时期曾利用各种易燃材料制造燃烧瓶，前后共制造过下列几种类型的燃烧瓶。
 
-A型燃烧瓶是最简易的一种，这种燃烧瓶的外壳采用的是<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//22902d79-0f1b-4adc-8276-688634dab538/markdown_4/imgs/img_in_image_box_269_164_821_417.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A08Z%2F-1%2F%2Fb9f7b728c5977b4defb27bf6145033e5b4d0c3261fef30f3f663a074c581c817" alt="Image" width="52%" /></div>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_269_164_821_417.jpg" alt="Image" width="52%" />
+<div style="text-align: center;">1—橡皮塞；2—橡皮塞；3—汽油；4—硫酸；5—玻璃管；6—玻璃瓶；7—氯酸钾；8—缓燃线；9—黄磷；10—油纸。</div>
+<div style="text-align: center;">图126 燃烧瓶</div>
+</div>
 
-
-<div style="text-align: center;"><div style="text-align: center;">图126 燃烧瓶</div> </div>
-
-
-1—橡皮塞；2—橡皮塞；3—汽油；4—硫酸；5—玻璃管；6—玻璃瓶；7—氯酸钾；8—缓燃线；9—黄磷；10—油纸。
-
-玻璃瓶，在瓶中装入汽油，盖上橡皮塞，通过塞上的孔，插入一根缓燃线并固定好，缓燃线的长度根据其燃烧速度和投掷的距离来决定。A型的燃烧瓶不能自燃发火，使用时将缓燃线点着，在投掷飞行中，缓燃线将汽油点燃，碰击目标时玻璃瓶被打碎，汽油开始燃烧，引燃目标起火。这种燃烧瓶虽然发火方式比较原始，但结构简单，制造容易。
+A型燃烧瓶是最简易的一种，这种燃烧瓶的外壳采用的是玻璃瓶，在瓶中装入汽油，盖上橡皮塞，通过塞上的孔，插入一根缓燃线并固定好，缓燃线的长度根据其燃烧速度和投掷的距离来决定。A型的燃烧瓶不能自燃发火，使用时将缓燃线点着，在投掷飞行中，缓燃线将汽油点燃，碰击目标时玻璃瓶被打碎，汽油开始燃烧，引燃目标起火。这种燃烧瓶虽然发火方式比较原始，但结构简单，制造容易。
 
 B型燃烧瓶属于自燃发火的一种。外壳是一个玻璃瓶，在瓶中装入汽油，每一立升汽油内加入40～50克的粉状氯酸钾，然后塞上带有玻璃管的橡皮塞。玻璃管内充入40～50立方厘米的比重为1.84的浓硫酸，在玻璃管上再盖一个橡皮塞以免酸液外溢。这种燃烧瓶的使用时不需点火，命中目标后，燃烧瓶破碎，瓶内装浓硫酸的玻璃管也被撞碎，浓硫酸即与汽油中的氯酸钾发生作用，当即起火点燃四处流散的汽油，烧毁目标。
 
@@ -114,31 +118,26 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用浓硫酸与氯
 
 ### (一) 燃烧手榴弹的构造
 
-燃烧手榴弹是燃烧器材中很重要的一种，用途较广泛。
+燃烧手榴弹是燃烧器材中很重要的一种，用途较广泛。燃烧手榴弹的构造与木柄杀伤手榴弹(详见第八章)相似，由木柄、弹壳和拉火装置三个部分组成。木柄和拉火装置与木柄糸并手榴弹完全相同。只是弹壳材料和弹头装药有所不同。
 
-燃烧手榴弹的构造与木柄杀伤手榴弹(详见第八章)相似，
+燃烧手榴弹的壳体材料是采用0.7～1毫米厚的铁皮(最好是镀𫓴铁皮)，药是采用黄磷和胶化油料。胶化油料的装药比较简单，只是称取一定数量的胶化油料装入弹壳，然后再与装有拉火装置的木柄合装在一起，其合装的方法与糸并手榴弹同。装填黄磷需采用注装法。燃烧手榴弹的构造如图127所示。
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5477f17b-b624-4a13-aea6-5ccbf7332782/markdown_0/imgs/img_in_image_box_142_1027_270_1435.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A12Z%2F-1%2F%2F26cfa57ae1df54bb0e2de46613db2165f1aa1c5c3cea41c1991af82542fb84f9" alt="Image" width="12%" /></div>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_142_1027_270_1435.jpg" alt="Image" width="12%" />
+<div style="text-align: center;">图127 燃烧手榴弹 1—黄磷或胶化油料。</div>
+</div>
 
-
-<div style="text-align: center;"><div style="text-align: center;">图127 燃烧手榴弹 1—黄磷或胶化油料。</div> </div>
-
-
-由木柄、弹壳和拉火装置三个部分组成。木柄和拉火装置与木柄糸并手榴弹完全相同。只是弹壳材料和弹头装药有所不同。燃烧手榴弹的壳体材料是采用0.7～1毫米厚的铁皮(最好是镀𫓴铁皮)，药是采用黄磷和胶化油料。胶化油料的装药比较简单，只是称取一定数量的胶化油料装入弹壳，然后再与装有拉火装置的木柄合装在一起，其合装的方法与糸并手榴弹同。装填黄磷需采用注装法。燃烧手榴弹的构造如图127所示。## (二) 熔磷
+### (二) 熔磷
 
 进厂的黄磷是块状，一般均保存在清水中，使用时需将磷熔化。在战争年代里，由于设备条件所限，磷的熔化是用热水槽来进行的，其构造如图 128 所示。
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5477f17b-b624-4a13-aea6-5ccbf7332782/markdown_1/imgs/img_in_image_box_103_410_462_617.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A14Z%2F-1%2F%2Fa05f672b6ecee054f46f09beb1b6c096565afe0bf1dd783b27cf7fd10351c37c" alt="Image" width="34%" /></div>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_103_410_462_617.jpg" alt="Image" width="34%" />
+<div style="text-align: center;">1—陶缸；2—热水；3—钢槽；4—加料口；5—热水；6—黄磷；7—出磷口。</div>
+<div style="text-align: center;">图128 熔磷槽</div> 
+</div>
 
-
-<div style="text-align: center;"><div style="text-align: center;">图128 熔磷槽</div> </div>
-
-
-1—陶缸；2—热水；3—钢槽；
-
-4—加料口；5—热水；6—黄磷；7—出磷口。
-
-先在槽内加入占槽容积 $ \frac13 $的热水，后将磷桶打开，用工具迅速的将磷加入熔磷槽中，在夹套中间充入60～80℃的热水，使磷熔化。黄磷的熔点为44.2℃，当温度超过黄磷的熔点时，磷即慢慢地熔化。
+先在槽内加入占槽容积 $\frac13$ 的热水，后将磷桶打开，用工具迅速的将磷加入熔磷槽中，在夹套中间充入60～80℃的热水，使磷熔化。黄磷的熔点为44.2℃，当温度超过黄磷的熔点时，磷即慢慢地熔化。
 
 黄磷有剧毒，操作时须戴上防毒用具，绝对不能用手直接与磷接
 
@@ -146,25 +145,25 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用浓硫酸与氯
 
 ### (三) 注磷
 
-弹壳注磷的方法是，先将弹壳准备好，倒置于水槽的固定托板上，在弹壳内先充入1/2的净水。注磷的工具采用铁壶，在铁壶里先加入1/3的60～80℃的热水，然后由熔磷槽中将磷通过出料管装入铁壶中，操作人员戴好防毒面具和胶皮手套，然后进行浇注。
+弹壳注磷的方法是，先将弹壳准备好，倒置于水槽的固定托板上，在弹壳内先充入 $ \frac12 $ 的净水。注磷的工具采用铁壶，在铁壶里先加入 $\frac13$ 的60～80℃的热水，然后由熔磷槽中将磷通过出料管装入铁壶中，操作人员戴好防毒面具和胶皮手套，然后进行浇注。
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5477f17b-b624-4a13-aea6-5ccbf7332782/markdown_1/imgs/img_in_image_box_150_1222_397_1416.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A14Z%2F-1%2F%2F12468c34e253e771821a4f064e34f5ef3469c2a7f643f4a28993911489ab6c42" alt="Image" width="23%" /></div>
+利用黄磷和水的不同，用黄磷将弹壳中的水置换出来(如图129所示)。这样可避免黄磷与空气接触发生自燃。
 
-
-<div style="text-align: center;"><div style="text-align: center;">图129 铁壶 1-水；2-黄磷。</div> </div>
-
-
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5477f17b-b624-4a13-aea6-5ccbf7332782/markdown_1/imgs/img_in_image_box_671_1191_881_1452.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A14Z%2F-1%2F%2Fce78a324a12d40c24d1a391e471708cd8be0abc9799d554327328576fed60971" alt="Image" width="19%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">图130 弹头注磷</div> </div>
-
-
-1—黄磷；2—弹壳。利用黄磷和水的不同，用黄磷将弹壳中的水置换出来(如图129所示)。这样可避免黄磷与空气接触发生自燃。
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_150_1222_397_1416.jpg" alt="Image" width="23%" />
+<div style="text-align: center;">1—水；2—黄磷。</div>
+<div style="text-align: center;">图129 铁壶</div>
+</div>
 
 注磷时，操作要迅速准确，不要使黄磷溢出壳外。黄磷注装完毕后，立即将准备好的弹壳底盖旋上扦拧紧。为了很好地进行密封，弹壳底盖的螺纹应先涂上一层铅丹油，然后再旋入壳体上。
 
 旋好底盖的弹头，将外表面擦拭干净，在螺纹结合处再涂上一层密封剂。经检验合格后，可与带有拉火装置的弹柄合装。装配的方法与糸饬手榴弹相同。
+
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_671_1191_881_1452.jpg" alt="Image" width="19%" />
+<div style="text-align: center;">1—黄磷；2—弹壳。</div>
+<div style="text-align: center;">图130 弹头注磷</div>
+</div>
 
 弹头与弹柄合装前，对弹头要进行密封性检验。检验时，将已装磷的弹头置于干燥室的干燥架上，在室温60℃的条件下加温1小时，加温时如发现有白烟，说明有磷漏出；没有白烟发生就为合格品。
 
@@ -174,32 +173,24 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用浓硫酸与氯
 
 燃烧地雷主要是由燃烧桶、炸药包(或黑火药包)及拉火机构所组成。燃烧地雷的发火方式一般均采用拉火，拉火的构造与杀伤地雷拉火机构完全相同(详见第九章)。
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5477f17b-b624-4a13-aea6-5ccbf7332782/markdown_2/imgs/img_in_image_box_103_1170_530_1380.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A15Z%2F-1%2F%2F52b32991f63a1e9d7621eca04b49a7b567af26d105f923fca1cd1ee15e650d1c" alt="Image" width="40%" /></div>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_103_1170_530_1380.jpg" alt="Image" width="40%" />
+<div style="text-align: center;">1—燃烧桶；2—汽油或煤油；3—薄木板；4—炸药包；5—拉发装置；6—拉绳。</div>
+<div style="text-align: center;">图131 燃烧地雷</div>
+</div>
 
-
-<div style="text-align: center;"><div style="text-align: center;">图131 燃烧地雷</div> </div>
-
-
-1—燃烧桶；2—汽油或煤油；3—薄木板；4—炸药包；5—拉发装置；6—拉绳。
-
-燃烧地雷(如图131所示)
-
-主要是攻击坦克、装甲车、汽车等各种车辆。
+燃烧地雷(如图131所示)主要是攻击坦克、装甲车、汽车等各种车辆。
 
 燃烧地雷的装药可以用黄磷、胶化油脂或液体易燃油料，像汽油、煤油或苯类等。燃烧地雷的外壳是一个大铁桶，其尺寸大小可以任意选择，桶内装入一定数量的燃烧剂。敷设地雷时，在桶的下面装置一个炸药包和拉火线，当目标进入地雷的威力圈内，立即扯动拉火线，拉火管发火，雷管引起炸药包(或黑火药包)爆炸，将燃烧桶炸碎并将桶内燃烧剂抛出地面，四处飞溅，使目标烧毁。通常所采用的燃烧地雷，小者有5～6公斤，大者可达一百公斤以上。燃烧地雷的装磷方法与燃烧手榴弹相同。
 
-#### 6 燃烧盒制造法
+## 6 燃烧盒制造法
 
-燃烧盒在敌后游击斗争中用量较大，它的尺寸小，构造简单，便于敌后使用。主要的用途是纵火，用于破坏敌人的各种军事仓库及各种可燃性的物质。它的构造非常简单，常做成方形、长方形或其它日用品的形状，大者如肥皂盒，香烟盒，小者如火柴盒，材料为铁皮。在盒的两端上各有一个排水孔，并撑上一个螺盖
+燃烧盒在敌后游击斗争中用量较大，它的尺寸小，构造简单，便于敌后使用。主要的用途是纵火，用于破坏敌人的各种军事仓库及各种可燃性的物质。它的构造非常简单，常做成方形、长方形或其它日用品的形状，大者如肥皂盒，香烟盒，小者如火柴盒，材料为铁皮。在盒的两端上各有一个排水孔，并撑上一个螺盖在盒里先充入 $1/3$ 的水，再注入 $2/3$ 的黄磷。将盒盖拧紧后即可使用。使用时，将盒两端的螺盖全拧下来，然后向目标投掷。当盒中的水排出后，磷即与空气接触开始燃烧并喷出火焰，以点燃目标。(如图132所示)。
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5477f17b-b624-4a13-aea6-5ccbf7332782/markdown_3/imgs/img_in_image_box_140_776_402_1001.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A16Z%2F-1%2F%2F357052e805d799a894f031134a4974192a8d1df624fc717d62b16ce259409000" alt="Image" width="24%" /></div>
-
-
-<div style="text-align: center;"><div style="text-align: center;">图132 燃烧盒1—黄磷；2—盒体。</div> </div>
-
-
-(如图132所示)。
-
-在盒里先充入 1/3 的水，再注入 2/3 的黄磷。将盒盖拧紧后即可使用。使用时，将盒两端的螺盖全拧下来，然后向目标投掷。当盒中的水排出后，磷即与空气接触开始燃烧并喷出火焰，以点燃目标。
+<div style="text-align: center;">
+<img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5477f17b-b624-4a13-aea6-5ccbf7332782/markdown_3/imgs/img_in_image_box_140_776_402_1001.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-09T09%3A39%3A16Z%2F-1%2F%2F357052e805d799a894f031134a4974192a8d1df624fc717d62b16ce259409000" alt="Image" width="24%" />
+<div style="text-align: center;">1—黄磷；2—盒体。</div>
+<div style="text-align: center;">图132 燃烧盒</div>
+</div>
 
 燃烧盒的尺寸小，可做成日用品的各种形状，便于伪装和携带。由于盒内装填的是黄磷自燃剂，所以燃烧盒是很好的纵火器材。燃烧盒做好之后，要保证携带和保存时的安全，须进行密封性试验，试验的方法和工艺条件与燃烧手榴弹相同。
