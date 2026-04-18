@@ -1,4 +1,5 @@
 site_name: my-project
+site_url: "https://udad-sudo.github.io"
 theme:
   name: material
   palette:
