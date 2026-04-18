@@ -1,0 +1,2326 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../about/">
+      
+      
+        <link rel="next" href="../chapter%202/">
+      
+      
+        
+          <link rel="alternate" href="/" hreflang="zh">
+        
+          <link rel="alternate" href="/Mkdocs-Wcowin/en/" hreflang="en">
+        
+          <link rel="alternate" href="/Mkdocs-Wcowin/ZH-TW/" hreflang="zh-TW">
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>chapter 1 - my-project</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config",""),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../.." title="my-project" class="md-header__button md-logo" aria-label="my-project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89">
+  <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z" />
+  <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5" />
+  <path d="M67.535,17.387l-27.262,18.156l21.878,32.818l5.384,2.691l0,-53.665Z" />
+  <path d="M67.535,17.387l0,53.666l18.774,-9.388l0,-53.665l-18.774,9.387Z" style="fill-opacity: 0.25" />
+</svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            my-project
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              chapter 1
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0 8a5 5 0 0 1-5-5 5 5 0 0 1 5-5 5 5 0 0 1 5 5 5 5 0 0 1-5 5m0-12.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.83 9 15 12.16V12a3 3 0 0 0-3-3zm-4.3.8 1.55 1.55c-.05.21-.08.42-.08.65a3 3 0 0 0 3 3c.22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53a5 5 0 0 1-5-5c0-.79.2-1.53.53-2.2M2 4.27l2.28 2.28.45.45C3.08 8.3 1.78 10 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.43.42L19.73 22 21 20.73 3.27 3M12 7a5 5 0 0 1 5 5c0 .64-.13 1.26-.36 1.82l2.93 2.93c1.5-1.25 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-4 .7l2.17 2.15C10.74 7.13 11.35 7 12 7"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="选择当前语言">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="/" hreflang="zh" class="md-select__link">
+              简体中文
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="/Mkdocs-Wcowin/en/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="/Mkdocs-Wcowin/ZH-TW/" hreflang="zh-TW" class="md-select__link">
+              China(TW)
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../about/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Guide
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="my-project" class="md-nav__button md-logo" aria-label="my-project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89">
+  <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z" />
+  <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5" />
+  <path d="M67.535,17.387l-27.262,18.156l21.878,32.818l5.384,2.691l0,-53.665Z" />
+  <path d="M67.535,17.387l0,53.666l18.774,-9.388l0,-53.665l-18.774,9.387Z" style="fill-opacity: 0.25" />
+</svg>
+
+    </a>
+    my-project
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guide
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Guide
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    about
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 1
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1 概 述
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2 雷汞的性质
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3 制取雷汞的化学反应过程和工艺条件
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4 配硝酸
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5 水银精制
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6 酒精蒸馏
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        7 配制硝酸汞
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        8 雷汞化合反应
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        9 雷汞洗涤
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        10 雷汞干燥
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        11 雷银的性质
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        12 雷银制造概述
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        13 原料准备及配制硝酸银
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        14 雷银化合反应
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        15 雷银洗涤
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        16 雷银干燥
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%202/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%203/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%204/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%205/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%206/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%207/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%208/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%209/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 9
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2010/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 10
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2011/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2012/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="导航栏" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Home
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../about/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Guide
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="_1">第一章 起爆药制造法</h1>
+<h2 id="1">1 概 述</h2>
+<p>起爆药是爆破器材装药的主要材料，当它受到外界作用(冲击、摩擦、火焰等)的影响时，能在瞬间放出大量的起爆能，引爆各种炸药。</p>
+<p>起爆药是雷管、火帽和底火等火工品的主装药。因此，对起爆药的基本要求是：</p>
+<blockquote>
+<p>(1)起爆力大。起爆力愈强，则被起爆的炸药所作的功就愈大；</p>
+<p>(2)对外界的作用有足够的敏感性，以保证在使用中准确发火；</p>
+<p>(3)有良好的疏散性和压药性；</p>
+<p>(4)化学安定性好，如在光、空气和水分的影响下，其理化性质和爆炸性质不变化；</p>
+<p>(5)在常温条件下，能长期贮存。</p>
+</blockquote>
+<p>起爆药的种类很多，如雷汞、氮化铅和三硝基间苯二酚铅等，但在实际生产中大量采用的是雷汞。</p>
+<p>制取雷汞的原料为水银、硝酸和酒精。其主要工序是化合反应，通常采用耐 100℃ 以上的玻璃制的曲颈瓶(如图1所示)来完成反应。</p>
+<div align="center">
+  <img src="/baopojianyishengchanfa/images/img_in_image_box_633_931_969_1180.jpg" alt="居中图片" width="200">
+  <p>图 1 曲颈瓶</p>
+</div>
+
+<p>在抗战时期，制造雷管、手榴弹、地雷等爆破器材，需要采用大量的雷汞。在当时制取雷汞无论在生产方式和设备的选择上，一方面要满足工艺条件的要求；另一方面也要符合战时条件和解放区当时的资源条件。根据制取雷汞的基本原理，采用了陶瓷罐作为进行化合反应的设备。经过研究和试验，总结出了罐法制造雷汞的工艺方法。</p>
+<p>在当时，制取雷汞所使用的硝酸，主要是由本厂供给。酒精是采用民间饮用的烧酒自行蒸馏。而水银是依靠外购。</p>
+<p>1942年以后，敌人对解放区实行了更加严密的经济封锁，在人民群众的积极支持下，水银仍能继续不断的满足需要。为了坚持长期斗争，必须使原料立足于解放区。在制取雷汞的同时，还以元宝和银元(纯银均可)为原料，试制成雷银并能大量生产。根据雷汞和雷银的性质，在当时是将它们配合使用，雷汞多用于底火、火帽和铜壳雷管的主装药，而雷银常做为纸壳雷管的主装药。</p>
+<p>雷银(又称雷酸银)是一种白色细小的针状物质，对冲击、摩擦和火焰等外界作用很敏感，与一般金属均能起作用。在水中受冲击摩擦也能爆炸。取制雷银具有较大的危险性，因此，在国外以前很少采用它。</p>
+<p>雷银每次的制取量，一般均小于十五分之一克。在制取时，若能很好地了解它的特性，掌握住生产的操作要领，并能选择合适的加工方法和设备，是可以安全进行生产的。抗战期间，就是在保证安全的前提下，生产了大量的雷银。</p>
+<p>雷银的制成，不但使原材料立足于解放区，而且也增加了起爆药生产的品种。</p>
+<h2 id="2">2 雷汞的性质</h2>
+<p>雷汞(又称雷酸汞)俗称白药。外观为白色或灰色的斜状结晶。化学式为  <span class="arithmatex">\(Hg(ONC)_2\)</span>，分子量为 284，假密度为 1.2～1.5 克/厘米 <span class="arithmatex">\(^3\)</span>，晶体的比重为 4.39～4.41。它的纯度与比重有关，纯度愈大，比重则愈小。</p>
+<div style="text-align: center;" id="tb-1">表1 雷汞纯度与比重的关系</div>
+
+<table>
+<thead>
+<tr>
+<th>留汞含量%</th>
+<th>97.0</th>
+<th>98.0</th>
+<th>99.0</th>
+<th>99.7</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>比重</td>
+<td>4.40</td>
+<td>4.38</td>
+<td>4.36</td>
+<td>4.32</td>
+</tr>
+</tbody>
+</table>
+<p>雷汞的吸湿性很小，在不同的条件下它的吸湿量如下：</p>
+<div style="text-align: center;" id="tb-2">表2 雷汞在不同条件下的吸湿量</div>
+
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">相对湿度 %</th>
+<th style="text-align: center;">样品存放时间(昼夜)</th>
+<th style="text-align: center;">吸收水分数量 %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">60</td>
+<td style="text-align: center;">0.02</td>
+</tr>
+<tr>
+<td style="text-align: center;">80</td>
+<td style="text-align: center;">80</td>
+<td style="text-align: center;">0.02</td>
+</tr>
+<tr>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">80</td>
+<td style="text-align: center;">0.16</td>
+</tr>
+</tbody>
+</table>
+<p>雷汞在稀酸、浓酸或强碱的作用下，能发生分解或爆炸。如用稀硫酸或稀硝酸处理时，则发生缓慢的分解；和浓硫酸作用时能立即爆炸。因此，在制取雷汞时或在存有雷汞的工厂和工作间中，禁止存放硫酸。雷汞在硫代硫酸钠的作用下能发生分解，所以常采用硫代硫酸钠来处理废雷汞及雷汞洗涤的废水。</p>
+<p>雷汞的温度为 50℃ 时，在两小时后它才开始分解；若加热到 100℃ 时，则在 48 小时以内即发生爆炸，它的反应方程式为：</p>
+<div class="arithmatex">\[
+Hg(ONC)_2 \longrightarrow Hg + 2CO + N_2(理论的)
+\]</div>
+<div class="arithmatex">\[
+Hg(ONC)_2 \longrightarrow 1.01Hg + 1.99CO + 0.98N_2(气体分析结果)
+\]</div>
+<div style="text-align: center;" id="tb-3">表3 雷汞与金属的作用情况</div>
+
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">金属名称</th>
+<th style="text-align: left;">作用情况</th>
+<th style="text-align: left;">作用条件</th>
+<th style="text-align: center;">作用速度</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">铜</td>
+<td style="text-align: left;">(1)<span class="arithmatex">\(Hg(ONC)_2 + Cu \rightarrow Cu(ONC)_2 + Hg\)</span> <br> (2) 生成 <span class="arithmatex">\(Cu(ONC)_2 \cdot Cu(OH)_2\)</span> (摩擦感度高)</td>
+<td style="text-align: left;">(1) 有水存在时并加热<br> (2) 有水存在时</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">镁</td>
+<td style="text-align: left;">放出大量热，并生成非爆炸性的镁化合物</td>
+<td style="text-align: left;">有大量水存在时</td>
+<td style="text-align: center;">激烈</td>
+</tr>
+<tr>
+<td style="text-align: center;">铝</td>
+<td style="text-align: left;">生成氧化铝</td>
+<td style="text-align: left;">有水存在时</td>
+<td style="text-align: center;">激烈</td>
+</tr>
+<tr>
+<td style="text-align: center;">锌</td>
+<td style="text-align: left;">生成雷酸锌(有爆炸性)</td>
+<td style="text-align: left;">湿雷汞</td>
+<td style="text-align: center;">较慢</td>
+</tr>
+<tr>
+<td style="text-align: center;">锡</td>
+<td style="text-align: left;">生成锡汞齐</td>
+<td style="text-align: left;">有水存在时</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">铅</td>
+<td style="text-align: left;">生成雷酸铅</td>
+<td style="text-align: left;">有水存在时</td>
+<td style="text-align: center;">微弱</td>
+</tr>
+<tr>
+<td style="text-align: center;">铁</td>
+<td style="text-align: left;">不起作用</td>
+<td style="text-align: left;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<p>雷汞的起爆温度为 160～180℃，爆速为 5400 米/秒。对机械冲击的敏感度为：以 1 公斤的落锤撞击，在 10 次试验中爆炸的最小高度为 24 厘米；用 2 公斤落锤，10 次试验中爆炸的最小高度为 5 厘米。对摩擦敏感，在铁器表面之间摩擦感度最大，在木质之间的摩擦感度较小。对火焰作用十分敏感。在疏散状时，遇火焰作用由强烈燃烧而转至爆炸，而在容器内遇火焰时则立即爆炸。</p>
+<h2 id="3">3 制取雷汞的化学反应过程和工艺条件</h2>
+<p>如前所述，水银、硝酸和酒精是制取雷汞的主要原料。对这三种原料的要求分别为：水银纯度为99.9%，酒精浓度不低于92%，其中不应含有杂质，硝酸浓度为 <span class="arithmatex">\(60\pm1.5\%\)</span>。</p>
+<div style="text-align: center;">
+<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_132_685_957_1622.jpg" alt="Image" width="78%" /> -->
+<div style="text-align: center;">流程 1 制取雷汞的工艺流程</div>
+</div>
+
+<pre class="mermaid"><code>flowchart TD
+    %% 银处理流程
+    A[汞] --&gt;B[汞过滤]
+    B --&gt;|硝酸浓度4~8%| B1[汞化学处理]
+    B1 --&gt; C[配制硝酸汞]
+
+    %% 配酸流程
+    C1[浓硝酸] --&gt; C2[配酸]
+    C3[过滤水或蒸馏水] --&gt;|浓度60±1.5%| C2
+    C2 --&gt; C
+
+    %% 酒精处理流程
+    E[酒精&lt;br/&gt;浓度92%以上] --&gt; F[酒精预热&lt;br/&gt;温度18~30℃]
+    F --&gt; G[化合反应&lt;br/&gt;化合温度不超过83℃]
+
+    %% 核心化合
+    C --&gt; G
+    G -.-&gt;|废气排入大气| W[废气处理]
+    G --&gt; H[雷汞洗涤]
+    C3 --&gt;|洗涤至中性为止| H
+
+    %% 洗涤分支
+    H --&gt;|洗涤废水| I[洗涤水沉淀]
+    H --&gt; J[雷汞干燥]
+    H --&gt;|温度不低于5℃&lt;br/&gt;时间不超过15天| K[湿雷汞存放]
+
+    I --&gt; O[水排出]
+    I --&gt; P[沉淀物定期销毁]
+    K --&gt; J
+
+    %% 成品流程
+    J --&gt;|温度40~45℃&lt;br/&gt;时间36小时| L[雷汞倒盒]
+    L --&gt; M[成品]</code></pre>
+<p>主要的工艺过程是原料准备、配制硝酸汞、化合反应、洗涤和干燥等。</p>
+<p>制取雷汞所采用的原料比例为：1份水银：9份硝酸：10份酒精。所进行的化合反应较复杂，在不考虑副反应的情况下，它的综合反应式为：</p>
+<div class="arithmatex">\[
+3Hg + 8HNO_3 \longrightarrow 3Hg(NO_3)_2 + 2NO + 4H_2O
+\]</div>
+<div class="arithmatex">\[
+Hg(NO_3)_2 + 2C_2H_5OH + 4HNO_3 \rightarrow Hg(ONC)_2 + 2CO_2 + 8H_2O + 2NO_3 + 2NO
+\]</div>
+<h2 id="4">4 配硝酸</h2>
+<p>硝酸在使用前应进行沉淀，用比重计测定其比重，如比重为1.415，则从<a href="#tb-7">表7</a>中可查得该酸的浓度为68.63%，使用时需加水稀释。</p>
+<p>使用浓度大的硝酸配酸时，最好使用蒸馏水，也可采用以布过滤的净水。使用的水要求洁净，如果水中所含的砂粒等杂质混入产品中，会增高雷汞的敏感度，对装药、压药的操作极为不利。</p>
+<p>原料酸的浓度若超过  <span class="arithmatex">\(60 \pm 1.5\%\)</span> 时，需要加水稀释；如浓度低于  <span class="arithmatex">\(60 \pm 1.5\%\)</span>，则需追加浓度较高的硝酸。根据原料酸的实际浓度，可按下列公式计算出加水或补加酸的数量：</p>
+<p>(一) 稀释硝酸加水量的计算:</p>
+<div class="arithmatex">\[
+W=\frac{n \ A}{N}-A 
+\]</div>
+<p>式中 W——需要加入水的数量(公斤)；</p>
+<p>N——要求配制的硝酸浓度 <span class="arithmatex">\((60\pm1.5\%)\)</span>;</p>
+<p>n——原料酸在稀释前的浓度(%)；</p>
+<p>A——原料酸的数量(公斤)。</p>
+<p>(二) 如原料酸或已配制酸的浓度，低于 <span class="arithmatex">\(60\pm1.5\%\)</span>，则追加溃硝酸的数量按下式计算：</p>
+<div class="arithmatex">\[
+X=\frac{(N-n_1)A}{(n-N)} 
+\]</div>
+<p>式中 X ——需追加浓硝酸的数量(公斤)；</p>
+<p>N——所配制酸的浓度(%):</p>
+<p>A——待修正酸的数量(公斤)；</p>
+<p>n——追加浓硝酸的浓度(%):</p>
+<p><span class="arithmatex">\(n_1\)</span> ——待修正酸的浓度(%)。</p>
+<p>硝酸对金属有强烈的腐蚀作用，所以在抗日战争时期是采用瓷缸作为配酸设备的。当时所用的配酸方法是：用比重计测定出硝酸的浓度，计算出需要水的数量，将酸和水按需要量称取好；</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_141_740_321_1012.jpg" alt="Image" width="17%" />
+<div style="text-align: center;">图 2 配酸缸</div>
+</div>
+
+<p>先向缸中加入定量的净水或过滤水，在注入水之前，用净水把缸(图2)擦洗干净，然后再加入硝酸。配酸时加料次序不能颠倒。如向酸中加水，则会由于酸的强烈吸水作用而激烈放热，容易引起酸液四溅，以至烧伤操作者。因此，一定要向水中加酸，而且速度不应过快，在加酸时还要边加酸边用玻璃棒或锯棒不停地搅拌。</p>
+<p>配酸时，由于酸的稀释而生成的热量使温度升高并有硝烟 <span class="arithmatex">\((NO_2,~N_2O_4)\)</span>散发，对人的呼吸器官有着强烈的刺激性。在当时由于条件限制，没有采用机械搅拌和机械通风装置，而是采用灵活机动的作业方法：晴天在室外露天操作，利用河水或泉水降低酸温。加酸和搅拌时，操作人员站在上风方向，减少酸烟对人的侵害；遇到雨天或风天，就在室内作业，将门窗适当打开，在地面和缸壁的周围洒上水，降低室温和酸温，以减少酸的损失。在配酸时，操作人员要戴好防护用具，以免烧伤并保证安全进行生产。</p>
+<p>如原料酸浓度低于规定要求，在配制时需追加浓硝酸并搅拌均匀。配好的硝酸，要重新测定比重，比重应为1.365～1.380。</p>
+<p>制造雷汞所用的硝酸，必须纯净，其中不允许含有砂子、玻璃片、铁屑等杂质。在配酸前，硝酸要经过充分的沉淀，以除掉杂质。</p>
+<p>配酸操作时要细心，不要把酸液溅到身上。一旦发生烧伤，应立即用水冲洗，并在烧伤部位擦以氨水。</p>
+<h2 id="5">5 水银精制</h2>
+<p>水银也称为汞，分子式为 Hg，是一种外观为银灰色的液态金属，纯度要求在 99.9% 以上。购来的水银一般较纯净，但是由于经常装在铁质容器中，所以可能有铁锈等杂质。清除杂质时，可将一张厚滤纸，用细针穿成数十个小孔，使水银通过滤纸进行过滤。也曾用麂皮或细白布过滤水银，效果较好。在用细白布过滤时，应多过滤几次。</p>
+<p>购来的水银如果表面发黑，就表明水银的纯度不高，在使用前要进行化学精制，一般是采用4～8%浓度的稀硝酸进行洗涤。洗涤时，先将过滤的水银倒入一个干净的瓷盆中，再加入4～8%浓度的稀硝酸，同时用玻璃棒不停地搅拌。洗涤完毕将稀硝酸排出，再用过滤水或蒸馏水一边洗涤一边搅拌。水洗1～2次后，排出洗涤水，而残留在水银表面上的水分用细布或棉花擦干。</p>
+<p>水银是一种有毒性的物质，在常温下易挥发，随着温度升高其挥发速度也随之加快。因此，在处理水银时，要穿上工作服，戴上口罩和手套。操作完毕后要洗手、漱口。</p>
+<p>水银属于战略物资，来源不易。在战争的年代里，每个同志对它都十分珍惜和节约。当偶尔有一滴水银掉到地上，同志们都立刻设法捺起。有一次，敌人突然袭击，工厂奉命立即坚壁撤走，由于是黑夜，临行时有数百克水银未带上，行军途中发现此事，虽然仅仅是几百克并且放置地点不一定能被敌人发现，但还是毫不犹豫地冒着生命危险把它取回来。</p>
+<h2 id="6">6 酒精蒸馏</h2>
+<p>酒精学名乙醇，分子式为  <span class="arithmatex">\(C_2H_5OH\)</span>，是制造雷汞的主要原料之一。所需要的酒精浓度不应低于92%，最好是95%以上。因为低浓度的酒精含水量多，将会影响到化合反应的正常进行和降低产品的得率。</p>
+<p>当时所用的酒精，主要是以民间酿造的烧酒(又称毛酒)为原料进行蒸馏制得。所采用的工艺装置如图3所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_202_671_886_1071.jpg" alt="Image" width="65%" />
+<p>1—火炉；2—蒸馏桶；3—加料口；4—温度计；5—连接管；6—冷却缸；7—冷水缸；8—支架；9—酒精罐。</p>
+<div style="text-align: center;">图 3 酒精蒸馏装置</div>
+</div>
+
+<p>酒精蒸馏的热源是一个烧炭的火炉。在炉上安装一个大铁桶或铝锅，冷却器是一个大陶瓷缸，管子由蒸馏桶顶部接出通入冷却器，并在冷却器中盘成螺旋形，管子的出口由缸的下部通出。</p>
+<p>蒸馏时，将烧酒加入蒸馏桶中，用火炉加热。由于温度升高使酒精蒸发，酒精蒸气和一部分水蒸汽通过导管进入冷凝器中，冷却后凝为液体流入酒精罐中。</p>
+<p>冷却水当时是用高位水加入冷却缸中的。加冷水时，利用高位的压力，使水由冷却缸的底部进入，温度升高的水由上部的溢流管排出。</p>
+<p>蒸馏过程中，应经常察看蒸馏桶的温度，当温度上升到约78℃(酒精的沸点)时，就有酒精蒸气蒸馏出来；当温度继续上升到80℃时，即可停止蒸馏。将桶内残留的烧酒(大部分是水)由下部的排渣口放出。残渣积累较多时，可集中进行蒸馏(其中有少量酒精)。</p>
+<p>蒸馏次数与原料(如烧酒)的浓度有关。例如：40～50% 浓度的烧酒，欲达到92%以上的浓度，利用上述设备需要反复蒸馏2～4次。</p>
+<h2 id="7">7 配制硝酸汞</h2>
+<p>制造雷汞首先要以硝酸和汞作用制成硝酸汞，然后用硝酸汞与酒精作用生成雷汞。生成硝酸汞的化学反应式为：</p>
+<div class="arithmatex">\[
+3Hg + 8HNO_3 \longrightarrow 3Hg(NO_3)_2 + 4H_2O + 2NO + 28.9 仟卡 
+\]</div>
+<p>每次配制硝酸汞的数量与化合反应的投料量有关。如采用罐法化合，每次每罐的投料量若以水银500克计算，即配制每一份硝酸汞用水银500克，投料比采用1:9，则硝酸投料量为4500克。</p>
+<p>配制硝酸汞最好是选用口细底大的玻璃瓶。配制时先将已精制的水银称量500克为一份，注入细口瓶(图4)中；再称取浓度为 <span class="arithmatex">\(60\pm1.5\%\)</span> 的硝酸4500克，小心地加入瓶中，用玻璃片把瓶口盖上。硝酸加入后，汞与硝酸开始反应，几分钟后，就可以观察到有棕色的烟雾产生，温度亦随之上升。配制硝酸汞的反应，应至汞完全被硝化为止，整个反应时间约为1~1.5小时。</p>
+<p>在配制硝酸汞时，为了使反应速度加快和物料反应完全，硝酸汞溶液的温度要保持在30～40℃范围内。硝酸汞加温时，是将盛有硝酸汞溶液的细口瓶置于木槽或水泥槽内，并经常测定槽(图5)内水的温度，用调整冷热水加入量的方法来保证所要求的水温。</p>
+<p>为了排出在反应中所产生的硝烟，可用木板制成排风筒通出屋外，或者在晴朗无灰尘的露天进行操作，以便排除有害气体。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_128_497_249_765.jpg" alt="Image" width="11%" />
+<img src="/baopojianyishengchanfa/images/img_in_image_box_315_499_473_766.jpg" alt="Image" width="15%" />
+<div style="text-align: center;">图 4 细口瓶</div>
+</div>
+
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_578_281_944_765.jpg" alt="Image" width="34%" />
+<p>1—排气管；2—排气罩；3—硝酸汞瓶；4—温水槽；5—温度计。</p>
+<div style="text-align: center;">图 5 硝酸汞预温槽</div>
+</div>
+
+<h2 id="8">8 雷汞化合反应</h2>
+<p>雷汞化合反应在雷汞制造中是一个主要的工序。化合反应的好坏直接影响到产品得率和质量。</p>
+<p>化合反应所用的原料为硝酸汞和酒精(其用量为水银的10倍)，即一份配制好的硝酸汞与5000克浓度92%以上的酒精。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_107_1170_347_1424.jpg" alt="Image" width="22%" />
+<div style="text-align: center;">图 6 瓷罐</div>
+</div>
+
+<p>硝酸汞与酒精化合作用生成雷汞。</p>
+<p>在战争的年代，由于受到物质条件的限制，没有采用耐高温(100℃)的曲颈瓶作为化合的设备，而是采用了民间所用的表面光滑的瓷罐作为化合设备(图6)。</p>
+<p>瓷罐的来源广泛，保温条件好，耐腐蚀。其缺点是不透明，观察不到内部的反应情况。</p>
+<p>在操作前首先将硝酸汞准备好，再把酒精从5000克为一份装入广口瓶中，置于水槽内保温，当温度达到18～35℃时，即可使用。</p>
+<p>雷汞化合反应过程中，有较多的硝烟、酒精蒸气和废气等产生，最好应设置机械通风设备。在战争年代里，雷汞化合多是选择良好的气候条件，在室外进行操作。</p>
+<p>操作时，先将瓷罐(反应罐)擦洗干净，放在干净的砖墩上(图7)准备投料。室外作业不受面积的限制，产量可大可小。产量大时，可摆上十几个到二十几个罐子，罐与罐之间保持1.5~2米的距离。</p>
+<p>当时我们把它叫做是世界上“最新式”的雷汞化合工厂，既不受硝烟的侵害，也不受作业面积的限制。的确，在那战争的岁月里，广阔的天地就是革命者战斗的厂房。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_412_623_956_801.jpg" alt="Image" width="51%" />
+<p>1—反应罐；2—砖墩。</p>
+<div style="text-align: center;">图 7 露天化合反应作业</div>
+</div>
+
+<p>将罐子摆好后，在每个罐子里插一支温度计或用一支温度计巡回测试。准备妥当后，开始投料。投料时，先在每一罐内加入一份酒精(重5000克)，再将硝酸汞溶液呈线状缓慢地加入。</p>
+<p>硝酸汞加入后，反应立即开始。3～5分钟后，液体呈透明的黄绿色，温度计升高到约50℃。到8～10分钟时，酒精与硝酸汞中过量的硝酸发生作用，液体底部开始放出气泡，在液面上升起了白色的烟雾。这时溶液很快地转入剧烈反应，放出的气泡增多，并有大量的烟雾出现。</p>
+<p>当大量烟雾出现之后，再经过5～7分钟，温度可上升到80℃以上。雷汞化合的温度，最好是控制在82℃左右，如温度超过时，可在溶液中追加少量的酒精，使温度下降。当温度达到80～82℃的时候，雷汞的结晶即可析出。随后，气泡愈来愈少，但反应更为剧烈，这时母液呈强烈的沸腾状。当雷汞大量生成之后，母液也逐渐减少，母液中的酒精也已蒸发，使过量的硝酸分解，放出黄色的氧化氮气体。此时，温度稍能上升1～2℃，并保持一段时间。当温度逐渐下降时，整个化合反应即告结束。整个反应过程共需60分钟左右。</p>
+<p>雷汞化合反应的操作掌握得是否正确，直接影响到产品质量和得率。在战争的年代里所制造的雷汞，绝大多数都是优质的。但也发生过在反应中有“清汤”现象，制出的产品得率低，纯度也低。其原因主要是由于投料时硝酸用量不够，也可能是酒精用量过多，当然，气温和物料的温度太低也有所影响。因此，必须正确地掌握物料的温度、数量、温度和加料次序。如发现反应温度过高，应及时追加酒精，否则将影响产品的得率，同时也影响化合反应的安全作业。</p>
+<p>在雷汞制造中，要注意掌握硝酸浓度为  <span class="arithmatex">\(60 \pm 1.5\%\)</span>，酒精浓度为 92% 以上。物料的投料比应为，水银：硝酸：酒精为 1:9:10。投料时是将硝酸加入水银中，先配成硝酸汞溶液，并保持温度为 30～40℃。在化合反应时，先向罐中加入 18～30℃ 的酒精，再加入硝酸汞溶液。控制反应温度在 84℃ 以下，最好是 82℃ 左右。按上述工艺条件进行生产，可制出优质的雷汞产品。</p>
+<p>在当时，由于客观情况的限制，也曾使用过浓度为80～89%的低浓度酒精，其结果是按原定比例投料，则产品得率有所降低。因此在这种情况下，必须改变工艺条件，把投料比由1:9:10改为1:9:12，即加大了酒精用量。这样，产品的得率提高，但温度上升很慢，反应时间由60分钟延长到2小时。</p>
+<p>雷汞化合反应中，由于雷汞是存在于大量介质中，所以是属于危险作业。同时因有不少酒精及其气体的存在，要特别注意防火和安全。无论是在室内作业或是露天作业，距作业地点100米范围内应禁止有明火。在战争年代，虽然物质条件较差，所使用的原料、材料和设备经常有质量差异和变更，但以毛泽东思想武装起来的革命战士，发挥了主观能动性，充分地利用了客观条件，在多年的大量生产中，从未发生过伤亡事故。由于意外情况在化合反应时也发生过一次起火。这次起火主要是由于在距雷汞化合作业场地约50米的地方，有一小堆未燃尽的残灰，当酒精蒸气和反应所产生的废气随空气飘荡时，遇到灰中火星而引起燃烧，瞬时即导致全部反应罐起火。</p>
+<p>上述火灾事件说明，雷汞化合反应所排出的大量气体中，有一部分是酒精蒸气和其他易燃气体。因此，在生产过程中要特别注意防火。</p>
+<h2 id="9">9 雷汞洗涤</h2>
+<p>洗涤的目的，在于从雷汞中除去酸份及其它可溶于水中的杂质。通过洗涤还可以减少反应中的草酸汞等副产品的含量(草酸汞是不安定的物质，当装药与壳体作用时，在某些情况下，会引起爆炸)。</p>
+<p>洗涤是在化合反应结束后，物料温度逐渐下降到75℃以下时进行。将箩筐或本质滤盆放在洁净的瓷盆上，内铺细白布，把雷汞和母液一起缓慢地倒入箩筐中。母液经布过滤，流入盆里，再将箩筐中的雷汞倒入另一个洁净的盆中(也可用表面光洁的玻璃缸)。再以过滤的净水洗涤，边加水边搅拌，反复洗涤，一直洗至中性为止。通常需洗10次以上(图8)。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_668_861_949_1166.jpg" alt="Image" width="26%" />
+<p>   1—细白布; 2—笼筐; 3—木架; 4—瓷盆; 5—工作台</p>
+<div style="text-align: center;">图 8 雷汞洗涤装置</div>
+</div>
+
+<p>洗涤后，用勺取出洗涤水3~5毫升，倒入玻璃杯中，滴入数滴甲基橙指示剂，当洗涤水不呈红色(中性)时即为洗涤合格。也可用蓝色石蕊试纸进行检验。将洗涤后的湿雷汞装入布袋内，口部用线绳系好，置于清水中或放在盛有水的大玻璃瓶中保存。雷汞在干燥状态下性质敏感，在洗涤时不要将它溅在地上；洗雷汞所使用的工具，常常沾有少量的雷汞，在洗涤后工具也应保存在清水中。</p>
+<p>洗涤雷汞的废水中含有少量的雷汞，这种废水不宜直接排出或排入小河沟中，以免废水干涸后，残留的雷汞受摩擦而引起爆炸。因此，应将洗涤废水集中在大陶瓷缸中，使它充分沉淀，最好再加入一些浓度为20%的硫代硫酸钠溶液，使残余的雷汞分解，分解后的废水即可排出。分解后的废物料，收集在一起定期处理或烧毁。</p>
+<h2 id="10">10 雷汞干燥</h2>
+<p>雷汞干燥作业，是通过干燥除去雷汞中的水分。干燥的雷汞对冲击摩擦和火焰的作用均十分敏感。因此，选择干燥方式须要慎重。雷汞干燥通常采用的方法有真空干燥法、热风干燥法和干燥室干燥法。在抗战时期，雷汞干燥是用隔墙加热的火墙式干燥方法。</p>
+<p>首先将湿雷汞用细白布包好，置于手搬压力机上，除去其中大部分水分。除水后，雷汞中的含水量可由30%以上降低到8～12%左右。在干燥前，雷汞中的含水量不要低于8%，如含水量过低会增加分盘工序的危险性(图 9)。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_118_766_460_1119.jpg" alt="Image" width="32%" />
+<p>1—手扳压力机；2—湿雷汞；3—工作台。</p>
+<div style="text-align: center;">图 9 手扳压力机除水</div>
+</div>
+
+<p>火墙式干燥室的墙是空心的，从室外专用的房间烧火，使烟气进入四周的空心区域，通过加热室内的空气来提高室温。保持室温在38～45℃，不宜过高。在室内放置木制的干燥架，架上置有干燥盘。经过除水后的雷汞，应小心地分配到每个干燥盘里，每一盘的装量不宜超过200克。干燥架用木制材料制成，结合方式采用榫接，如果用铁钉结合时，必须将铁钉头深深地嵌入结合件内，并在钉帽上涂漆。干燥架的高度，以低于2米为宜，其中可分成3～4层，每层均铺隔板，在板上铺以外包漆布的毛毡，使表面光滑柔软，在每层隔板的后面装上一排凸出的木条，以防止药盘入架时用力过猛由架后掉下来。在架子的前面挂上网布或细白布，架子的顶部需装置顶板，以防止灰尘落入药中(图10)。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_183_500_843_982.jpg" alt="Image" width="62%" />
+<p>1—干燥架；2—火墙。</p>
+<div style="text-align: center;">图10 火墙干燥室</div>
+</div>
+
+<p>药盘是用木料(或厚纸板)制成，其上包一层漆布或细布，再在布上涂一层虫胶漆。烘干时在盘上放置一块比盘略大一些的绸布，将雷汞倒在盘上用牛角勺或羽毛轻轻地将药铺平，再小心地送到干燥架上。在室温为38～45℃的条件下烘干36小时(图11)。</p>
+<p>烘干以后的雷汞，装入纸盒中。这个操作要注意安全，装盒工作最好是在单独的工作间里进行。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_711_1215_958_1471.jpg" alt="Image" width="23%" />
+<div style="text-align: center;">图11 药盘</div>
+</div>
+
+<p>倒药所采用的设备如图 12 所示。</p>
+<p>倒药装置除框架是木制以外，其他部件均用厚纸板制成。内外均以纸糊成光洁无缝，并涂上两层虫胶漆，在药盒的下面铺以橡皮板。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_99_255_529_897.jpg" alt="Image" width="40%" />
+<div style="text-align: center;">1—拉绳；2—药盘；3—支架；4—输药漏斗；5—纸盒；6—橡皮板；7—厚毡垫</div>
+<div style="text-align: center;">图12 倒药装置</div>
+</div>
+
+<p>倒药时可能有静电产生，当时是采用在橡皮板上涂以导电漆。导电漆的成分为65%的清漆和35%的石墨粉的混合物。</p>
+<p>干雷汞运来后要进行装盒，装盒时先将药盘置于可转动的托板上，用橡皮筋卡住，操作人员到防险墙外，通过滑轮用绳子将药盘拉翻，这样药就缓慢地流入药盒中。每盒装一盘或两盘(即200～400克)。装盒以后的成品即可送去使用。</p>
+<p>制造雷汞所用的厂房，一般包括有化合工厂(当时多在室外作业)、干燥工厂和倒药工厂等以及库房。由于当时环境比较动荡，不可能建设新的厂房，当时是选择离居民密集的村镇比较远的地方，充分利用已有的建筑物，如学校和零星的居民住宅，略加以修改扩充。</p>
+<p>由于雷汞制造过程中可能会产生起火和爆炸，因此，不要用草房和草棚，离居民地点也不宜太近，屋顶有纸棚的应将纸棚拆除。如系多年的老房子，一经震动就会有灰尘落下，这对雷汞生产也是不合适的。为了避免灰尘下落掉入药中，在室内屋顶挂上布，保持室内清洁。在战争年代，虽然厂房简陋，但能经常保持室内整洁，操作也井然有条，因而保证了优质高产和生产安全。</p>
+<p>在战争的岁月里，除厂房自动手动改建外，设备是自己加工制造的，工具、量具和仪器也多是自己制作的。如量筒，虽然构造简单，但用途很广泛，可计量液体、测定密度、测定固体粉(粒)状物质的假比重等。这些用具大多是以自力更生的方法来解决的。如在玻璃杯或玻璃管中，注入温度为 4℃ 的定量的水( 4℃时的水比重为1)，然后在杯的水准面处，刻上标记(刻度)，即可制成简单的量筒(图 13)。当时是采用这种简易的办法，制做出诸如此类各式各样的工具和仪器。</p>
+<p>在生产和战斗的间隙，职工们开展了各种科学研究活动，虽然参考资料缺乏，书籍不多，但由于职工们积极努力，充分利用当时条件，所以研究成果很显著，并多用于生产上。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_712_475_953_745.jpg" alt="Image" width="22%" />
+<div style="text-align: center;">图13 量筒</div>
+</div>
+
+<p>由于战时环境复杂，为保守机密起见，将各种产品均托以代名词：如硫酸称之为“白醋”，硝酸称之为“黄醋”，乙醚称之为“香水”等。</p>
+<p>在战争年代是面临着一年几次的扫荡和反扫荡的斗争。为应付环境突变，在平时对坚壁工作就做好充分准备；一旦发生敌情，各负专责，接到坚壁的命令后，各种坚壁工作立即按计划进行，几小时后，一栋栋生产车间，即静悄无声；如果原来是个庙宇，这时在高大的宝殿上又出现了一尊尊的泥塑像。使敌人根本找不出破绽，无法找到工厂，更无法破坏工厂。</p>
+<p>抗战时期，不但制造了灰雷汞，也制造了白雷汞，还试验了雷铜、雷银等各种雷酸爆炸物，并且大量地制造了雷银。</p>
+<h2 id="11">11 雷银的性质</h2>
+<p>雷银，外观为白色细小针状体，分子式为 AgONC，密度为4.09克/厘米 <span class="arithmatex">\(^3\)</span>，吸湿性很小。它在空气中和光线作用下表面变黑；与浓硫酸作用时爆炸；与金属作用可生重盐。例如：与铵、钠、钾作用时生成 <span class="arithmatex">\(NH_4(AgONC),Na(AgONC),K(AgONC)\)</span>。</p>
+<p>雷银的爆发点为 167～178℃，对冲击摩擦很敏感。如将雷银置于两个坚硬的固体表面之间，即使受轻微的冲击甚至在水中也能爆炸。1 公斤落锤在 10 次撞击试验中，引起爆炸的最小高度为 38 厘米。雷银对火焰非常敏感，受火焰作用时即强烈燃烧，并转至爆炸。在壳体内燃烧时立即爆炸。</p>
+<h2 id="12">12 雷银制造概述</h2>
+<p>雷银试制是于1943年春天开始的，利用雷汞生产的全部设备，经过一段摸索和研究，由小型到大型试验，并投入大量生产，所制出的产品，多用于纸壳雷管的主装药。雷银试验记录片断附后。</p>
+<p>雷银制造所用的原料是硝酸(浓度  <span class="arithmatex">\(60 \pm 1.5\%\)</span>)，酒精(浓度 92% 以上)和银(纯度较大的)。上述三种物料的投料比为15:15:1，雷银制造的方法和工艺步骤与雷汞制造基本相同。</p>
+<p>制造雷银的银，在解放区来源很广，如元宝、银元、银器等。根据试验证明，制造雷银所用的银，要求纯度愈高愈好，否则将影响产品质量和得率。经试验得知，在银质材料中，元宝的纯度较大，含铜量较小，其次是银元，而各种银器的纯度就更次之。元宝的质量纯，解放区内存量又多，所以，当时，即以元宝为制雷银的主要原料。一个银元一般重22.5克，而大元宝的重量为1125克。当然原料银不限于元宝和银元，凡是纯银均能使用。</p>
+<div style="text-align: center;">
+<div style="text-align: center;">流程 2 雷银制造工艺流程</div> 
+<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_128_249_918_1013.jpg" alt="Image" width="75%" /> -->
+<div style="text-align: center;">物料投料比——银：硝酸：酒精为1:15:15。</div>
+</div>
+
+<pre class="mermaid"><code>flowchart TD
+    %% 银处理流程
+    A[银准备] --&gt;|硝酸浓度8~12%| B[银化学处理]
+    B --&gt; C[配制硝酸银]
+
+    %% 配酸流程
+    C1[浓硝酸] --&gt; C2[配酸]
+    C3[过滤水或蒸馏水] --&gt;|浓度60±1.5%| C2
+    C2 --&gt; C
+
+    %% 酒精处理流程
+    E[酒精准备&lt;br/&gt;浓度92%以上] --&gt; F[酒精预热&lt;br/&gt;温度18~30℃]
+    F --&gt; G[雷银化合&lt;br/&gt;化合温度不超过83℃]
+
+    %% 核心化合
+    C --&gt;|预热30~40℃&lt;br/&gt;时间30~40分钟| G
+    G -.-&gt;|废气排入大气| W[废气处理]
+    G --&gt; H[雷银洗涤]
+    C3 --&gt;|洗涤至中性为止| H
+
+    %% 洗涤分支
+    H --&gt;|洗涤废水| I[洗涤水沉淀]
+    H --&gt; J[雷银干燥]
+    H --&gt;|温度不低于5℃&lt;br/&gt;时间不超过15天| K[湿雷银存放]
+
+    I --&gt; O[水排出]
+    I --&gt; P[沉淀物定期销毁]
+    K --&gt; J
+
+    %% 成品流程
+    J --&gt;|温度40~45℃&lt;br/&gt;时间36小时| L[雷银倒盒]
+    L --&gt; M[成品]</code></pre>
+<h2 id="13">13 原料准备及配制硝酸银</h2>
+<p>配硝酸和酒精的准备方法及所使用的工具和仪器与雷汞制造相同。而配制硝酸银所使用的元宝，由于制造年代较久，并在民间长期流传，在元宝的外表面上有一层油污和发黑的氧化层需要清除。清除时可先用布将元宝的外表面擦拭干净，再进行化学处理。用一个洁净的瓷盆，在盆里加入浓度8～12%的稀硝酸，将擦干净的元宝或银元，用小勺子轻轻地浸入酸液中，经过3～5分钟酸洗后取出。取出后用清水冲洗和擦干，称好重量并按1:15准备好硝酸钾，即可配制硝酸银。配制硝酸银的方法与硝酸汞配制的方法相同。配制硝酸银的化学反应式如下：</p>
+<div class="arithmatex">\[
+3Ag+8HNO_3\longrightarrow3Ag(NO_3)_2+2NO+4H_2O
+\]</div>
+<h2 id="14">14 雷银化合反应</h2>
+<p>雷银化合反应的装置是采用与雷汞化合反应相同的瓷罐。先把罐擦净，将温度为25～35℃的硝酸银溶液加入罐中，然后再加入重量为银15倍的温度18～30℃的酒精，加酒精时要徐徐加入，先加入全部用量的二分之一。这时酒精与硝酸银开始作用，温度逐渐升高。溶液中开始有气泡上升，继之，有白色烟雾出现。当温度上升到65～70℃时，再将其余的二分之一酒精加入。约经10分钟，温度迅速上升，反应剧烈，有大量烟雾由罐口排出。</p>
+<p>当温度达到 80℃ 左右，雷银的晶体开始析出，其后的反应与雷汞制造相同。</p>
+<p>硝酸银与酒精的作用非常复杂，同时产生一系列副反应。当不考虑副反应时，这种作用可写成下列反应式：</p>
+<div class="arithmatex">\[
+Ag(NO_3)_2 + 2C_2H_5OH + 4HNO_3 \longrightarrow Ag(ONC)_2 + 2CO_2 + 8H_2O + 2NO_2 + 2NO
+\]</div>
+<p>制造雷银时的化合反应温度，不能过高或过低。反应温度过低，会出现“清汤”现象；反应温度过高，会增加操作的危险性。因而应控制化合反应温度不超过83℃。如温度过高时，可以加入少量的酒精调整温度。雷银化合反应的整个操作过程的约需60分钟。</p>
+<p>雷银化合反应，要特别注意安全。每次投料量不宜过大，每罐每次投料量以银来说，不超过200克。雷银化合反应可以在室内作业也可以在室外露天作业，但要特别注意，勿使灰尘、砂粒等混入里面。</p>
+<h2 id="15">15 雷银洗涤</h2>
+<p>洗涤雷银的目的是为了除掉酸份，因为含酸的雷银是不安定的。雷银洗涤与雷汞洗涤不同，雷汞在水中钝感，而雷银在水中仍具有爆炸性。洗涤时切忌冲击摩擦，绝对禁止搅拌，只能用较细的胶皮管放水冲洗。</p>
+<p>洗涤是在化合反应结束后进行的，先在罐内的母液中，加入少量的过滤水或蒸馏水将母液稀释。然后用一个洁净的瓷盆，上面放置一个木漏斗，在漏斗内铺一块细白布(最好是绸布)。将经过稀释的雷银和母液一起倒入漏斗中，用细胶皮管放水冲洗，禁止搅拌(图 14)。</p>
+<p>洗涤后轻轻地将绸布的四角合拢起来，装入布袋内，系好口袋，置于水中保存。在整个洗涤过程中都必须精心细致，以免发生危险。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_606_253_932_557.jpg" alt="Image" width="30%" />
+<div style="text-align: center;">图14 洗涤用木漏斗</div>
+</div>
+
+<h2 id="16">16 雷银干燥</h2>
+<p>雷银干燥的工艺条件和设备与雷汞相同，但雷银对冲击摩擦比雷汞更为敏感。操作时，工作人员要避免直接与雷银接触。分盘时，最好使用表面光洁的小木板作为分盘工具，分盘工作要在纸板上进行。分盘后即可送去干燥，干燥雷银的工艺条件与雷汞相同，经干燥合格的产品即为成品。</p>
+<p>雷银对冲击、摩擦和火焰作用十分敏感，在制造中要注意防火，防止冲击摩擦，防止灰尘杂质落入其中。雷银遇硫酸作用立即发生爆炸，在雷银制造工厂或工作地点绝对禁止存放硫酸。</p>
+<p>在大量需要起爆材料的情况下，雷银制造成功并大量投入生产，不但满足了军事供给，也节约不少水银，使原材料立足于解放区，给起爆药增添了新的品种。</p>
+<p>几千年来元宝都为剥削阶级所占有，成为压榨和剥削劳动人民血汗的工具。今天在人民手中，用它制造出爆炸物，为解放事业发出了光和热，在兵工史上记载了光荣的一页。</p>
+<div style="text-align: center;" id="tb-4">表4 雷银试验记录片断</div>
+
+<table border=1 style='margin: auto; word-wrap: break-word;'>
+<tr><td rowspan="2">试验次数</td><td rowspan="2">加入银的重量(克)</td><td colspan="3">硝酸</td><td colspan="2">酒精浓度90%</td><td colspan="3">反应情况</td><td colspan="2">得率</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>比重1.56(克)</td><td style='text-align: center; word-wrap: break-word;'>水(克)</td><td style='text-align: center; word-wrap: break-word;'>温度(℃)</td><td style='text-align: center; word-wrap: break-word;'>重量(克)</td><td style='text-align: center; word-wrap: break-word;'>温度(℃)</td><td style='text-align: center; word-wrap: break-word;'>初温(℃)</td><td style='text-align: center; word-wrap: break-word;'>终温(℃)</td><td style='text-align: center; word-wrap: break-word;'>产量(克)</td><td style='text-align: center; word-wrap: break-word;'>为理论得率的%</td><td style='text-align: center; word-wrap: break-word;'>备注</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>6</td><td style='text-align: center; word-wrap: break-word;'>36.5</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>51(水套加热)</td><td style='text-align: center; word-wrap: break-word;'>76</td><td style='text-align: center; word-wrap: break-word;'>0.95</td><td style='text-align: center; word-wrap: break-word;'>34.3</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>8</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>12</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>51(水套加热)</td><td style='text-align: center; word-wrap: break-word;'>74</td><td style='text-align: center; word-wrap: break-word;'>0.46</td><td style='text-align: center; word-wrap: break-word;'>16.6</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>8</td><td style='text-align: center; word-wrap: break-word;'>45</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>50(水套加热)</td><td style='text-align: center; word-wrap: break-word;'>67</td><td style='text-align: center; word-wrap: break-word;'>0.55</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>7</td><td style='text-align: center; word-wrap: break-word;'>45</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>50(水套加热)</td><td style='text-align: center; word-wrap: break-word;'>65</td><td style='text-align: center; word-wrap: break-word;'>0.42</td><td style='text-align: center; word-wrap: break-word;'>15.3</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>3</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>自起作用</td><td style='text-align: center; word-wrap: break-word;'>77</td><td style='text-align: center; word-wrap: break-word;'>1.07</td><td style='text-align: center; word-wrap: break-word;'>39</td><td style='text-align: center; word-wrap: break-word;'>白色细粒结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6</td><td style='text-align: center; word-wrap: break-word;'>4</td><td style='text-align: center; word-wrap: break-word;'>60</td><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>42</td><td style='text-align: center; word-wrap: break-word;'>60</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>自起作用</td><td style='text-align: center; word-wrap: break-word;'>82</td><td style='text-align: center; word-wrap: break-word;'>4.3</td><td style='text-align: center; word-wrap: break-word;'>78</td><td style='text-align: center; word-wrap: break-word;'>白色针状结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>7</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>25</td><td style='text-align: center; word-wrap: break-word;'>7</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>自起作用</td><td style='text-align: center; word-wrap: break-word;'>75</td><td style='text-align: center; word-wrap: break-word;'>1.62</td><td style='text-align: center; word-wrap: break-word;'>50</td><td style='text-align: center; word-wrap: break-word;'>白色针状结晶</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>8</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>15</td><td style='text-align: center; word-wrap: break-word;'>26</td><td style='text-align: center; word-wrap: break-word;'>自起作用</td><td style='text-align: center; word-wrap: break-word;'>74</td><td style='text-align: center; word-wrap: break-word;'>1.23</td><td style='text-align: center; word-wrap: break-word;'>44</td><td style='text-align: center; word-wrap: break-word;'>白色针状结晶</td></tr></table>
+
+<div style="text-align: center;" id="tb-5">表5 酒精浓度表(15.56℃时)</div>
+
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">乙醇体积百分率%</th>
+<th style="text-align: center;">单位体积重量克/厘米<span class="arithmatex">\(^3\)</span></th>
+<th style="text-align: center;">乙醇体积百分率%</th>
+<th style="text-align: center;">单位体积重量克/厘米<span class="arithmatex">\(^3\)</span></th>
+<th style="text-align: center;">乙醇体积百分率%</th>
+<th style="text-align: center;">单位体积重量克/厘米<span class="arithmatex">\(^3\)</span></th>
+<th style="text-align: center;">乙醇体积百分率%</th>
+<th style="text-align: center;">单位体积重量克/厘米<span class="arithmatex">\(^3\)</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: center;">0.9976</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">0.9771</td>
+<td style="text-align: center;">35</td>
+<td style="text-align: center;">0.9583</td>
+<td style="text-align: center;">52</td>
+<td style="text-align: center;">0.9295</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: center;">0.9961</td>
+<td style="text-align: center;">19</td>
+<td style="text-align: center;">0.9761</td>
+<td style="text-align: center;">36</td>
+<td style="text-align: center;">0.9570</td>
+<td style="text-align: center;">53</td>
+<td style="text-align: center;">0.9275</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: center;">0.9947</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">0.9751</td>
+<td style="text-align: center;">37</td>
+<td style="text-align: center;">0.9559</td>
+<td style="text-align: center;">54</td>
+<td style="text-align: center;">0.9254</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">0.9933</td>
+<td style="text-align: center;">21</td>
+<td style="text-align: center;">0.9741</td>
+<td style="text-align: center;">38</td>
+<td style="text-align: center;">0.9541</td>
+<td style="text-align: center;">55</td>
+<td style="text-align: center;">0.9234</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td style="text-align: center;">0.9919</td>
+<td style="text-align: center;">22</td>
+<td style="text-align: center;">0.9731</td>
+<td style="text-align: center;">39</td>
+<td style="text-align: center;">0.9526</td>
+<td style="text-align: center;">56</td>
+<td style="text-align: center;">0.9213</td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td style="text-align: center;">0.9906</td>
+<td style="text-align: center;">23</td>
+<td style="text-align: center;">0.9720</td>
+<td style="text-align: center;">40</td>
+<td style="text-align: center;">0.9510</td>
+<td style="text-align: center;">57</td>
+<td style="text-align: center;">0.9192</td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td style="text-align: center;">0.9893</td>
+<td style="text-align: center;">24</td>
+<td style="text-align: center;">0.9710</td>
+<td style="text-align: center;">41</td>
+<td style="text-align: center;">0.9494</td>
+<td style="text-align: center;">58</td>
+<td style="text-align: center;">0.9170</td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">0.9881</td>
+<td style="text-align: center;">25</td>
+<td style="text-align: center;">0.9700</td>
+<td style="text-align: center;">42</td>
+<td style="text-align: center;">0.9478</td>
+<td style="text-align: center;">59</td>
+<td style="text-align: center;">0.9148</td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td style="text-align: center;">0.9869</td>
+<td style="text-align: center;">26</td>
+<td style="text-align: center;">0.9689</td>
+<td style="text-align: center;">43</td>
+<td style="text-align: center;">0.9461</td>
+<td style="text-align: center;">60</td>
+<td style="text-align: center;">0.9126</td>
+</tr>
+<tr>
+<td style="text-align: center;">10</td>
+<td style="text-align: center;">0.9857</td>
+<td style="text-align: center;">27</td>
+<td style="text-align: center;">0.9679</td>
+<td style="text-align: center;">44</td>
+<td style="text-align: center;">0.9444</td>
+<td style="text-align: center;">61</td>
+<td style="text-align: center;">0.9104</td>
+</tr>
+<tr>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">0.9845</td>
+<td style="text-align: center;">28</td>
+<td style="text-align: center;">0.9668</td>
+<td style="text-align: center;">45</td>
+<td style="text-align: center;">0.9427</td>
+<td style="text-align: center;">62</td>
+<td style="text-align: center;">0.9082</td>
+</tr>
+<tr>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">0.9834</td>
+<td style="text-align: center;">29</td>
+<td style="text-align: center;">0.9657</td>
+<td style="text-align: center;">46</td>
+<td style="text-align: center;">0.9409</td>
+<td style="text-align: center;">63</td>
+<td style="text-align: center;">0.9059</td>
+</tr>
+<tr>
+<td style="text-align: center;">13</td>
+<td style="text-align: center;">0.9823</td>
+<td style="text-align: center;">30</td>
+<td style="text-align: center;">0.9646</td>
+<td style="text-align: center;">47</td>
+<td style="text-align: center;">0.9391</td>
+<td style="text-align: center;">64</td>
+<td style="text-align: center;">0.9036</td>
+</tr>
+<tr>
+<td style="text-align: center;">14</td>
+<td style="text-align: center;">0.9812</td>
+<td style="text-align: center;">31</td>
+<td style="text-align: center;">0.9634</td>
+<td style="text-align: center;">48</td>
+<td style="text-align: center;">0.9373</td>
+<td style="text-align: center;">65</td>
+<td style="text-align: center;">0.9013</td>
+</tr>
+<tr>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">0.9802</td>
+<td style="text-align: center;">32</td>
+<td style="text-align: center;">0.9622</td>
+<td style="text-align: center;">49</td>
+<td style="text-align: center;">0.9354</td>
+<td style="text-align: center;">66</td>
+<td style="text-align: center;">0.8989</td>
+</tr>
+<tr>
+<td style="text-align: center;">16</td>
+<td style="text-align: center;">0.9791</td>
+<td style="text-align: center;">33</td>
+<td style="text-align: center;">0.9609</td>
+<td style="text-align: center;">50</td>
+<td style="text-align: center;">0.9335</td>
+<td style="text-align: center;">67</td>
+<td style="text-align: center;">0.8965</td>
+</tr>
+<tr>
+<td style="text-align: center;">17</td>
+<td style="text-align: center;">0.9781</td>
+<td style="text-align: center;">34</td>
+<td style="text-align: center;">0.9596</td>
+<td style="text-align: center;">51</td>
+<td style="text-align: center;">0.9315</td>
+<td style="text-align: center;">68</td>
+<td style="text-align: center;">0.8941</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">乙醇体积百分率%</th>
+<th style="text-align: center;">单位体积重量克/厘米<span class="arithmatex">\(^3\)</span></th>
+<th style="text-align: center;">乙醇体积百分率%</th>
+<th style="text-align: center;">单位体积重量克/厘米<span class="arithmatex">\(^3\)</span></th>
+<th style="text-align: center;">乙醇体积百分率%</th>
+<th style="text-align: center;">单位体积重量克/厘米<span class="arithmatex">\(^3\)</span></th>
+<th style="text-align: center;">乙醇体积百分率%</th>
+<th style="text-align: center;">单位体积重量克/厘米<span class="arithmatex">\(^3\)</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">69</td>
+<td style="text-align: center;">0.8917</td>
+<td style="text-align: center;">77</td>
+<td style="text-align: center;">0.8712</td>
+<td style="text-align: center;">85</td>
+<td style="text-align: center;">0.8488</td>
+<td style="text-align: center;">93</td>
+<td style="text-align: center;">0.8230</td>
+</tr>
+<tr>
+<td style="text-align: center;">70</td>
+<td style="text-align: center;">0.8892</td>
+<td style="text-align: center;">78</td>
+<td style="text-align: center;">0.8685</td>
+<td style="text-align: center;">86</td>
+<td style="text-align: center;">0.8458</td>
+<td style="text-align: center;">94</td>
+<td style="text-align: center;">0.8194</td>
+</tr>
+<tr>
+<td style="text-align: center;">71</td>
+<td style="text-align: center;">0.8867</td>
+<td style="text-align: center;">79</td>
+<td style="text-align: center;">0.8658</td>
+<td style="text-align: center;">87</td>
+<td style="text-align: center;">0.8428</td>
+<td style="text-align: center;">95</td>
+<td style="text-align: center;">0.8157</td>
+</tr>
+<tr>
+<td style="text-align: center;">72</td>
+<td style="text-align: center;">0.8842</td>
+<td style="text-align: center;">80</td>
+<td style="text-align: center;">0.8631</td>
+<td style="text-align: center;">88</td>
+<td style="text-align: center;">0.8397</td>
+<td style="text-align: center;">96</td>
+<td style="text-align: center;">0.8118</td>
+</tr>
+<tr>
+<td style="text-align: center;">73</td>
+<td style="text-align: center;">0.8817</td>
+<td style="text-align: center;">81</td>
+<td style="text-align: center;">0.8603</td>
+<td style="text-align: center;">89</td>
+<td style="text-align: center;">0.8365</td>
+<td style="text-align: center;">97</td>
+<td style="text-align: center;">0.8077</td>
+</tr>
+<tr>
+<td style="text-align: center;">74</td>
+<td style="text-align: center;">0.8791</td>
+<td style="text-align: center;">82</td>
+<td style="text-align: center;">0.8575</td>
+<td style="text-align: center;">90</td>
+<td style="text-align: center;">0.8332</td>
+<td style="text-align: center;">98</td>
+<td style="text-align: center;">0.8034</td>
+</tr>
+<tr>
+<td style="text-align: center;">75</td>
+<td style="text-align: center;">0.8765</td>
+<td style="text-align: center;">83</td>
+<td style="text-align: center;">0.8547</td>
+<td style="text-align: center;">91</td>
+<td style="text-align: center;">0.8299</td>
+<td style="text-align: center;">99</td>
+<td style="text-align: center;">0.7988</td>
+</tr>
+<tr>
+<td style="text-align: center;">76</td>
+<td style="text-align: center;">0.8739</td>
+<td style="text-align: center;">84</td>
+<td style="text-align: center;">0.8518</td>
+<td style="text-align: center;">92</td>
+<td style="text-align: center;">0.8265</td>
+<td style="text-align: center;">100</td>
+<td style="text-align: center;">0.7937</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;" id="tb-6">表6 各种温度下的酒精比重表</div>
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>乙醇重量</td><td colspan="4">比重(与4℃的同体积水相比)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>百分率</td><td style='text-align: center; word-wrap: break-word;'>0℃</td><td style='text-align: center; word-wrap: break-word;'>10℃</td><td style='text-align: center; word-wrap: break-word;'>20℃</td><td style='text-align: center; word-wrap: break-word;'>30℃</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>0</td><td style='text-align: center; word-wrap: break-word;'>0.99988</td><td style='text-align: center; word-wrap: break-word;'>0.99975</td><td style='text-align: center; word-wrap: break-word;'>0.99831</td><td style='text-align: center; word-wrap: break-word;'>0.99579</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>0.99135</td><td style='text-align: center; word-wrap: break-word;'>0.99113</td><td style='text-align: center; word-wrap: break-word;'>0.98945</td><td style='text-align: center; word-wrap: break-word;'>0.98680</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10</td><td style='text-align: center; word-wrap: break-word;'>0.98493</td><td style='text-align: center; word-wrap: break-word;'>0.98409</td><td style='text-align: center; word-wrap: break-word;'>0.98195</td><td style='text-align: center; word-wrap: break-word;'>0.97892</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>15</td><td style='text-align: center; word-wrap: break-word;'>0.97995</td><td style='text-align: center; word-wrap: break-word;'>0.97816</td><td style='text-align: center; word-wrap: break-word;'>0.97527</td><td style='text-align: center; word-wrap: break-word;'>0.97142</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'>0.97566</td><td style='text-align: center; word-wrap: break-word;'>0.97263</td><td style='text-align: center; word-wrap: break-word;'>0.96877</td><td style='text-align: center; word-wrap: break-word;'>0.96413</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>25</td><td style='text-align: center; word-wrap: break-word;'>0.97115</td><td style='text-align: center; word-wrap: break-word;'>0.96662</td><td style='text-align: center; word-wrap: break-word;'>0.96185</td><td style='text-align: center; word-wrap: break-word;'>0.95628</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>30</td><td style='text-align: center; word-wrap: break-word;'>0.96540</td><td style='text-align: center; word-wrap: break-word;'>0.95998</td><td style='text-align: center; word-wrap: break-word;'>0.95403</td><td style='text-align: center; word-wrap: break-word;'>0.94751</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>35</td><td style='text-align: center; word-wrap: break-word;'>0.95784</td><td style='text-align: center; word-wrap: break-word;'>0.95174</td><td style='text-align: center; word-wrap: break-word;'>0.94514</td><td style='text-align: center; word-wrap: break-word;'>0.93813</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>40</td><td style='text-align: center; word-wrap: break-word;'>0.94939</td><td style='text-align: center; word-wrap: break-word;'>0.94255</td><td style='text-align: center; word-wrap: break-word;'>0.93511</td><td style='text-align: center; word-wrap: break-word;'>0.92813</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>45</td><td style='text-align: center; word-wrap: break-word;'>0.93977</td><td style='text-align: center; word-wrap: break-word;'>0.93254</td><td style='text-align: center; word-wrap: break-word;'>0.92493</td><td style='text-align: center; word-wrap: break-word;'>0.91710</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>50</td><td style='text-align: center; word-wrap: break-word;'>0.92940</td><td style='text-align: center; word-wrap: break-word;'>0.92182</td><td style='text-align: center; word-wrap: break-word;'>0.91400</td><td style='text-align: center; word-wrap: break-word;'>0.90577</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>55</td><td style='text-align: center; word-wrap: break-word;'>0.91848</td><td style='text-align: center; word-wrap: break-word;'>0.91074</td><td style='text-align: center; word-wrap: break-word;'>0.90275</td><td style='text-align: center; word-wrap: break-word;'>0.89456</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>60</td><td style='text-align: center; word-wrap: break-word;'>0.90742</td><td style='text-align: center; word-wrap: break-word;'>0.89944</td><td style='text-align: center; word-wrap: break-word;'>0.89129</td><td style='text-align: center; word-wrap: break-word;'>0.88304</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>65</td><td style='text-align: center; word-wrap: break-word;'>0.89595</td><td style='text-align: center; word-wrap: break-word;'>0.88790</td><td style='text-align: center; word-wrap: break-word;'>0.87961</td><td style='text-align: center; word-wrap: break-word;'>0.87125</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>70</td><td style='text-align: center; word-wrap: break-word;'>0.88420</td><td style='text-align: center; word-wrap: break-word;'>0.87613</td><td style='text-align: center; word-wrap: break-word;'>0.86781</td><td style='text-align: center; word-wrap: break-word;'>0.85925</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>75</td><td style='text-align: center; word-wrap: break-word;'>0.87245</td><td style='text-align: center; word-wrap: break-word;'>0.86427</td><td style='text-align: center; word-wrap: break-word;'>0.85580</td><td style='text-align: center; word-wrap: break-word;'>0.84719</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>80</td><td style='text-align: center; word-wrap: break-word;'>0.86035</td><td style='text-align: center; word-wrap: break-word;'>0.85215</td><td style='text-align: center; word-wrap: break-word;'>0.84366</td><td style='text-align: center; word-wrap: break-word;'>0.83483</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>85</td><td style='text-align: center; word-wrap: break-word;'>0.84789</td><td style='text-align: center; word-wrap: break-word;'>0.83967</td><td style='text-align: center; word-wrap: break-word;'>0.83115</td><td style='text-align: center; word-wrap: break-word;'>0.82232</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>90</td><td style='text-align: center; word-wrap: break-word;'>0.83482</td><td style='text-align: center; word-wrap: break-word;'>0.82665</td><td style='text-align: center; word-wrap: break-word;'>0.81801</td><td style='text-align: center; word-wrap: break-word;'>0.80918</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>95</td><td style='text-align: center; word-wrap: break-word;'>0.82119</td><td style='text-align: center; word-wrap: break-word;'>0.81241</td><td style='text-align: center; word-wrap: break-word;'>0.80433</td><td style='text-align: center; word-wrap: break-word;'>0.79553</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>100</td><td style='text-align: center; word-wrap: break-word;'>0.80625</td><td style='text-align: center; word-wrap: break-word;'>0.79788</td><td style='text-align: center; word-wrap: break-word;'>0.78945</td><td style='text-align: center; word-wrap: break-word;'>0.78096</td></tr></table>
+
+<p>注：使用表6时，乙醇的重量百分率(P%)按下式算出</p>
+<div class="arithmatex">\[
+\frac{0.7937}{a}V = P\%
+\]</div>
+<p>式中 0.7937 —— 绝对乙醇的比重；</p>
+<p>a ——受试乙醇的比重；</p>
+<p>V——体积百分率。</p>
+<div style="text-align: center;" id="tb-7">表7 &nbsp;&nbsp; 15℃ 时硝酸的比重(与  4℃ 的同体积水相比)</div>
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>比重</td><td style='text-align: center; word-wrap: break-word;'>重量百分数</td><td style='text-align: center; word-wrap: break-word;'>比重</td><td style='text-align: center; word-wrap: break-word;'>重量百分数</td><td style='text-align: center; word-wrap: break-word;'>比重</td><td style='text-align: center; word-wrap: break-word;'>重量百分数</td><td style='text-align: center; word-wrap: break-word;'>比重</td><td style='text-align: center; word-wrap: break-word;'>重量百分数</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.000</td><td style='text-align: center; word-wrap: break-word;'>0.10</td><td style='text-align: center; word-wrap: break-word;'>1.135</td><td style='text-align: center; word-wrap: break-word;'>22.54</td><td style='text-align: center; word-wrap: break-word;'>1.270</td><td style='text-align: center; word-wrap: break-word;'>42.87</td><td style='text-align: center; word-wrap: break-word;'>1.405</td><td style='text-align: center; word-wrap: break-word;'>66.40</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.005</td><td style='text-align: center; word-wrap: break-word;'>1.00</td><td style='text-align: center; word-wrap: break-word;'>1.140</td><td style='text-align: center; word-wrap: break-word;'>23.31</td><td style='text-align: center; word-wrap: break-word;'>1.275</td><td style='text-align: center; word-wrap: break-word;'>43.64</td><td style='text-align: center; word-wrap: break-word;'>1.410</td><td style='text-align: center; word-wrap: break-word;'>67.50</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.010</td><td style='text-align: center; word-wrap: break-word;'>1.90</td><td style='text-align: center; word-wrap: break-word;'>1.145</td><td style='text-align: center; word-wrap: break-word;'>24.08</td><td style='text-align: center; word-wrap: break-word;'>1.280</td><td style='text-align: center; word-wrap: break-word;'>44.41</td><td style='text-align: center; word-wrap: break-word;'>1.415</td><td style='text-align: center; word-wrap: break-word;'>68.63</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.015</td><td style='text-align: center; word-wrap: break-word;'>2.80</td><td style='text-align: center; word-wrap: break-word;'>1.150</td><td style='text-align: center; word-wrap: break-word;'>24.84</td><td style='text-align: center; word-wrap: break-word;'>1.285</td><td style='text-align: center; word-wrap: break-word;'>45.18</td><td style='text-align: center; word-wrap: break-word;'>1.420</td><td style='text-align: center; word-wrap: break-word;'>69.80</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.020</td><td style='text-align: center; word-wrap: break-word;'>3.70</td><td style='text-align: center; word-wrap: break-word;'>1.155</td><td style='text-align: center; word-wrap: break-word;'>25.60</td><td style='text-align: center; word-wrap: break-word;'>1.290</td><td style='text-align: center; word-wrap: break-word;'>45.95</td><td style='text-align: center; word-wrap: break-word;'>1.425</td><td style='text-align: center; word-wrap: break-word;'>70.98</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.025</td><td style='text-align: center; word-wrap: break-word;'>4.60</td><td style='text-align: center; word-wrap: break-word;'>1.160</td><td style='text-align: center; word-wrap: break-word;'>26.36</td><td style='text-align: center; word-wrap: break-word;'>1.295</td><td style='text-align: center; word-wrap: break-word;'>46.72</td><td style='text-align: center; word-wrap: break-word;'>1.430</td><td style='text-align: center; word-wrap: break-word;'>72.17</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.030</td><td style='text-align: center; word-wrap: break-word;'>5.50</td><td style='text-align: center; word-wrap: break-word;'>1.165</td><td style='text-align: center; word-wrap: break-word;'>27.12</td><td style='text-align: center; word-wrap: break-word;'>1.300</td><td style='text-align: center; word-wrap: break-word;'>47.49</td><td style='text-align: center; word-wrap: break-word;'>1.435</td><td style='text-align: center; word-wrap: break-word;'>73.39</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.035</td><td style='text-align: center; word-wrap: break-word;'>6.38</td><td style='text-align: center; word-wrap: break-word;'>1.170</td><td style='text-align: center; word-wrap: break-word;'>27.88</td><td style='text-align: center; word-wrap: break-word;'>1.305</td><td style='text-align: center; word-wrap: break-word;'>48.26</td><td style='text-align: center; word-wrap: break-word;'>1.440</td><td style='text-align: center; word-wrap: break-word;'>74.68</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.040</td><td style='text-align: center; word-wrap: break-word;'>7.26</td><td style='text-align: center; word-wrap: break-word;'>1.175</td><td style='text-align: center; word-wrap: break-word;'>28.93</td><td style='text-align: center; word-wrap: break-word;'>1.310</td><td style='text-align: center; word-wrap: break-word;'>49.07</td><td style='text-align: center; word-wrap: break-word;'>1.445</td><td style='text-align: center; word-wrap: break-word;'>75.98</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.045</td><td style='text-align: center; word-wrap: break-word;'>8.13</td><td style='text-align: center; word-wrap: break-word;'>1.180</td><td style='text-align: center; word-wrap: break-word;'>29.38</td><td style='text-align: center; word-wrap: break-word;'>1.315</td><td style='text-align: center; word-wrap: break-word;'>49.89</td><td style='text-align: center; word-wrap: break-word;'>1.450</td><td style='text-align: center; word-wrap: break-word;'>77.28</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.050</td><td style='text-align: center; word-wrap: break-word;'>8.99</td><td style='text-align: center; word-wrap: break-word;'>1.185</td><td style='text-align: center; word-wrap: break-word;'>30.13</td><td style='text-align: center; word-wrap: break-word;'>1.320</td><td style='text-align: center; word-wrap: break-word;'>50.71</td><td style='text-align: center; word-wrap: break-word;'>1.455</td><td style='text-align: center; word-wrap: break-word;'>78.60</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.055</td><td style='text-align: center; word-wrap: break-word;'>9.84</td><td style='text-align: center; word-wrap: break-word;'>1.190</td><td style='text-align: center; word-wrap: break-word;'>30.88</td><td style='text-align: center; word-wrap: break-word;'>1.325</td><td style='text-align: center; word-wrap: break-word;'>51.53</td><td style='text-align: center; word-wrap: break-word;'>1.460</td><td style='text-align: center; word-wrap: break-word;'>79.89</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.060</td><td style='text-align: center; word-wrap: break-word;'>10.68</td><td style='text-align: center; word-wrap: break-word;'>1.195</td><td style='text-align: center; word-wrap: break-word;'>31.62</td><td style='text-align: center; word-wrap: break-word;'>1.330</td><td style='text-align: center; word-wrap: break-word;'>52.37</td><td style='text-align: center; word-wrap: break-word;'>1.465</td><td style='text-align: center; word-wrap: break-word;'>81.42</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.065</td><td style='text-align: center; word-wrap: break-word;'>11.51</td><td style='text-align: center; word-wrap: break-word;'>1.200</td><td style='text-align: center; word-wrap: break-word;'>32.36</td><td style='text-align: center; word-wrap: break-word;'>1.335</td><td style='text-align: center; word-wrap: break-word;'>53.22</td><td style='text-align: center; word-wrap: break-word;'>1.470</td><td style='text-align: center; word-wrap: break-word;'>82.90</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.070</td><td style='text-align: center; word-wrap: break-word;'>12.33</td><td style='text-align: center; word-wrap: break-word;'>1.205</td><td style='text-align: center; word-wrap: break-word;'>33.09</td><td style='text-align: center; word-wrap: break-word;'>1.340</td><td style='text-align: center; word-wrap: break-word;'>54.07</td><td style='text-align: center; word-wrap: break-word;'>1.475</td><td style='text-align: center; word-wrap: break-word;'>84.45</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.075</td><td style='text-align: center; word-wrap: break-word;'>13.15</td><td style='text-align: center; word-wrap: break-word;'>1.210</td><td style='text-align: center; word-wrap: break-word;'>33.82</td><td style='text-align: center; word-wrap: break-word;'>1.345</td><td style='text-align: center; word-wrap: break-word;'>54.93</td><td style='text-align: center; word-wrap: break-word;'>1.480</td><td style='text-align: center; word-wrap: break-word;'>86.05</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.080</td><td style='text-align: center; word-wrap: break-word;'>13.95</td><td style='text-align: center; word-wrap: break-word;'>1.215</td><td style='text-align: center; word-wrap: break-word;'>34.55</td><td style='text-align: center; word-wrap: break-word;'>1.350</td><td style='text-align: center; word-wrap: break-word;'>55.79</td><td style='text-align: center; word-wrap: break-word;'>1.485</td><td style='text-align: center; word-wrap: break-word;'>87.70</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.085</td><td style='text-align: center; word-wrap: break-word;'>14.74</td><td style='text-align: center; word-wrap: break-word;'>1.220</td><td style='text-align: center; word-wrap: break-word;'>35.28</td><td style='text-align: center; word-wrap: break-word;'>1.355</td><td style='text-align: center; word-wrap: break-word;'>56.66</td><td style='text-align: center; word-wrap: break-word;'>1.490</td><td style='text-align: center; word-wrap: break-word;'>89.60</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.090</td><td style='text-align: center; word-wrap: break-word;'>15.53</td><td style='text-align: center; word-wrap: break-word;'>1.225</td><td style='text-align: center; word-wrap: break-word;'>36.03</td><td style='text-align: center; word-wrap: break-word;'>1.360</td><td style='text-align: center; word-wrap: break-word;'>57.57</td><td style='text-align: center; word-wrap: break-word;'>1.495</td><td style='text-align: center; word-wrap: break-word;'>91.60</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.095</td><td style='text-align: center; word-wrap: break-word;'>16.32</td><td style='text-align: center; word-wrap: break-word;'>1.230</td><td style='text-align: center; word-wrap: break-word;'>36.78</td><td style='text-align: center; word-wrap: break-word;'>1.365</td><td style='text-align: center; word-wrap: break-word;'>58.48</td><td style='text-align: center; word-wrap: break-word;'>1.500</td><td style='text-align: center; word-wrap: break-word;'>94.09</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.100</td><td style='text-align: center; word-wrap: break-word;'>17.11</td><td style='text-align: center; word-wrap: break-word;'>1.235</td><td style='text-align: center; word-wrap: break-word;'>37.53</td><td style='text-align: center; word-wrap: break-word;'>1.370</td><td style='text-align: center; word-wrap: break-word;'>59.39</td><td style='text-align: center; word-wrap: break-word;'>1.505</td><td style='text-align: center; word-wrap: break-word;'>96.39</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.105</td><td style='text-align: center; word-wrap: break-word;'>17.88</td><td style='text-align: center; word-wrap: break-word;'>1.240</td><td style='text-align: center; word-wrap: break-word;'>38.29</td><td style='text-align: center; word-wrap: break-word;'>1.375</td><td style='text-align: center; word-wrap: break-word;'>60.30</td><td style='text-align: center; word-wrap: break-word;'>1.510</td><td style='text-align: center; word-wrap: break-word;'>98.10</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.110</td><td style='text-align: center; word-wrap: break-word;'>18.67</td><td style='text-align: center; word-wrap: break-word;'>1.245</td><td style='text-align: center; word-wrap: break-word;'>39.05</td><td style='text-align: center; word-wrap: break-word;'>1.380</td><td style='text-align: center; word-wrap: break-word;'>61.27</td><td style='text-align: center; word-wrap: break-word;'>1.515</td><td style='text-align: center; word-wrap: break-word;'>99.07</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.115</td><td style='text-align: center; word-wrap: break-word;'>19.45</td><td style='text-align: center; word-wrap: break-word;'>1.250</td><td style='text-align: center; word-wrap: break-word;'>39.82</td><td style='text-align: center; word-wrap: break-word;'>1.385</td><td style='text-align: center; word-wrap: break-word;'>62.24</td><td style='text-align: center; word-wrap: break-word;'>1.520</td><td style='text-align: center; word-wrap: break-word;'>99.67</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.120</td><td style='text-align: center; word-wrap: break-word;'>20.23</td><td style='text-align: center; word-wrap: break-word;'>1.255</td><td style='text-align: center; word-wrap: break-word;'>40.58</td><td style='text-align: center; word-wrap: break-word;'>1.390</td><td style='text-align: center; word-wrap: break-word;'>63.23</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.125</td><td style='text-align: center; word-wrap: break-word;'>21.00</td><td style='text-align: center; word-wrap: break-word;'>1.260</td><td style='text-align: center; word-wrap: break-word;'>41.34</td><td style='text-align: center; word-wrap: break-word;'>1.395</td><td style='text-align: center; word-wrap: break-word;'>64.25</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1.130</td><td style='text-align: center; word-wrap: break-word;'>21.77</td><td style='text-align: center; word-wrap: break-word;'>1.265</td><td style='text-align: center; word-wrap: break-word;'>42.10</td><td style='text-align: center; word-wrap: break-word;'>1.400</td><td style='text-align: center; word-wrap: break-word;'>65.30</td></tr></table>
+
+<div style="text-align: center;">表 8 &nbsp;&nbsp; 15℃ 时盐酸比重</div>
+
+<table>
+<thead>
+<tr>
+<th>比重</th>
+<th>重量百分数</th>
+<th>比重</th>
+<th>重量百分数</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.005</td>
+<td>1.15</td>
+<td>1.020</td>
+<td>4.13</td>
+</tr>
+<tr>
+<td>1.010</td>
+<td>2.14</td>
+<td>1.025</td>
+<td>5.15</td>
+</tr>
+<tr>
+<td>1.015</td>
+<td>3.12</td>
+<td>1.030</td>
+<td>6.15</td>
+</tr>
+<tr>
+<td>1.035</td>
+<td>7.15</td>
+<td>1.050</td>
+<td>10.17</td>
+</tr>
+<tr>
+<td>1.040</td>
+<td>8.16</td>
+<td>1.055</td>
+<td>11.18</td>
+</tr>
+<tr>
+<td>1.045</td>
+<td>9.16</td>
+<td>1.060</td>
+<td>12.19</td>
+</tr>
+<tr>
+<td>1.065</td>
+<td>13.19</td>
+<td>1.100</td>
+<td>20.01</td>
+</tr>
+<tr>
+<td>1.070</td>
+<td>14.19</td>
+<td>1.105</td>
+<td>20.97</td>
+</tr>
+<tr>
+<td>1.075</td>
+<td>15.16</td>
+<td>1.110</td>
+<td>21.92</td>
+</tr>
+<tr>
+<td>1.080</td>
+<td>16.15</td>
+<td>1.115</td>
+<td>22.86</td>
+</tr>
+<tr>
+<td>1.085</td>
+<td>17.13</td>
+<td>1.120</td>
+<td>23.82</td>
+</tr>
+<tr>
+<td>1.090</td>
+<td>18.11</td>
+<td>1.125</td>
+<td>24.78</td>
+</tr>
+<tr>
+<td>1.095</td>
+<td>19.06</td>
+<td>1.130</td>
+<td>25.75</td>
+</tr>
+<tr>
+<td>1.135</td>
+<td>26.70</td>
+<td>1.170</td>
+<td>33.46</td>
+</tr>
+<tr>
+<td>1.140</td>
+<td>27.66</td>
+<td>1.175</td>
+<td>34.42</td>
+</tr>
+<tr>
+<td>1.145</td>
+<td>28.61</td>
+<td>1.180</td>
+<td>35.39</td>
+</tr>
+<tr>
+<td>1.150</td>
+<td>29.57</td>
+<td>1.185</td>
+<td>36.31</td>
+</tr>
+<tr>
+<td>1.155</td>
+<td>30.55</td>
+<td>1.190</td>
+<td>37.23</td>
+</tr>
+<tr>
+<td>1.160</td>
+<td>31.52</td>
+<td>1.195</td>
+<td>38.18</td>
+</tr>
+<tr>
+<td>1.165</td>
+<td>32.49</td>
+<td>1.200</td>
+<td>39.11</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;">表 9 雷汞制造所用的设备、工具和仪器</div>
+
+<table>
+<thead>
+<tr>
+<th>工序</th>
+<th>设备</th>
+<th>工具</th>
+<th>仪器</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>配酸</td>
+<td>瓷缸</td>
+<td>铅棒、台秤</td>
+<td>比重计、温度计</td>
+<td>最好用不锈钢桶或陶瓷缸</td>
+</tr>
+<tr>
+<td>水银过滤</td>
+<td>瓷盆或厚玻璃缸</td>
+<td>滤纸或细白布</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>水银化学处理</td>
+<td>瓷盆或厚玻璃缸</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>配制硝酸汞</td>
+<td>三角烧瓶或细口瓶、字盘秤、木槽或水泥槽</td>
+<td>铅棒、漏斗</td>
+<td>温度计</td>
+<td></td>
+</tr>
+<tr>
+<td>酒精准备</td>
+<td>字盘秤、广口瓶</td>
+<td>漏斗</td>
+<td>比重计、温度计</td>
+<td></td>
+</tr>
+<tr>
+<td>酒精预热</td>
+<td>木槽</td>
+<td></td>
+<td>温度计</td>
+<td></td>
+</tr>
+<tr>
+<td>雷汞化合</td>
+<td>瓷罐</td>
+<td>温度计</td>
+<td></td>
+<td>最好用曲颈瓶</td>
+</tr>
+<tr>
+<td>雷汞洗涤</td>
+<td>瓷盆</td>
+<td>细白布</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>雷汞干燥</td>
+<td>手搬压力机、干燥架、托盘秤</td>
+<td>细白布、干燥羽毛、白网布</td>
+<td>温度计</td>
+<td>最好用真空干燥器</td>
+</tr>
+<tr>
+<td>雷汞倒盒</td>
+<td>倒药装置</td>
+<td>厚纸盒</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>沉淀洗涤水</td>
+<td>瓷缸</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;">表10 雷银制造所用的设备、工具和仪器</div>
+
+<table>
+<thead>
+<tr>
+<th>工序</th>
+<th>设备</th>
+<th>工具</th>
+<th>仪器</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>配酸</td>
+<td>瓷缸</td>
+<td>铝棒、台秤</td>
+<td>比重计、温度计</td>
+</tr>
+<tr>
+<td>银(元宝)准备</td>
+<td>擦布、小锤、刀</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>元宝化学处理</td>
+<td>瓷盆</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>配制硝酸银</td>
+<td>细口瓶、字盘秤或天平、木槽</td>
+<td>铝棒、漏斗</td>
+<td>温度计</td>
+</tr>
+<tr>
+<td>酒精准备</td>
+<td>字盘秤、广口瓶</td>
+<td>漏斗</td>
+<td>比重计、温度计</td>
+</tr>
+<tr>
+<td>酒精预热</td>
+<td>木槽</td>
+<td>温度计</td>
+<td></td>
+</tr>
+<tr>
+<td>雷银化合</td>
+<td>瓷罐</td>
+<td>温度计</td>
+<td></td>
+</tr>
+<tr>
+<td>雷银洗涤</td>
+<td>瓷盆</td>
+<td>木漏斗、细白布</td>
+<td></td>
+</tr>
+<tr>
+<td>雷银干燥</td>
+<td>干燥架、托盘秤</td>
+<td>小木板(勺)、干燥盘、细白布</td>
+<td>温度计</td>
+</tr>
+<tr>
+<td>雷银倒盒</td>
+<td>倒盒装置</td>
+<td>厚纸盒</td>
+<td></td>
+</tr>
+<tr>
+<td>沉淀洗涤水</td>
+<td>瓷缸</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        此页面有帮助吗？
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 9v12H1V9zm4 12a2 2 0 0 1-2-2V9c0-.55.22-1.05.59-1.41L14.17 1l1.06 1.06c.27.27.44.64.44 1.05l-.03.32L14.69 8H21a2 2 0 0 1 2 2v2c0 .26-.05.5-.14.73l-3.02 7.05C19.54 20.5 18.83 21 18 21zm0-2h9.03L21 12v-2h-8.79l1.13-5.32L9 9.03z"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 15V3h4v12zM15 3a2 2 0 0 1 2 2v10c0 .55-.22 1.05-.59 1.41L9.83 23l-1.06-1.06c-.27-.27-.44-.64-.44-1.06l.03-.31.95-4.57H3a2 2 0 0 1-2-2v-2c0-.26.05-.5.14-.73l3.02-7.05C4.46 3.5 5.17 3 6 3zm0 2H5.97L3 12v2h8.78l-1.13 5.32L15 14.97z"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              谢谢你的反馈！
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              Thanks for your feedback! Help us improve this page by using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://s1.imagehub.cc/images/2024/02/02/bb9ee71b03ee7a3b87caad5cc4bcebff.jpeg" target="_blank" rel="noopener" title="Wechat" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154m-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4m-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2M563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4m-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6m107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://t.me/wecowin" target="_blank" rel="noopener" title="telegram" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M256 8a248 248 0 1 0 0 496 248 248 0 1 0 0-496m115 168.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7.2-.7.3-3.1-1.2-4.4s-3.6-.8-5.1-.5c-2.2.5-37.1 23.5-104.6 69.1-9.9 6.8-18.9 10.1-26.9 9.9-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3.6-4.5 6.7-9 18.4-13.7 72.3-31.5 120.5-52.3 144.6-62.3 68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6.5 9.6 2.9 2 1.7 3.2 4.1 3.5 6.7.5 3.2.6 6.5.4 9.8z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/wcowin_" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M357.2 48h70.6L273.6 224.2 455 464H313L201.7 318.6 74.5 464H3.8l164.9-188.5L-5.2 48h145.6l100.5 132.9zm-24.8 373.8h39.1L119.1 88h-42z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/Wcowin" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:<wangkewen821@gmail.com>" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M61.4 64C27.5 64 0 91.5 0 125.4c0 .9 0 1.7.1 2.6H0v256c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V128h-.1c0-.9.1-1.7.1-2.6 0-33.9-27.5-61.4-61.4-61.4zM464 192.3V384c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192.3l154.8 117.4c31.4 23.9 74.9 23.9 106.4 0zM48 125.4c0-7.4 6-13.4 13.4-13.4h389.2c7.4 0 13.4 6 13.4 13.4 0 4.2-2 8.2-5.3 10.7L280.2 271.5c-14.3 10.8-34.1 10.8-48.4 0L53.3 136.1c-3.3-2.5-5.3-6.5-5.3-10.7"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://space.bilibili.com/1407028951/lists/4566631?type=series" target="_blank" rel="noopener" title="space.bilibili.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M488.6 104.1c16.7 18.1 24.4 39.7 23.3 65.7v202.4c-.4 26.4-9.2 48.1-26.5 65.1-17.2 17-39.1 25.9-65.5 26.7H92c-26.4-.8-48.2-9.8-65.3-27.2S.7 396.5 0 368.2V169.8c.8-26 9.7-47.6 26.7-65.7C43.8 87.8 65.5 78.8 92 78h29.4L96 52.2c-5.7-5.7-8.6-13-8.6-21.8S90.3 14.3 96 8.6 109 0 117.9 0s16.1 2.9 21.9 8.6L213.1 78h88l74.5-69.4C381.7 2.9 389.2 0 398 0s16.1 2.9 21.9 8.6c5.7 5.7 8.6 13 8.6 21.8s-2.9 16.1-8.6 21.8L394.6 78h29.3c26.4.8 48 9.8 64.7 26.1m-38.8 69.7c-.4-9.6-3.7-17.4-10.7-23.5-5.2-6.1-14-9.4-22.7-9.8H96c-9.6.4-17.4 3.7-23.6 9.8-6.1 6.1-9.4 13.9-9.8 23.5v194.4c0 9.2 3.3 17 9.8 23.5s14.4 9.8 23.6 9.8h320.4c9.2 0 17-3.3 23.3-9.8s9.7-14.3 10.1-23.5zm-264.3 42.7c6.3 6.3 9.7 14.1 10.1 23.2V273c-.4 9.2-3.7 16.9-9.8 23.2-6.2 6.3-14 9.5-23.6 9.5s-17.5-3.2-23.6-9.5-9.4-14-9.8-23.2v-33.3c.4-9.1 3.8-16.9 10.1-23.2s13.2-9.6 23.3-10c9.2.4 17 3.7 23.3 10m191.5 0c6.3 6.3 9.7 14.1 10.1 23.2V273c-.4 9.2-3.7 16.9-9.8 23.2s-14 9.5-23.6 9.5-17.4-3.2-23.6-9.5c-7-6.3-9.4-14-9.7-23.2v-33.3c.3-9.1 3.7-16.9 10-23.2s14.1-9.6 23.3-10c9.2.4 17 3.7 23.3 10"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["toc.integrate", "announce.dismiss", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "navigation.path", "navigation.prune", "navigation.indexes", "content.tabs.link", "content.tooltips", "content.code.copy", "content.action.edit", "content.action.view", "content.code.annotate"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../javascripts/config.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="../../javascripts/optionalConfig.js"></script>
+      
+    
+  </body>
+</html>

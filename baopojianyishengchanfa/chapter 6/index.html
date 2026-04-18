@@ -1,0 +1,1811 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../chapter%205/">
+      
+      
+        <link rel="next" href="../chapter%207/">
+      
+      
+        
+          <link rel="alternate" href="/" hreflang="zh">
+        
+          <link rel="alternate" href="/Mkdocs-Wcowin/en/" hreflang="en">
+        
+          <link rel="alternate" href="/Mkdocs-Wcowin/ZH-TW/" hreflang="zh-TW">
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>chapter 6 - my-project</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config",""),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../.." title="my-project" class="md-header__button md-logo" aria-label="my-project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89">
+  <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z" />
+  <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5" />
+  <path d="M67.535,17.387l-27.262,18.156l21.878,32.818l5.384,2.691l0,-53.665Z" />
+  <path d="M67.535,17.387l0,53.666l18.774,-9.388l0,-53.665l-18.774,9.387Z" style="fill-opacity: 0.25" />
+</svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            my-project
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              chapter 6
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0 8a5 5 0 0 1-5-5 5 5 0 0 1 5-5 5 5 0 0 1 5 5 5 5 0 0 1-5 5m0-12.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.83 9 15 12.16V12a3 3 0 0 0-3-3zm-4.3.8 1.55 1.55c-.05.21-.08.42-.08.65a3 3 0 0 0 3 3c.22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53a5 5 0 0 1-5-5c0-.79.2-1.53.53-2.2M2 4.27l2.28 2.28.45.45C3.08 8.3 1.78 10 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.43.42L19.73 22 21 20.73 3.27 3M12 7a5 5 0 0 1 5 5c0 .64-.13 1.26-.36 1.82l2.93 2.93c1.5-1.25 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-4 .7l2.17 2.15C10.74 7.13 11.35 7 12 7"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="选择当前语言">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="/" hreflang="zh" class="md-select__link">
+              简体中文
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="/Mkdocs-Wcowin/en/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="/Mkdocs-Wcowin/ZH-TW/" hreflang="zh-TW" class="md-select__link">
+              China(TW)
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../about/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Guide
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="my-project" class="md-nav__button md-logo" aria-label="my-project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89">
+  <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z" />
+  <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5" />
+  <path d="M67.535,17.387l-27.262,18.156l21.878,32.818l5.384,2.691l0,-53.665Z" />
+  <path d="M67.535,17.387l0,53.666l18.774,-9.388l0,-53.665l-18.774,9.387Z" style="fill-opacity: 0.25" />
+</svg>
+
+    </a>
+    my-project
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guide
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Guide
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    about
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%201/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%202/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%203/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%204/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%205/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 6
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1 概 述
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2 火雷管的构造
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2 火雷管的构造">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 管壳尺寸和加强帽
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二)主装药和副装药
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3 纸管壳制造
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3 纸管壳制造">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 裁纸
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 卷纸管
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (三) 纸管干燥
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (四) 齐口和挑选
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (五) 纸管浸漆、干燥和扩口
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4 炸药制备
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4 炸药制备">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 梯恩梯准备
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 苦味酸准备
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (三) 硝碳混合物制备
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (四) 强棉和硝化甘油混合物制备
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5 装药和压药
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="5 装药和压药">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_13" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 装、压副药
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_14" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 装起爆药、扣加强帽和压起爆药
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6 内外表面清理、涂漆和包装
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="6 内外表面清理、涂漆和包装">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_15" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 管内外表面浮药的清理
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_16" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 加强帽与管壁结合处涂漆
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_17" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (三) 包装
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%207/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%208/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%209/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 9
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2010/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 10
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2011/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2012/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="导航栏" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Home
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../about/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Guide
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="_1">第六章 火雷管制造法</h1>
+<h2 id="1">1 概 述</h2>
+<p>火雷管在军事上和爆破工程中用途非常广泛。它用于制造地雷、手榴弹的发火机构和起爆炸药药包等。火雷管是由壳体、加强帽、起爆药和烈性炸药所组成，遇到火焰作用立即爆炸，从而引起手榴弹、地雷及炸药药包的炸药爆炸。因此火雷管一直作为爆破器材的起爆元件(图 35)。</p>
+<p>抗战时期，尤其是在后期，爆破运动空前的开展，全民投入了这一波澜壮阔的对敌斗争中，对爆破器材如手榴弹、地雷和炸药包等的需要量极大的增加，对雷管的需要量也就相应地增加很多。当时除需要电雷管外，更需要大量生产火雷管。</p>
+<p>火雷管的壳体材料，通常是采用紫铜板制成。当时为了坚持长期抗战，节约金属原材料，除生产一部分铜壳和铁壳火雷管外，还大量生产了纸壳雷管。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_789_597_913_952.jpg" alt="Image" width="11%" />
+<div style="text-align: center;">1—壳体；2—加强帽；3—绸垫；4—起爆药；5—烈性炸药。</div>
+<div style="text-align: center;">图35 火雷管</div>
+</div>
+
+<p>雷管中所用的起爆药是雷汞或雷银，均由工厂自制。根据物理性质不同，雷汞多用于铜壳雷管，雷银则用于纸壳雷管。</p>
+<p>雷管所用的炸药一般为梯恩梯或苦味酸，当时大都是在战斗中缴获的。由于烈性炸药用量日益增加，所以必须节约使用梯恩梯，使其用于更重要的弹药中。因此，雷管所用的炸药除使用梯恩梯或苦味酸外，也大量装填过硝炭炸药(硝化甘油与麻杆炭粉的混合物)和强棉硝化甘油炸药(硝化甘油与强棉的混合物)。</p>
+<h2 id="2">2 火雷管的构造</h2>
+<p>抗战时期所生产的雷管，种类很多，除装有起爆药和烈性炸药的复式雷管外，也有只装有起爆药的单式雷管。单式雷管主要</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_122_349_256_601.jpg" alt="Image" width="12%" />
+</div>
+<div style="text-align: center;">1—管壳；2—加强帽；3—绸垫；4—起爆药。</div>
+<div style="text-align: center;">图36 单式雷管</div>
+
+<p>用于弹药引信和信管上(图 36)。</p>
+<p>当时大量制造的还是复式雷管。就纸壳雷管来说，制造过以下几种类型，如图 37 所示。</p>
+<p>A型为单式雷管，管壳为纸制，加强帽和底篙为铜皮制成。起爆药为90%的雷汞和10%的氯酸钾。</p>
+<p>B型及C型均为纸外壳和金属加强帽。起爆药是雷汞或雷银。B型为Λ式金属底窝，而C型的金属底窝为W式。</p>
+<p>D型结构与B、C型同，但其底窝是纸制的并与壳体连接在一起。</p>
+<p>E型结构也与B、C型同，但底部是纸制的平底。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_148_919_890_1213.jpg" alt="Image" width="70%" />
+</div>
+<div style="text-align: center;">1—纸管壳；2—金属加强帽；3—绸垫；4—起爆药；5—底窝；6—烈性炸药。</div>
+<div style="text-align: center;">图37 纸壳火雷管</div>
+
+<h3 id="_2">(一) 管壳尺寸和加强帽</h3>
+<p>上述 B、C、D、E 型纸壳雷管，在不同时期都进行过大量生产，根据实际使用证明，纸管壳和加强帽的尺寸，应采用如下规格(表 23)。</p>
+<div style="text-align: center;">表23 纸管壳和加强帽尺寸</div>
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>规格型号</td><td colspan="3">雷管壳尺寸(毫米)</td><td colspan="4">加强帽尺寸(毫米)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷管型号</td><td style='text-align: center; word-wrap: break-word;'>外径</td><td style='text-align: center; word-wrap: break-word;'>内径</td><td style='text-align: center; word-wrap: break-word;'>全长</td><td style='text-align: center; word-wrap: break-word;'>外径</td><td style='text-align: center; word-wrap: break-word;'>内径</td><td style='text-align: center; word-wrap: break-word;'>全长</td><td style='text-align: center; word-wrap: break-word;'>傅大孔径</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>B、C、D、E</td><td style='text-align: center; word-wrap: break-word;'>$7.8^{0.3}$</td><td style='text-align: center; word-wrap: break-word;'>$6.25_{-0.1}$</td><td style='text-align: center; word-wrap: break-word;'>$40\pm1$</td><td style='text-align: center; word-wrap: break-word;'>$6.16\pm0.06$</td><td style='text-align: center; word-wrap: break-word;'>$5.55\pm0.05$</td><td style='text-align: center; word-wrap: break-word;'>$6.5_{-1}$</td><td style='text-align: center; word-wrap: break-word;'>2.0</td></tr></table>
+
+<p>加强帽对雷管的起爆力有很大的影响(表 24)，如以雷汞为起爆药，当无加强帽时需要药量为 0.8～1.1 克，而有加强帽时仅需 0.29～0.30 克。采用加强帽虽然要消耗一些紫铜板，但却节省了较多的起爆药。</p>
+<div style="text-align: center;">表24 起爆药对梯恩梯的极限起爆量</div>
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td rowspan="2">起爆药种类</td><td style='text-align: center; word-wrap: break-word;'>装药压力</td><td colspan="2">极限起爆量(克)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>(公斤/厘米 $^2$)</td><td style='text-align: center; word-wrap: break-word;'>无加强帽</td><td style='text-align: center; word-wrap: break-word;'>有加强帽</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷汞</td><td style='text-align: center; word-wrap: break-word;'>200</td><td style='text-align: center; word-wrap: break-word;'>0.8</td><td style='text-align: center; word-wrap: break-word;'>0.29</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷汞</td><td style='text-align: center; word-wrap: break-word;'>200</td><td style='text-align: center; word-wrap: break-word;'>1.1</td><td style='text-align: center; word-wrap: break-word;'>0.30</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷汞</td><td style='text-align: center; word-wrap: break-word;'>200</td><td style='text-align: center; word-wrap: break-word;'>1.1</td><td style='text-align: center; word-wrap: break-word;'>0.30</td></tr></table>
+
+<p>加强帽的材料为铜皮，如用铁皮时要防止氧化生锈，可采用磷化或电镀处理，但也可以采用简单的氧化处理法。氧化处理法是将铁加强帽，置于苛性钠与亚硝酸钠的溶液中，加热到150℃，煮8～10分钟，当加强帽的表面呈深黑色或淡蓝色时即可。如制造的雷管为临时使用，不需长期存放，则铁质加强帽，不作表面处理也可使用。</p>
+<h3 id="_3">(二)主装药和副装药</h3>
+<p>在雷管中起爆药称为主装药(如雷汞、雷银)，烈性炸药称为副装药。</p>
+<p>雷管爆炸是由于主装药受外界的火焰或机械冲击作用而引起，并引爆副装药爆炸。主装药和副装药的品种、药量不同，将直接影响到产品的性能。在战争年代，主装药是采用雷汞或雷银，副装药是根据有什么材料就用什么材料的原则，并千方百计的制造副装药。例如在1944年～1945年的一年多的时间内，曾用过梯恩梯、苦味酸和硝碳混合物以及硝化甘油强棉混合物等副装药。当时采用过的主、副装药的种类及装药量如表25所示。</p>
+<div style="text-align: center;">表25 主装药和副装药的种类及药量</div>
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;' colspan="2">主装药(起爆药)</td><td colspan="2">副装药(烈性炸药)</td><td rowspan="2" style='text-align: center; word-wrap: break-word;'>备注</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>名称</td><td style='text-align: center; word-wrap: break-word;'>重量(克)</td><td style='text-align: center; word-wrap: break-word;'>名称</td><td style='text-align: center; word-wrap: break-word;'>重量(克)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷汞或雷银</td><td style='text-align: center; word-wrap: break-word;'>$ 0.5 \pm 0.02 $</td><td style='text-align: center; word-wrap: break-word;'>苦味酸</td><td style='text-align: center; word-wrap: break-word;'>$ 1.0 \pm 0.02 $</td><td style='text-align: center; word-wrap: break-word;vertical-align: middle;' rowspan="7">硝化甘油与麻杆碳粉的混合物<br>硝化甘油与硝化强棉混合物</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷汞或雷银</td><td style='text-align: center; word-wrap: break-word;'>$ 0.5 \pm 0.02 $</td><td style='text-align: center; word-wrap: break-word;'>梯恩梯</td><td style='text-align: center; word-wrap: break-word;'>$ 1.0 \pm 0.02 $</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷汞或雷银</td><td style='text-align: center; word-wrap: break-word;'>$ 0.5 \pm 0.02 $</td><td style='text-align: center; word-wrap: break-word;'>硝碳炸药</td><td style='text-align: center; word-wrap: break-word;'>$ 0.9 \pm 0.02 $</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷汞或雷银</td><td style='text-align: center; word-wrap: break-word;'>$ 0.45 \pm 0.02 $</td><td style='text-align: center; word-wrap: break-word;'>强棉硝化甘油炸药</td><td style='text-align: center; word-wrap: break-word;'>$ 0.9 \pm 0.02 $</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷汞或雷银</td><td style='text-align: center; word-wrap: break-word;'>$ 0.4 \pm 0.02 $</td><td style='text-align: center; word-wrap: break-word;'>特屈儿</td><td style='text-align: center; word-wrap: break-word;'>$ 0.7 \pm 0.02 $</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>雷汞或雷银</td><td style='text-align: center; word-wrap: break-word;'>$ 0.4 \pm 0.02 $</td><td style='text-align: center; word-wrap: break-word;'>黑索金</td><td style='text-align: center; word-wrap: break-word;'>$0.7 \pm 0.02$</td></tr></table>
+
+<p>上表所列的主装药中，雷银对摩擦的敏感度比雷汞高，在装药和压药时均应使用木质工具。</p>
+<p>在副装药中，硝碳炸药是硝化甘油与麻杆碳粉按1:1的比例混合而成的。装填这种副药的雷管，起爆性能良好，防潮性强，但装药、压药的操作比较困难。另外，硝化甘油容易渗透纸雷管的壳体，已装药的雷管不宜长期保存；即使短期存放，室温也不宜低于13℃以下，以防止硝化甘油凝结。强棉(十一氮硝化纤维素)硝化甘油炸药，是强棉与硝化甘油按重量比1:1吸收而成。用于雷管装药，它的爆炸性能良好，但也存在着硝化甘油易渗出管壳的缺点。所以已装药的产品也不宜长期保存。</p>
+<h2 id="3">3 纸管壳制造</h2>
+<p>卷制雷管壳所用的纸，最好采用规格为纵向拉力9公斤，横向拉力为3公斤以上的牛皮纸(水泥袋纸)，抗战时期除用上述<div></p>
+<pre class="mermaid"><code>flowchart TD
+    A[裁纸] --&gt; B[卷纸管]
+    C[粘合剂配制] --&gt; B
+    B --&gt; |"晾干或烘干(15~70℃)&lt;br&gt;烘4~6小时"| D[干燥]
+    D --&gt; E[切齐]
+    E --&gt; F[挑选]
+    F --&gt; G[浸漆]
+    G --&gt; |75℃烘干2小时| H[干燥]
+    H --&gt; I[扩口]
+    J[烈性炸药准备] --&gt; K[第一次装副药]
+    I --&gt; K
+    K --&gt; L[压药]
+    L --&gt; |40%酒精洋干漆涂集中穴| M[沾漆]
+    M --&gt; |50℃烘干4~6小时| N[干燥]
+    N --&gt; O[第二次装副药]
+    L --&gt; O
+    J --&gt; O
+    O --&gt; P[压药]
+    Q[起爆药准备] --&gt; R[装起爆药]
+    S[加强帽准备] --&gt; T[扣加强帽]
+    P --&gt; R
+    O --&gt; R
+    R --&gt; T
+    T --&gt; U[压药]
+    U --&gt; V[擦管内外浮药]
+    W[纸盒准备] --&gt; X[装纸盒]
+    V --&gt; W[擦管内外浮药]
+    Y[石蜡准备] --&gt; Z[沾蜡]
+    X --&gt; Z
+    Z --&gt; AA[装箱]
+    BB[木箱准备] --&gt; AA
+    AA --&gt; AB[成品]</code></pre>
+<div style="text-align: center;">流程14 雷管装药装配工艺流程</div
+<div style="text-align: center;">
+<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_79_216_912_1492.jpg" alt="Image" width="79%" /> -->
+<p></div>
+规格的牛皮纸外，也大量使用过两层废报纸中间夹一层麻纸●的管壳材料。</p>
+<h3 id="_4">(一) 裁纸</h3>
+<p>将纸选择好，用刀子裁成一定规格的尺寸，纸壳不宜过薄，如用水泥袋的牛皮纸以卷4层为准，管壳厚度以0.55～0.65毫米为宜。</p>
+<h3 id="_5">(二) 卷纸管</h3>
+<ol>
+<li>
+<p>粘合剂的选择：卷纸管需要用粘合剂，最好的粘合剂是酐酪素(即酪素胶)。在当时曾使用过以下几种粘合剂：</p>
+<ol>
+<li>
+<p>鱼胶：将鱼胶用 80℃ 以上的热水浸 1～2 天后煮沸，使它熔解成胶水。胶水的温度保持在 25～30% 之间就可以使用。</p>
+<p>鱼胶溶液粘度大，但稍冷却即成为鱼冻状，失去其粘合力。因此，采用鱼胶粘合卷管时需要热卷。</p>
+</li>
+<li>
+<p>桃胶：将桃胶用热水溶成40～50%浓度的胶液即可应用。桃胶液冷却后粘度不降低。使用时冷卷、热卷均可。若在桃胶液中加入5%的江米粉，可增加桃胶液的粘合力。</p>
+</li>
+<li>
+<p>木工胶水。</p>
+</li>
+<li>
+<p>胶浆：胶浆是由苏打0.45克，酪(酪素胶)4.5公斤，水3.2公斤，混合在一起加热至80℃制成。</p>
+</li>
+<li>
+<p>面胶：面胶的成分是豆面10%，小麦面粉60%，虫胶30%，加水加热调成糊状即可。</p>
+</li>
+<li>
+<p>卷管：卷管最好用机器卷制，当时所常采用的是搓管工具，俗称“千斤顶”。搓管工具采用木制，制造容易，操作简便，所卷出的纸管，质量坚硬，磨品率低，其构造如图38所示。</p>
+</li>
+</ol>
+</li>
+</ol>
+<p>从图上可以看出，搓管工具是用一个坚固的木板凳，上面固定一个坚固的托架，在托架的中间横梁上安装一个用人工操作可以往复运动的表面光滑的半月形厚木板(厚度不小于80厘米)。半月形搓板的下面，固定一块质量坚硬表面光滑的厚木板。这种工具，每台每小时的生产量为2000～2500个。</p>
+<p>这种搓管工具的特点是，卷出的纸管质量较好，材料到处都有，制造简单。当有敌情时立即可以拆卸，携带轻便。</p>
+<p>搓管的操作方法是，操作人员坐在木板凳的一端，将裁好的纸条，一面全部涂上粘合剂，放好半月形的金属冲头(其直径大小等于管壳的内径)，将纸放在件号2的木板上，用力往复的推动半月形搓板的上端支杆，往复搓制3~4次，即卷成纸管。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_610_373_925_776.jpg" alt="Image" width="29%" />
+<div style="text-align: center;">1—木板凳；2—厚木板；3—半月形搓子；4—支杆；5—金爵环。</div>
+<div style="text-align: center;">图38 搓管工具</div>
+</div>
+
+<p>带有金属底窝纸雷管壳，在搓管前，将金属底窝按在冲头的一端，再行卷制。也可以先搓好纸管，再把金属底窝外表面涂上虫胶漆，再装入管体。</p>
+<p>E型平底的管壳，是将纸管制成以后，在管底部涂上虫胶漆，再封上一个纸垫。</p>
+<h3 id="_6">(三) 纸管干燥</h3>
+<p>卷好的纸管，不能直接使用，需要进行干燥。纸管在较高的温度下干燥容易变形，为此，先将纸管在室温的条件下阴干4～5小时。阴干后送入烘房，再在温度为60～70℃的情况下烘干4～6小时，使其完全干燥。</p>
+<h3 id="_7">(四) 齐口和挑选</h3>
+<p>干燥过的管壳，需切成规定长度，切管可以在车床上进行，也可以用刀具手工操作。切好的纸管用冲子、卡尺进行尺寸和壁厚检验，将不合格的管壳挑选出来。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_108_211_277_458.jpg" alt="Image" width="16%" />
+<div style="text-align: center;">图39 多孔桶</div>
+</div>
+
+<h3 id="_8">(五) 纸管浸漆、干燥和扩口</h3>
+<p>纸管浸漆是为了提高防潮能力。浸漆是将管壳浸入浓度为25%的酒精洋干漆中，浸9～10分钟，取出后，装入一个多孔的小桶，用人工甩动，使多余的溶液甩掉(图39)；再将纸管送入</p>
+<p>干燥室，干燥 2 小时，干燥温度为 60～70℃。</p>
+<p>干燥后的纸管在装药前，需进行扩口，以防止装药和压药时将口部压破。扩口的工具，可用冲子，也可用手扳压力机。扩口后的管壳应比原尺寸大4~6公忽。</p>
+<h2 id="4">4 炸药制备</h2>
+<h3 id="_9">(一) 梯恩梯准备</h3>
+<p>箱装或袋装的梯恩梯，外观为黄色或淡黄色，呈鳞片状。装雷管用的炸药要有一定的细度。上述的梯恩梯不能用于装药，首先需用铜锤或木锤将炸药捣碎，再用每平方厘米60孔的筛子筛选，筛选合格的即可用为装药。梯恩梯对冲击敏感，粉碎时不能使用铁器。</p>
+<p>粉碎后的梯恩梯，如果再经过造粒，可提高产品质量。造粒可使流散性加大，对装、压药更为方便。</p>
+<p>梯恩梯造粒的方法是在1公斤的梯恩梯中加入400毫升浓度1%的桃胶或透明胶的溶液，混合均匀，装入布袋内，用手挤去多余的水分，再用每平方厘米18孔的筛子造粒。筛网最好采用丝织品、马尾或铜丝。造粒可使梯恩梯在含有一定胶液的状态下通过筛网成为颗粒。</p>
+<p>经造粒的梯恩梯，送往火墙式干燥室干燥，不允许用火直接干燥，在室温40～45℃的条件下烘干24小时，当含水量小于0.02%时即可装药。如果采用黑索金或特屈儿时，其粉碎方法与梯恩梯相同，但不需造粒。</p>
+<h3 id="_10">(二) 苦味酸准备</h3>
+<p>如采用苦味酸为副药，要经过粉碎、筛选和干燥工序。苦味酸与金属起作用，能生成具有爆炸性的不安定盐类，所以苦味酸粉碎时要用木器(如木锤、木槽)操作。苦味酸对人体也有侵害，为防止尘粉飞扬，粉碎时可加入3~4%的烧酒。</p>
+<p>粉碎后用每平方厘米 18 孔的绢筛或马尾筛(不能用金属筛)筛选，然后放入木盘，送入干燥室干燥，干燥的方法和条件与梯恩梯相同。</p>
+<h3 id="_11">(三) 硝碳混合物制备</h3>
+<p>硝碳混合物是用麻杆炭粉吸收硝化甘油而制得。</p>
+<p>硝化甘油为液态炸药，不能直接装入雷管，需用其他多孔物质来吸收。根据多次试验证明，采用麻杆碳粉吸收硝化甘油较适宜。</p>
+<p>硝碳混合物配制的，是将已称量好的一份麻杆碳粉倒入盆中，再将定量的硝化甘油，呈绫状均匀加入，用橡皮棒或光滑的小木棒小心搅拌，使其混合均匀。</p>
+<p>硝碳混合物的硝化甘油与麻杆碳粉的比例按重量比为1:1。</p>
+<p>硝碳混合物的两种成分混合操作时，要特别注意安全，每次混合量不超过 500 克。最好采用图 40 所示的具有防护板的装置，操作时将工作台靠近窗口，操作人员在防护板的后面，通过观察孔察看，并以光滑的木板或胶皮棒搅拌，混合均匀后，送去装药。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_548_886_935_1247.jpg" alt="Image" width="36%" />
+<div style="text-align: center;">1—胶皮盆或瓷盆；2—观察孔；3—20毫米厚铅板；4—12～15毫米厚铜板。</div>
+<div style="text-align: center;">图40 硝碳混合装置</div>
+</div>
+
+<h3 id="_12">(四) 强棉和硝化甘油混合物制备</h3>
+<p>强棉和硝化甘油混合物是以十一硝基以上的硝化纤维素和硝化甘油配制的混合物，这种混合物具有极高的爆炸力。这种混合物制造时，是用一个洁净的胶皮盆或瓷盆，将一份强棉置于其中，再缓慢地加入一份硝化甘油。硝化甘油与强棉的投料比以重量计为48:52。强棉与硝化甘油混合物的混合方法与设备，和硝碳混合物相同。</p>
+<p>用于制备硝碳混合物及强棉硝化甘油混合物所用的硝化甘油，在使用前必须用过滤的方法除去水分。过滤硝化甘油是用一个瓷质漏斗，在漏斗孔的上面放上一层脱脂棉，在脱脂棉的上层，再铺上一层颗粒约1毫米厚的经过炒干的食盐粉，在漏斗的下面放置一个洁净的瓷盆。将准备好的硝化甘油呈线状倒入漏斗，使它通过食盐过滤。</p>
+<p>漏斗上面的食盐粉，由于过滤硝化甘油其中含硝化甘油量可达30%左右。这部分食盐收集起来可送去配制周氏炸药。</p>
+<h2 id="5">5 装药和压药</h2>
+<h3 id="_13">(一) 装、压副药</h3>
+<p>雷管的装副药和压副药，分两个工序进行。装药数量和压药压力，根据所选用的装药品种不同而异。当时所采用的装药量和压药压力如表 26 所示。</p>
+<p>(1)装副药：装副药前所使用的工具，根据所选用副药种类而定。若副药采用的是硝碳混合物或强棉硝化甘油混合物，就不能采用机械装药法，只能用定量勺或托盘天平一份一份的称取，再用牛角勺装入管壳。</p>
+<p>抗战时期也采用过由三板组成的定量装药板(用铜板、铅板、塑料板均可)，如图 41 所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_490_689_923_808.jpg" alt="Image" width="41%" />
+<div style="text-align: center;">图41 装药板</div>
+<div style="text-align: center;">1—漏斗；2—上药板；3—下药板；4—定量板；5—手柄。</div>
+</div>
+
+<p>装药操作是将炸药倒入装药板上的漏斗里，药从第一板的漏斗孔漏到第二板的定量孔，再抽动第二板，使装满炸药的定量孔对准下漏板的漏斗孔(定位由定位销控制)，于是定量的炸药，就漏入纸管壳中。装药板孔眼的多少，可视需要而定，装好副药的壳体即可送去压药。</p>
+<div style="text-align: center;">表26 副药装量和压药压力</div>
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td rowspan="2">装压药次数<br>装药量和装药压力<br>副药名称</td><td colspan="2">第一次装压副药</td><td colspan="2">第二次装压副药</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>装药量(克)</td><td style='text-align: center; word-wrap: break-word;'>压药压力(公斤/厘米 $ ^2 $)</td><td style='text-align: center; word-wrap: break-word;'>装药量(克)</td><td style='text-align: center; word-wrap: break-word;'>压药压力(公斤/厘米 $ ^2 $)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>特屈儿</td><td style='text-align: center; word-wrap: break-word;'>0.35</td><td style='text-align: center; word-wrap: break-word;'>300</td><td style='text-align: center; word-wrap: break-word;'>0.35</td><td style='text-align: center; word-wrap: break-word;'>300</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>黑索金</td><td style='text-align: center; word-wrap: break-word;'>0.35</td><td style='text-align: center; word-wrap: break-word;'>300</td><td style='text-align: center; word-wrap: break-word;'>0.35</td><td style='text-align: center; word-wrap: break-word;'>300</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>梯恩梯</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>300</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>300</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>苦味酸</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>250</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>250</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>硝碳混合物</td><td style='text-align: center; word-wrap: break-word;'>0.4</td><td style='text-align: center; word-wrap: break-word;'>150</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>150</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>强棉硝化甘油混合物</td><td style='text-align: center; word-wrap: break-word;'>0.4</td><td style='text-align: center; word-wrap: break-word;'>150</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>150</td></tr></table>
+
+<p>(2)压副药：压药是雷管制造中的主要工序，直接影响响产品的质量和安全。压药的工艺设备很多，如可用弹簧曲轴压力机、油压机、手扳杠杆压力机和手扳螺旋压力机等。弹簧曲轴压力机和油压机，每次压制的产品数量较多，但设备较笨重。为符合战时环境，当时曾采用手扳杠杆压力机和手扳螺旋压力机。杠杆压力机每次可压一个或数个雷管，而螺旋压力机每次可压10个。手扳杠杆压力机如图42所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_66_1042_458_1390.jpg" alt="Image" width="37%" />
+<div style="text-align: center;">1—杠杆1；2—重锤；3—滑块；4—冲头；5—组合模；6—滑块；7—杠杆2；8—工作台。</div>
+<div style="text-align: center;">图42 手扳杠杆压力机</div>
+</div>
+
+<p>手扳杠杆压力机由两个杠杆所组成。用手压杠杆 2，使滑块向上移动，这时放置在滑块上的组合模亦随之上升，模中冲头顶到上方的滑块，上方的滑块也上升顶到杠杆1，适当调整重锤所形成的力矩大小，即可确定模内压药的压力。压药时只要使杠杆2的重锤稍许提高，压药即告完毕。对杠杆来讲，重锤所形成的力矩，应等于上方滑块上升时所形成的力矩，即组合模内冲头的压力所形成的力矩。根据上述原理可计算出重锤的重量或重锤距支点的距离(图43)。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_111_398_548_665.jpg" alt="Image" width="41%" />
+<div style="text-align: center;">图43 杠杆原理</div>
+</div>
+
+<p>设 P —— 重锤的重量；</p>
+<p>$ P_1 $——杠杆的本身重量；</p>
+<p>Q——冲头的压力；</p>
+<p>l ——杠杆短臂的长度，</p>
+<p>则  <span class="arithmatex">\(PL + P_1L_1 = Q^l\)</span>，但在实际生产中  <span class="arithmatex">\(P_1L_1\)</span> 与  <span class="arithmatex">\(Q^l\)</span> 为已知，故  <span class="arithmatex">\(PL = Q^l - P_1L_1\)</span>。若重锤 P 已确定则可求出 L。</p>
+<div class="arithmatex">\[
+L=\frac{Q^l-P_1L_1}{P}
+\]</div>
+<p>如果臂长 L 为已知，则可据下式求出所需要重锤的重量:</p>
+<div class="arithmatex">\[
+P=\frac{Q^l-P_1L_1}{L}
+\]</div>
+<p>冲头所需要的压力是根据压药所需的压力而定。如压药所需的压力为P(公斤/厘米 $ ^2 $)，冲头半径为r(厘米)，则 $ Q=P\pi r^2 $(公斤)。</p>
+<p>压药所采用的手扳螺旋压力机如图 44 所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_506_850_954_1286.jpg" alt="Image" width="42%" />
+<div style="text-align: center;">1—手轮；2—冲头；3—滑块；4—托板；5—压力调节杆；6—重锤。</div>
+<div style="text-align: center;">图44 手扳螺旋杠杆压力机</div> 
+</div>
+
+<p>压副药是雷管制造中的主要工序，由于对烈性炸药施加一定的压力，所以在操作时有一定的危险性，有将雷管压爆的可能。因此，除压药时正确的掌握压药的高度和压力外，为确保安全，当时在设备周围，安装18～20毫米厚的铅罩，并以密实的砖墙作为防护墙，与其他工序的操作地点隔开(图45)。</p>
+<h3 id="_14">(二) 装起爆药、扣加强帽和压起爆药</h3>
+<p>雷管经过二次装、压副药后，再装入起爆药<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>。装起爆药后要扣上加强帽。先把加强帽准备好，在加强帽内放置一个绸垫，再将加强帽扣入管壳中。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_123_567_483_911.jpg" alt="Image" width="34%" />
+<div style="text-align: center;">1—压力机；2—铅罩；3—防护墙。</div>
+<div style="text-align: center;">图45 压药防护装置</div>
+</div>
+
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_612_592_914_894.jpg" alt="Image" width="28%" />
+<div style="text-align: center;">1—防爆玻璃(厚20毫米)；2—铅板(厚12毫米)。</div>
+<div style="text-align: center;">图46 护胸板</div>
+</div>
+
+<p>装起爆药和扣加强帽时要注意安全，这两道工序操作时最好是在护胸板内进行。护胸板的形状如图 46 所示，材料用铅板制成，顶部设有观测孔，最好在观测孔处装以 20 毫米厚的防爆玻璃。</p>
+<p>在装起爆药和扣加强帽的操作地点，起炸药和雷管的存量愈少愈好，一般起爆药存量不大于100克，雷管的转手量不应超过50发。扣好加强帽的雷管，在手扳杠杆压力机或手扳螺旋压力机上压药，其压药方法与压副药相同。</p>
+<h2 id="6">6 内外表面清理、涂漆和包装</h2>
+<h3 id="_15">(一) 管内外表面浮药的清理</h3>
+<p>已压药的雷管，必须加以清理，因在管体内、外壁上经常会粘有一些浮药。清理时可采用鸭绒或鹅绒制成的小绒撺，在上面蘸上酒精。擦内壁时要注意安全，应在防护板的保护下进行操作。擦内壁浮药装置如图47所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_112_509_497_784.jpg" alt="Image" width="36%" />
+<div style="text-align: center;">1—观察防护玻璃；2—操纵杆；3—钢珠；4—小鸭绒(鹅绒)掸；5—工作台。</div>
+<div style="text-align: center;">图47 擦管内壁浮药装置</div>
+</div>
+
+<p>擦管内壁浮药装置的外罩是用钢板或铅板制成的，在一侧开一个小洞，洞内装有钢珠，再穿入一个操作拉杆，操作人员在室外操纵拉杆以绒择擦拭内表面的浮药。擦拭操作时，要特别注意不要使绒择头或杆把的端部，触及到加强帽的传火孔。因此，在掸把上缚一个定位销子，如图48所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_569_486_706_912.jpg" alt="Image" width="13%" />
+<div style="text-align: center;">1—定位销；2—鸭绒掸；3—雷管。</div>
+<div style="text-align: center;">图48 定位销装置</div>
+</div>
+
+<p>内管清理完毕后，还需清理管外壁的浮药。当时所采用的方法是，在工作台上铺一层中间夹有棉花的细白布垫子，把清理过内壁浮药的雷管，水平地排在垫子上，在雷管的上面再盖上一块沾上酒精的细白布垫，用手轻轻地推动雷管来回滚动，这样往复推动，就将管壁外面的浮药擦净。擦外管浮药的工具如图 49 所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_104_1134_485_1348.jpg" alt="Image" width="36%" />
+<div style="text-align: center;">1—雷管；2—沾有酒精的细白布；3—细白布垫子。</div>
+<div style="text-align: center;">图49 外壁清理装置</div>
+</div>
+
+<h3 id="_16">(二) 加强帽与管壁结合处涂漆</h3>
+<p>雷管内表面清理干净后，为提高防潮能力，在加强帽与雷管接缝处涂50%的酒精虫胶漆(虫胶50%，酒精50%)。涂漆时，用小竹签蘸上漆，轻轻地在加强帽与管壁结合处涂一圈，要涂得均匀，涂层不能过厚(图50)。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_784_443_916_768.jpg" alt="Image" width="12%" />
+<div style="text-align: center;">图50 涂虫胶漆</div>
+</div>
+
+<h3 id="_17">(三) 包装</h3>
+<p>经过检验合格的雷管，即装入纸盒。为防止雷管装入盒中互相碰撞，在纸盒里放置带有蜂窝孔的格纸。</p>
+<p>雷管装药装配时，要注意安全。上述各个操作工序，应分别在单独的工作间内操作。操作时要轻拿轻放，不要将雷管掉在地上和使雷管受震动。雷管对火焰十分敏感，在厂房、库房的周围，绝对禁明火。</p>
+<p>成品雷管除进行外观、尺寸检验外，最实际的办法是进行爆炸试验，雷管的试验记录片断如表 27 所示。</p>
+<div style="text-align: center;">表27 纸雷管起爆地雷试验记录片断</div>
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td rowspan="2"></td><td colspan="2">地雷规格</td><td colspan="2">砥雷管规格</td><td rowspan="2">地雷壳破片数(块)</td><td rowspan="2">起爆程度</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>弹壳重(克)</td><td style='text-align: center; word-wrap: break-word;'>炸药重(克)</td><td style='text-align: center; word-wrap: break-word;'>炸药装量(克)</td><td style='text-align: center; word-wrap: break-word;'>起爆药装量(克)</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1#地雷</td><td style='text-align: center; word-wrap: break-word;'>341</td><td style='text-align: center; word-wrap: break-word;'>25</td><td style='text-align: center; word-wrap: break-word;'>1.0</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>140</td><td style='text-align: center; word-wrap: break-word;'>起爆较完全</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2#地雷</td><td style='text-align: center; word-wrap: break-word;'>370</td><td style='text-align: center; word-wrap: break-word;'>46</td><td style='text-align: center; word-wrap: break-word;'>1.0</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>156</td><td style='text-align: center; word-wrap: break-word;'>起爆较完全</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3#地雷</td><td style='text-align: center; word-wrap: break-word;'>400</td><td style='text-align: center; word-wrap: break-word;'>31</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>90</td><td style='text-align: center; word-wrap: break-word;'>起爆不完全</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4#地雷</td><td style='text-align: center; word-wrap: break-word;'>390</td><td style='text-align: center; word-wrap: break-word;'>31</td><td style='text-align: center; word-wrap: break-word;'>0.8</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>110</td><td style='text-align: center; word-wrap: break-word;'>起爆较完全</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5#地雷</td><td style='text-align: center; word-wrap: break-word;'>370</td><td style='text-align: center; word-wrap: break-word;'>31</td><td style='text-align: center; word-wrap: break-word;'>0.8</td><td style='text-align: center; word-wrap: break-word;'>0.5</td><td style='text-align: center; word-wrap: break-word;'>125</td><td style='text-align: center; word-wrap: break-word;'>起爆较完全</td></tr></table>
+
+<blockquote>
+<p>1)地雷壳材料为铸铁。</p>
+<p>2)地雷装药为周氏炸药。</p>
+<p>3)纸(或铜)雷管中的副装药为硝碳混合物。</p>
+<p>4)纸(或铜)雷管中起爆药为雷银。</p>
+</blockquote>
+<p>抗战时期，除按上述方法生产雷管外，由于临时任务要求，利用现有的材料制成了各种各样的雷管。如用细的塑胶管、自来水笔套和各种现成的金属非金属的管子做为管壳，在其中装入副药和起爆药，制成金属壳体或非金属壳体的雷管。</p>
+<p>战争年代，为彻底打败侵略者，解放区军民千方百计地利用一切可以利用的物资，生产了大量的雷管，有力地支援了前方作战的需要。</p>
+<div style="text-align: center;">表28 雷管装药装配所用的设备、工具和仪器</div>
+
+<table>
+<thead>
+<tr>
+<th>工序</th>
+<th>设备</th>
+<th>工具</th>
+<th>仪器</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>裁纸</td>
+<td>工作台</td>
+<td>刀</td>
+<td>尺</td>
+</tr>
+<tr>
+<td>粘合剂配制</td>
+<td>槽或盆</td>
+<td>秤、量筒</td>
+<td>温度计</td>
+</tr>
+<tr>
+<td>卷纸管</td>
+<td>木制搓管工具、粘合剂、槽</td>
+<td>刷子</td>
+<td></td>
+</tr>
+<tr>
+<td>干燥</td>
+<td>干燥架</td>
+<td>干燥盘</td>
+<td>温度计</td>
+</tr>
+<tr>
+<td>切齐</td>
+<td>刀</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>挑选</td>
+<td>工作台</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>浸漆</td>
+<td>槽或盆</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>干燥</td>
+<td>干燥室</td>
+<td>干燥架、干燥盘</td>
+<td>温度计</td>
+</tr>
+<tr>
+<td>扩口</td>
+<td></td>
+<td>冲子、木模</td>
+<td></td>
+</tr>
+<tr>
+<td>炸药准备</td>
+<td></td>
+<td>筛子、秤、木锤、盆、胶皮盆</td>
+<td></td>
+</tr>
+<tr>
+<td>装副药</td>
+<td>装药板或小勺</td>
+<td>感度1/10克天秤</td>
+<td></td>
+</tr>
+<tr>
+<td>压副药</td>
+<td>压力机</td>
+<td>模具</td>
+<td></td>
+</tr>
+<tr>
+<td>装起爆药扣加强帽</td>
+<td>护胸板</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>压起爆药</td>
+<td>压力机</td>
+<td>模具</td>
+<td></td>
+</tr>
+<tr>
+<td>擦管内壁浮药</td>
+<td>擦浮药装置</td>
+<td>羽毛挥</td>
+<td></td>
+</tr>
+<tr>
+<td>擦管外壁浮药</td>
+<td>工作台</td>
+<td>衬棉白细布垫</td>
+<td></td>
+</tr>
+<tr>
+<td>装纸盒</td>
+<td>工作台</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>涂漆</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>装箱</td>
+<td>工作台</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>当时所采用的起爆药有两种，铜管壳者多是装雷汞，纸管壳则装雷银，每发的装药量为0.5克&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        此页面有帮助吗？
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 9v12H1V9zm4 12a2 2 0 0 1-2-2V9c0-.55.22-1.05.59-1.41L14.17 1l1.06 1.06c.27.27.44.64.44 1.05l-.03.32L14.69 8H21a2 2 0 0 1 2 2v2c0 .26-.05.5-.14.73l-3.02 7.05C19.54 20.5 18.83 21 18 21zm0-2h9.03L21 12v-2h-8.79l1.13-5.32L9 9.03z"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 15V3h4v12zM15 3a2 2 0 0 1 2 2v10c0 .55-.22 1.05-.59 1.41L9.83 23l-1.06-1.06c-.27-.27-.44-.64-.44-1.06l.03-.31.95-4.57H3a2 2 0 0 1-2-2v-2c0-.26.05-.5.14-.73l3.02-7.05C4.46 3.5 5.17 3 6 3zm0 2H5.97L3 12v2h8.78l-1.13 5.32L15 14.97z"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              谢谢你的反馈！
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              Thanks for your feedback! Help us improve this page by using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://s1.imagehub.cc/images/2024/02/02/bb9ee71b03ee7a3b87caad5cc4bcebff.jpeg" target="_blank" rel="noopener" title="Wechat" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154m-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4m-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2M563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4m-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6m107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://t.me/wecowin" target="_blank" rel="noopener" title="telegram" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M256 8a248 248 0 1 0 0 496 248 248 0 1 0 0-496m115 168.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7.2-.7.3-3.1-1.2-4.4s-3.6-.8-5.1-.5c-2.2.5-37.1 23.5-104.6 69.1-9.9 6.8-18.9 10.1-26.9 9.9-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3.6-4.5 6.7-9 18.4-13.7 72.3-31.5 120.5-52.3 144.6-62.3 68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6.5 9.6 2.9 2 1.7 3.2 4.1 3.5 6.7.5 3.2.6 6.5.4 9.8z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/wcowin_" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M357.2 48h70.6L273.6 224.2 455 464H313L201.7 318.6 74.5 464H3.8l164.9-188.5L-5.2 48h145.6l100.5 132.9zm-24.8 373.8h39.1L119.1 88h-42z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/Wcowin" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:<wangkewen821@gmail.com>" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M61.4 64C27.5 64 0 91.5 0 125.4c0 .9 0 1.7.1 2.6H0v256c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V128h-.1c0-.9.1-1.7.1-2.6 0-33.9-27.5-61.4-61.4-61.4zM464 192.3V384c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192.3l154.8 117.4c31.4 23.9 74.9 23.9 106.4 0zM48 125.4c0-7.4 6-13.4 13.4-13.4h389.2c7.4 0 13.4 6 13.4 13.4 0 4.2-2 8.2-5.3 10.7L280.2 271.5c-14.3 10.8-34.1 10.8-48.4 0L53.3 136.1c-3.3-2.5-5.3-6.5-5.3-10.7"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://space.bilibili.com/1407028951/lists/4566631?type=series" target="_blank" rel="noopener" title="space.bilibili.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M488.6 104.1c16.7 18.1 24.4 39.7 23.3 65.7v202.4c-.4 26.4-9.2 48.1-26.5 65.1-17.2 17-39.1 25.9-65.5 26.7H92c-26.4-.8-48.2-9.8-65.3-27.2S.7 396.5 0 368.2V169.8c.8-26 9.7-47.6 26.7-65.7C43.8 87.8 65.5 78.8 92 78h29.4L96 52.2c-5.7-5.7-8.6-13-8.6-21.8S90.3 14.3 96 8.6 109 0 117.9 0s16.1 2.9 21.9 8.6L213.1 78h88l74.5-69.4C381.7 2.9 389.2 0 398 0s16.1 2.9 21.9 8.6c5.7 5.7 8.6 13 8.6 21.8s-2.9 16.1-8.6 21.8L394.6 78h29.3c26.4.8 48 9.8 64.7 26.1m-38.8 69.7c-.4-9.6-3.7-17.4-10.7-23.5-5.2-6.1-14-9.4-22.7-9.8H96c-9.6.4-17.4 3.7-23.6 9.8-6.1 6.1-9.4 13.9-9.8 23.5v194.4c0 9.2 3.3 17 9.8 23.5s14.4 9.8 23.6 9.8h320.4c9.2 0 17-3.3 23.3-9.8s9.7-14.3 10.1-23.5zm-264.3 42.7c6.3 6.3 9.7 14.1 10.1 23.2V273c-.4 9.2-3.7 16.9-9.8 23.2-6.2 6.3-14 9.5-23.6 9.5s-17.5-3.2-23.6-9.5-9.4-14-9.8-23.2v-33.3c.4-9.1 3.8-16.9 10.1-23.2s13.2-9.6 23.3-10c9.2.4 17 3.7 23.3 10m191.5 0c6.3 6.3 9.7 14.1 10.1 23.2V273c-.4 9.2-3.7 16.9-9.8 23.2s-14 9.5-23.6 9.5-17.4-3.2-23.6-9.5c-7-6.3-9.4-14-9.7-23.2v-33.3c.3-9.1 3.7-16.9 10-23.2s14.1-9.6 23.3-10c9.2.4 17 3.7 23.3 10"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["toc.integrate", "announce.dismiss", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "navigation.path", "navigation.prune", "navigation.indexes", "content.tabs.link", "content.tooltips", "content.code.copy", "content.action.edit", "content.action.view", "content.code.annotate"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../javascripts/config.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="../../javascripts/optionalConfig.js"></script>
+      
+    
+  </body>
+</html>

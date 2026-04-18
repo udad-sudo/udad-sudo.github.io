@@ -1,0 +1,2280 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../chapter%201/">
+      
+      
+        <link rel="next" href="../chapter%203/">
+      
+      
+        
+          <link rel="alternate" href="/" hreflang="zh">
+        
+          <link rel="alternate" href="/Mkdocs-Wcowin/en/" hreflang="en">
+        
+          <link rel="alternate" href="/Mkdocs-Wcowin/ZH-TW/" hreflang="zh-TW">
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>chapter 2 - my-project</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config",""),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../.." title="my-project" class="md-header__button md-logo" aria-label="my-project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89">
+  <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z" />
+  <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5" />
+  <path d="M67.535,17.387l-27.262,18.156l21.878,32.818l5.384,2.691l0,-53.665Z" />
+  <path d="M67.535,17.387l0,53.666l18.774,-9.388l0,-53.665l-18.774,9.387Z" style="fill-opacity: 0.25" />
+</svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            my-project
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              chapter 2
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0 8a5 5 0 0 1-5-5 5 5 0 0 1 5-5 5 5 0 0 1 5 5 5 5 0 0 1-5 5m0-12.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.83 9 15 12.16V12a3 3 0 0 0-3-3zm-4.3.8 1.55 1.55c-.05.21-.08.42-.08.65a3 3 0 0 0 3 3c.22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53a5 5 0 0 1-5-5c0-.79.2-1.53.53-2.2M2 4.27l2.28 2.28.45.45C3.08 8.3 1.78 10 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.43.42L19.73 22 21 20.73 3.27 3M12 7a5 5 0 0 1 5 5c0 .64-.13 1.26-.36 1.82l2.93 2.93c1.5-1.25 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-4 .7l2.17 2.15C10.74 7.13 11.35 7 12 7"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="选择当前语言">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="/" hreflang="zh" class="md-select__link">
+              简体中文
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="/Mkdocs-Wcowin/en/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="/Mkdocs-Wcowin/ZH-TW/" hreflang="zh-TW" class="md-select__link">
+              China(TW)
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../about/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Guide
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="my-project" class="md-nav__button md-logo" aria-label="my-project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89">
+  <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z" />
+  <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5" />
+  <path d="M67.535,17.387l-27.262,18.156l21.878,32.818l5.384,2.691l0,-53.665Z" />
+  <path d="M67.535,17.387l0,53.666l18.774,-9.388l0,-53.665l-18.774,9.387Z" style="fill-opacity: 0.25" />
+</svg>
+
+    </a>
+    my-project
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guide
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Guide
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    about
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%201/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 2
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1 概 述
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2 硝化甘油的性质
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3 由植(动)物油中制取甘油
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3 由植(动)物油中制取甘油">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 油脂皂化成钙皂
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 水洗钙皂提出甘油
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (三) 甘油水浓缩
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4 硝化甘油制造
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4 硝化甘油制造">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 配混酸
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 甘油准备
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (三) 硝化
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (四) 硝化甘油洗涤
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (五) 硝化甘油暂存
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%203/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%204/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%205/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%206/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%207/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%208/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%209/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 9
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2010/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 10
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2011/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2012/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="导航栏" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Home
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../about/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Guide
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="_1">第二章 硝化甘油制造法</h1>
+<h2 id="1">1 概 述</h2>
+<p>硝化甘油学名为三硝酸甘油脂。它是以甘油为原料经混酸作用而制得，是一种液态的烈性炸药。它可用谷糠粉、细木粉、麻杆炭粉和硅藻土等多孔物质吸收，再与硝酸铵、火硝等混合制成各种混合炸药。作为装填地雷、手榴弹、爆破筒和爆破药包的装药。硝化甘油也是制造双基无烟火药和胶质炸药的主要原料。</p>
+<p>制造硝化甘油所用的原料为甘油和混酸。酸的来源是采用缸塔法自制(详见第十二章)，也曾少量外购。而甘油是以解放区的各种动、植物油(其中以植物油为主)经皂化而制得。</p>
+<p>制造硝化甘油的方法，如诺贝尔式硝化法、纳唐式硝化法和连续硝化法等在工业中均被采用过。但上述的工艺方法需要较复杂的专用设备。如
+通常所采用的纳唐式硝化设备(图15)，它是一个圆形的铅质容器，在容器内装有蛇形管，通过蛇形管内的冷却水来控制硝化温度。采用上述方法除需整套专用设备外，还需设置冷却盐水、压缩空气等辅助系统。</p>
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/baopojianyishengchanfa/images/img_in_image_box_487_587_960_1317.jpg" alt="图15 纳唐-汤姆逊硝化器" width="44%" style="margin-right: 2em;" />
+  <div>
+  <li>1—硝化器；</li><li>2—排油窥视孔；</li><li>3—溜子的检查口盖；</li><li>4—排油溜子；</li><li>5—窥视窗；</li><li>6—接触温度计；</li>
+  <li>7—压缩空气管；</li><li>8—冷却盐水管；</li><li>9—酸管；<li>10—混酸管；</li><li>11—废酸出口管；</li><li>12—置换酸管</li>
+  </div>
+</div>
+<div style="text-align: center;">图15 纳唐-汤姆逊硝化器</div>
+
+<p>在战争环境中，生产方式和设备的选择，必须满足“上马快”，投产快，设备轻巧和机动灵活，设备与材料自给等要求。经过反复研究和试验，当时是采用以瓷盆为硝化设备，因而称之为“盆式硝化法”。这种方法所采用的设备简单，生产时机动性大，产量可大可小；可以一盆投产也可以数盆同时生产。</p>
+<h2 id="2">2 硝化甘油的性质</h2>
+<p>硝化甘油的分子式为  <span class="arithmatex">\(C_3H_5(ONO_2)_3\)</span>，分子量为 227，通常用 NG 字母做为它的简写符号。纯硝化甘油是无色透明的油状液体，工业品为黄色或棕黄色。15℃时比重为 1.600，20℃时为 1.591。粘度比水大 2.5 倍，20℃时为 35.5 厘沲，它的粘度随温度的升高而降低。</p>
+<p>硝化甘油有安定型和不安定型两种。安定型的凝固点为13.2℃，熔点13.5℃；而不安定型的凝固点为2.1℃，熔点2.8℃。</p>
+<p>硝化甘油微溶于水，易熔于硫酸，遇强碱分解</p>
+<div class="arithmatex">\[
+C_3H_5(ONO_2)_3 + 5KOH \longrightarrow KNO_3 + 2KNO_2 + HCOOK + CH_3COOK + 3H_2O
+\]</div>
+<p>所以在制造中常用酒精碱液破坏(分解)残存的微量甘油。</p>
+<p>纯硝化甘油在 50℃ 时开始分解， 135℃ 时激烈分解，加热到 145℃ 时则产生大量棕烟，当温度达到  200~218℃ 时会发生爆炸，其爆炸分解反应式为</p>
+<div class="arithmatex">\[
+2C_3H_5(ONO_2)_3 \longrightarrow 6CO_2 + 5H_2O + 3N_2 + \frac{1}{2}O_2
+\]</div>
+<p>硝化甘油对撞击摩擦敏感，在金属之间或在磁与磁之间撞击摩擦均易引起爆炸。它对火焰也十分敏感；遇火焰作用，即会引起剧烈燃烧，甚至转为爆轰。硝化甘油的爆速，根据卡斯特的研究为7450米/秒。对冲击摩擦的感度，根据柯克-奥斯莫的研究，以2公斤重的落锤进行10次试验中，引起爆炸的最小高度为15厘米。</p>
+<p>硝化甘油具有刺激性甜味，当人体呼吸到硝化甘油蒸气和皮肤与它接触时，会引起头痛和心跳。在操作过程中要避免人体直接与它接触。如发生中毒症状，可用茶叶、咖啡因或黑咖啡等进行解毒，也可到空气新鲜的地方休息一下。</p>
+<p>凝结的硝化甘油或硝化甘油中混有机械杂质等，都会在很大程度上增加它的敏感度。</p>
+<h2 id="3">3 由植(动)物油中制取甘油</h2>
+<p>制造硝化甘油炸药，需要有纯度较高的甘油。要求甘油的比重不低于1.2600，通常均采用比重为1.2600～1.2620的甘油。甘油含水量应不大于2%。在甘油中不允许含有机械杂质和丙烯醛以及其它还原性物质。</p>
+<p>当时由于炸药用量日益增加，所需甘油的数量也随之增多。在此形势下，为了使重要的原料有可靠的来源，就采用由植(动)物油中制取甘油。</p>
+<p>在战争年代，解放区广大乡村中有较丰富的动植物油，尤其是植物油，如葵花籽油、大麻籽油、花生油、亚麻籽油和棉籽油等。由于人民群众的积极支持，甘油原料用之不尽，取之不竭。</p>
+<p>根据制取甘油的经验来看，不论是植物油还是动物油均能提出合格的甘油。为了节约动物油脂，供给人民需要，多采用植物油制取甘油。其中以大麻籽油、核桃油、花生油较好，而棉籽油较差。</p>
+<p>提取甘油时，先将油脂制成钙皂，再由钙皂中洗出甘油，经过滤和浓缩即可制得合格的甘油。</p>
+<h3 id="_2">(一) 油脂皂化成钙皂</h3>
+<p>油脂皂化的设备是利用民间煮饭用的大铁锅。先将锅擦干净，将占锅容积1/4～1/5的油脂经过称量后加入锅中，在灶内徐徐生火加热使温度平稳上升，当锅内物料的温度上升到70～80℃时，将事先准备好的浓度为30%的氢氧化钙乳状液加入锅中，其加入量为油脂加入量的17～18%。加入氢氧化钙水溶液的时用木棒搅拌，锅内物料温度保持在70～80℃，这时油脂和氢氧化钙溶液进行以下反应：</p>
+<div class="arithmatex">\[
+\ce{
+2 \begin{matrix}
+  \ce{CH2COOCR}\\
+  |\\
+  \ce{CHCOOCR}\\
+  |\\
+  \ce{CH2COOCR}
+\end{matrix}
++ 3 Ca(OH)2
+-&gt;
+\begin{matrix}
+  \ce{(RCOO)2Ca}\\
+  \\
+  \ce{(RCOO)2Ca}\\
+  \\
+  \ce{(RCOO)2Ca}
+\end{matrix}
++ 2 \begin{matrix}
+  \ce{CH2OH}\\
+  |\\
+  \ce{CHOH}\\
+  |\\
+  \ce{CH2OH}
+\end{matrix}
+}
+\]</div>
+<p>氢氧化钙水溶液全部加完后仍继续搅拌，一直搅拌到反应完全为止。当物料沸腾时有大量泡沫产生。沸腾保持一些时间以后，停止或以微火加热，防止泡沫溅出。待反应快完成时可逐渐降温，这时物料的粘度也随之增加，直到呈糊状时反应即告停止。油脂皂化的设备如图16所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_179_962_878_1429.jpg" alt="Image" width="66%" />
+<p>1—铁锅；2—套圈；3—炉灶；4—隔火墙</p>
+<div style="text-align: center;">图16 油脂皂化锅</div>
+</div>
+
+<p>皂化结束后，将料液用工具盛入可临时装配的活动槽中(如图 17 所示)，或凹形铁板上，待钙皂冷却后将槽的侧板拆下来，取出物料，破碎和磨成细粉。</p>
+<p>在制钙皂过程中，加热油脂要注意防火，可采用图16所示的隔墙加热的方法。在安装锅时应在锅口的上部用木板或水泥制做一个套圈，避免当物料沸腾时溅出锅外。油脂加热，温度要徐徐上升，不能火力过猛，如温度骤然上升，易引起料液外溅。氢氧化钙水溶液加入的数量不宜过多或过少，过多则在甘油水中含的  <span class="arithmatex">\(Ca(OH)_2\)</span> 杂质多；过少则碱化不完全，物料发粘，甘油不易提出。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_479_251_916_527.jpg" alt="Image" width="41%" />
+<div style="text-align: center;">图17 装配槽 1—槽体；2—底板。</div>
+</div>
+
+<h3 id="_3">(二) 水洗钙皂提出甘油</h3>
+<p>所制成的钙皂由装配槽中卸出并破碎成小块，再用碾子压成细粉，愈细愈好。在缸或大盆内加入清水，再将钙皂粉加入水中浸泡洗涤，使甘油溶于水中。当甘油水浓度达到12%以上时，就用孔径不大于0.15毫米的筛网过滤，分离出不溶于水的钙皂粉并除去甘油水中的机械杂质。甘油水经过滤后即可送去蒸发浓缩。</p>
+<h3 id="_4">(三) 甘油水浓缩</h3>
+<p>过滤后的甘油水浓度通常为 12～16%，但需使其浓度增大到 97% 以上，这一过程可分为两个工艺步骤进行。</p>
+<p>(1)先将稀甘油水倒入锅或缸中，以火加热，控制物料温度在100℃左右，使水分蒸发。此时适当掌握温度，既能尽快浓缩，又不致沸腾翻起沉淀下去的钙皂粉粒，进而提高甘油的质量。在锅内的物料浓度一般可达到60%(沸点109.6℃)～70%(沸点114℃)。如使甘油浓度增加到95%以上，则物料温度需在175℃以上。在常压的条件下，用锅蒸发浓缩达不到目的，故先蒸发至60～70%。</p>
+<div style="text-align: center;">表11 甘油浓度(%)与甘油沸点的关系</div>
+
+<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td rowspan="2">压力(毫米水银柱)</td><td rowspan="2">单位</td><td colspan="10">甘油浓度</td><td rowspan="2">水沸点</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10%</td><td style='text-align: center; word-wrap: break-word;'>20%</td><td style='text-align: center; word-wrap: break-word;'>30%</td><td style='text-align: center; word-wrap: break-word;'>40%</td><td style='text-align: center; word-wrap: break-word;'>50%</td><td style='text-align: center; word-wrap: break-word;'>60%</td><td style='text-align: center; word-wrap: break-word;'>70%</td><td style='text-align: center; word-wrap: break-word;'>80%</td><td style='text-align: center; word-wrap: break-word;'>90%</td><td style='text-align: center; word-wrap: break-word;'>95.64%</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>760.00</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>100.7</td><td style='text-align: center; word-wrap: break-word;'>100.6</td><td style='text-align: center; word-wrap: break-word;'>102.9</td><td style='text-align: center; word-wrap: break-word;'>104.5</td><td style='text-align: center; word-wrap: break-word;'>106.7</td><td style='text-align: center; word-wrap: break-word;'>109.6</td><td style='text-align: center; word-wrap: break-word;'>114.0</td><td style='text-align: center; word-wrap: break-word;'>121.5</td><td style='text-align: center; word-wrap: break-word;'>139.8</td><td style='text-align: center; word-wrap: break-word;'>175.8</td><td style='text-align: center; word-wrap: break-word;'>100</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>525.00</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>90.6</td><td style='text-align: center; word-wrap: break-word;'>91.5</td><td style='text-align: center; word-wrap: break-word;'>92.8</td><td style='text-align: center; word-wrap: break-word;'>94.2</td><td style='text-align: center; word-wrap: break-word;'>96.3</td><td style='text-align: center; word-wrap: break-word;'>99.3</td><td style='text-align: center; word-wrap: break-word;'>103.5</td><td style='text-align: center; word-wrap: break-word;'>114.3</td><td style='text-align: center; word-wrap: break-word;'>127.8</td><td style='text-align: center; word-wrap: break-word;'>161.1</td><td style='text-align: center; word-wrap: break-word;'>90</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>355.00</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>80.5</td><td style='text-align: center; word-wrap: break-word;'>81.4</td><td style='text-align: center; word-wrap: break-word;'>82.6</td><td style='text-align: center; word-wrap: break-word;'>84.0</td><td style='text-align: center; word-wrap: break-word;'>86.0</td><td style='text-align: center; word-wrap: break-word;'>88.8</td><td style='text-align: center; word-wrap: break-word;'>92.8</td><td style='text-align: center; word-wrap: break-word;'>99.3</td><td style='text-align: center; word-wrap: break-word;'>116.0</td><td style='text-align: center; word-wrap: break-word;'>146.0</td><td style='text-align: center; word-wrap: break-word;'>80</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>233.53</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>70.4</td><td style='text-align: center; word-wrap: break-word;'>71.2</td><td style='text-align: center; word-wrap: break-word;'>72.4</td><td style='text-align: center; word-wrap: break-word;'>73.7</td><td style='text-align: center; word-wrap: break-word;'>75.6</td><td style='text-align: center; word-wrap: break-word;'>78.5</td><td style='text-align: center; word-wrap: break-word;'>82.2</td><td style='text-align: center; word-wrap: break-word;'>88.3</td><td style='text-align: center; word-wrap: break-word;'>104.0</td><td style='text-align: center; word-wrap: break-word;'>132.1</td><td style='text-align: center; word-wrap: break-word;'>70</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>149.19</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>60.3</td><td style='text-align: center; word-wrap: break-word;'>61.0</td><td style='text-align: center; word-wrap: break-word;'>62.2</td><td style='text-align: center; word-wrap: break-word;'>63.5</td><td style='text-align: center; word-wrap: break-word;'>65.5</td><td style='text-align: center; word-wrap: break-word;'>68.1</td><td style='text-align: center; word-wrap: break-word;'>71.5</td><td style='text-align: center; word-wrap: break-word;'>77.3</td><td style='text-align: center; word-wrap: break-word;'>92.0</td><td style='text-align: center; word-wrap: break-word;'>117.6</td><td style='text-align: center; word-wrap: break-word;'>60</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>92.30</td><td style='text-align: center; word-wrap: break-word;'>℃</td><td style='text-align: center; word-wrap: break-word;'>50.7</td><td style='text-align: center; word-wrap: break-word;'>50.9</td><td style='text-align: center; word-wrap: break-word;'>52.1</td><td style='text-align: center; word-wrap: break-word;'>53.4</td><td style='text-align: center; word-wrap: break-word;'>55.2</td><td style='text-align: center; word-wrap: break-word;'>57.6</td><td style='text-align: center; word-wrap: break-word;'>61.0</td><td style='text-align: center; word-wrap: break-word;'>66.2</td><td style='text-align: center; word-wrap: break-word;'>80.1</td><td style='text-align: center; word-wrap: break-word;'>103.1</td><td style='text-align: center; word-wrap: break-word;'>50</td></tr></table>
+
+<p>(2)经浓缩至60～70%的甘油，用工具掏入瓷盆里，在火炕●式的沙盘上进一步蒸发浓缩。蒸发浓缩甘油的装置是在火炕上放置一层厚度一定的砂子做为传热介质，再将盛有甘油的瓷盆置于砂中，如图18所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_191_880_896_1263.jpg" alt="Image" width="67%" />
+<div style="text-align: center;">1—磁盘；2—甘油；3—砂子；4—土坯或砖砌的火炕</div>
+<div style="text-align: center;">图18 甘油蒸滤砂盘</div>
+</div>
+
+<p>在火炕的一端加火，使砂子的温度升高，盆中的甘油即逐渐蒸浓并需保持温度平稳上升，这一阶段需3～5天。在蒸浓的同时，物料中的游离钙皂和其他微量杂质沉淀，使甘油与沉淀物以及杂质自行分开。用工具将甘油取出则沉淀物和杂质残留于盆底，这样可制出较纯的甘油。</p>
+<p>已经蒸浓合格的甘油可以直接用于硝化，也可以装入洁净密封的桶中，放置于干燥的地方。甘油在低温时会凝结成晶体(如98.2%的甘油凝固点为13.5℃)，结晶的甘油对硝化甘油制造过程中的安全有影响，所以存放甘油地点的温度不宜低于15℃。</p>
+<h2 id="4">4 硝化甘油制造</h2>
+<p>硝化甘油是以硝酸和硫酸配制的混酸，其中加入甘油经硝化作用而制得。制造硝化甘油的主要工序为：配制混酸、硝化、分离和洗涤。</p>
+<h3 id="_5">(一) 配混酸</h3>
+<p>硝化所用的混酸是由硝酸和硫酸混合而成。当时所使用的混酸成分为：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">成分</th>
+<th>含量</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">硝酸</td>
+<td>48～50%</td>
+</tr>
+<tr>
+<td style="text-align: left;">硫酸</td>
+<td>49～51%</td>
+</tr>
+<tr>
+<td style="text-align: left;">水</td>
+<td>≤ 1%</td>
+</tr>
+</tbody>
+</table>
+<p>混酸与甘油的投料比，按重量比为7:1。硝化所使用的硝酸比重要求在1.50以上，硫酸比重为1.84以上。原料酸测定比重后，按配比要求称量，配制混酸。</p>
+<p>配酸时，用陶瓷缸作为配酸设备。将缸擦洗干净后，先向缸中加入定量的硝酸，再加入硫酸，并不断用铅棒搅拌使它混合均匀(如图19所示)。</p>
+<p>在配酸过程中有酸烟排出，对人体有害。搅拌时，操作人员应站在配酸缸的上风方向操作。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_506_1152_954_1449.jpg" alt="Image" width="42%" />
+<div style="text-align: center;">1—木槽；2—混酸；3—陶瓷缸</div>
+<div style="text-align: center;">图19 配酸装置</div>
+</div>
+
+<pre class="mermaid"><code>flowchart TD
+    A["硝酸(HNO₃)"] --&gt; C[配混酸]
+    B["发烟硫酸(H₂SO₄·SO₃)"] --&gt; C
+    D[甘油准备] --&gt; E[硝化]
+    C --&gt; E
+    E --&gt; F[分离]
+    G[洗涤水准备] --&gt; H[洗涤]
+    F --&gt; H
+    H --&gt; I[成品]
+    H --&gt; J[废水沉淀]
+    J --&gt; K[废水排出]
+    J --&gt; L[沉淀物定期销毁]</code></pre>
+<div style="text-align: center;">
+<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_190_208_854_874.jpg" alt="Image" width="63%" /> -->
+<div style="text-align: center;">流程 3 硝化甘油制造流程</div>
+</div>
+
+<p>配酸过程中由于放热作用，使物料温度升高，此时酸量有所损耗。为了减少酸量损耗，就需降温冷却。在当时是采用冷水槽来降低料液温度。</p>
+<p>酸全部加完后继续搅拌 15～20 分钟，再令其静置 72 小时以上，使酸中杂质充分沉淀。配制合格的混酸即可送去硝化使用。</p>
+<h3 id="_6">(二) 甘油准备</h3>
+<p>甘油使用前先测定比重，比重应达到1.2584～1.2620。测定比重后以孔径为0.15毫米的筛网过滤，清除甘油中的机械杂物。按照规定重量一份一份的装入广口瓶或其它容器中，准备送去硝化。在当时是采用盆法硝化，每盆硝化的甘油量为1～3公斤。称取甘油时，数量要准确。过滤和称量操作要迅速，避免甘油长时间与空气接触吸收水分。在冬季操作时，将甘油置于室温较高的地方，使它预先加温到16～18℃再送去使用，否则甘油温度过低，也会影响硝化作业的正常进行。</p>
+<h3 id="_7">(三) 硝化</h3>
+<p>硝化是以1份的甘油与7份的混酸(按重量比)作用制成硝化甘油。它的硝化反应方程式为：</p>
+<div class="arithmatex">\[
+C_3H_5(OH)_3 + 3HNO_3 \longrightarrow C_3H_5(ONO_2)_3 + 3H_2O 
+\]</div>
+<p>由上式可见，每 100 公斤甘油(100% 计)完全硝化，在理论计算上可生成 246.7 公斤的硝化甘油和 58.7 公斤的水，而需要硝酸为 205 公斤(硝酸量以 100% 计)。在硝化过程中硫酸不直接参加反应，而起脱水作用。</p>
+<p>甘油硝化过程应控制硝化温度不超过 23℃。如温度上升到 25℃，即会产生大量棕烟，温度继续上升，就有引起爆炸的危险。加料时向酸中加入甘油，顺序不能颠倒。在硝化过程中甘油与混酸作用放出热量(1公斤甘油硝化时放出193.9仟卡热量)。同时硝化反应所生成的水将混酸冲淡也产生稀释热，使物料温度升高。为降低硝化温度，除控制加入甘油的速度和充分的搅拌外，还需要进行冷却。</p>
+<p>在战争年代，要求设备轻巧、生产灵活机动和投产快。因此当时选用搪瓷盆或陶瓷盆做为甘油的硝化容器。瓷盆来源广泛，既耐酸腐蚀，又移动方便，产量和盆的数量都不受条件限制。晴天时硝化作业就在河沟或泉水旁进行操作，利用河水或泉水做为冷却水。有时干脆将小船划到河的中央，在船上办起硝化甘油制造“工厂”，用河水降温冷却。当风雨天或严冬季节，就在室内作业。</p>
+<p>进行硝化作业时，首先将已准备好的混酸使其温度降低到 10℃ 以下，最高也不超过 17℃。为了控制温度，当时没有采用人工制冷设备，而是选择每一天中气温较低的时间来进行硝化作业，如清晨水温、气温较低，适合硝化作业。先将称量好的混酸倒入事先准备妥当的表面光洁的搪瓷盆或陶瓷盆中。再将准备好的甘油呈线状缓慢地加入混酸中(最好是以雾状喷入)，加入甘</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_142_322_541_565.jpg" alt="Image" width="37%" />
+<div style="text-align: center;">1—木槽；2—木条；3—瓷盆。</div>
+<div style="text-align: center;">图20 硝化槽</div>
+</div>
+
+<p>油的同时，用棒(玻璃、铝、橡皮均可)迅速的搅拌，并密切地观测硝化液温度的变化，如温度上升到 22℃ 时应立即停止加入甘油，待温度下降后再继续加甘油操作。当温度上升到 23℃ 时，应加强搅拌使温度降低。若温度一直上升到 25℃ 并有棕烟和气泡出现时，则应迅速地把硝化液倒入水中。在室内作业时，硝化前就应将盆置于有水的木槽托板上，当温度上升到 25℃ 时，将盆倾倒水中；若在室外作业时，就将硝化液和盆一起倒入河水或泉水中以免发生事故。</p>
+<p>按上述过程将甘油全部加完后，再继续搅拌3～5分钟，整个硝化过程就告结束。</p>
+<p>硝化过程结束后，硝化甘油和酸酸由于比重不同而自行分开(硝化甘油比重为1.6, 外观为油状透明体, 硝化酸酸比重为1.7)。用勺或虹吸管把硝化甘油取出，送去洗涤。</p>
+<p>硝化作业是硝化甘油制造中的主要工序。操作是否正常直接影响到产品质量、得率和生产安全。所以对硝化的操作提出以下注意事项：</p>
+<blockquote>
+<p>(1) 硝化前要检查混酸的成分是否合格，酸量是否正确；</p>
+<p>(2)硝化前要检查甘油的温度与质量，如发现有凝结现象，甘油就不能采用；</p>
+<p>(3)硝化前要检查所使用的器皿是否清洁完整，温度计是否正确可靠；</p>
+<p>(4)投料时应先加混酸，然后将甘油缓缓地加入混酸中，加料速度不能过快，加料次序不能颠倒；</p>
+<p>(5)甘油加入时不能停止搅拌；</p>
+<p>(6) 硝化过程中要密切注意并掌握温度变化;</p>
+<p>(7)距硝化操作地点 50 米范围内，不准有明火；</p>
+<p>(8)非直接操作人员应离开硝化操作地点，以免影响操作正常进行。</p>
+</blockquote>
+<h3 id="_8">(四) 硝化甘油洗涤</h3>
+<p>洗涤又称为安定处理。酸性的硝化甘油极不安定，保存期问易分解，所以必须将硝化甘油所带的残酸洗掉。洗涤硝化甘油的设备仍然是采用瓷器皿或铅制的洗涤槽。</p>
+<p>洗涤硝化甘油所用的水必须洁净，事先应将水沉淀并用细布过滤，除去杂质。</p>
+<p>硝化甘油洗涤分为五次进行，洗涤的工艺条件如下表所示：</p>
+<div style="text-align: center;">表12 硝化甘油洗涤的工艺条件</div>
+
+<table>
+<thead>
+<tr>
+<th>洗涤次数</th>
+<th>洗涤水类别</th>
+<th>洗涤水温度</th>
+<th>搅拌时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第一次洗涤</td>
+<td>净水</td>
+<td>不高于25℃</td>
+<td>5分钟</td>
+</tr>
+<tr>
+<td>第二次洗涤</td>
+<td>净水</td>
+<td>30～35℃</td>
+<td>5分钟</td>
+</tr>
+<tr>
+<td>第三次洗涤</td>
+<td>净水</td>
+<td>40～45℃</td>
+<td>10分钟</td>
+</tr>
+<tr>
+<td>第四次洗涤</td>
+<td>2.5～3%浓度的碳酸钠水溶液</td>
+<td>40～50℃</td>
+<td>5～8分钟</td>
+</tr>
+<tr>
+<td>第五次洗涤</td>
+<td>净水</td>
+<td>30～35℃</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p>洗涤操作的具体步骤为：将待洗涤的硝化甘油盛于瓷盆内，先以温度不高于 25℃ 的温水洗涤，边洗涤，边搅拌，搅拌的工具可用玻璃棒或橡皮棒；然后再用 30~35℃ 和 40~45℃ 的温水各洗一遍。为了中和物料中的残酸，再用浓度为 2.5~3% 的碳酸钠水洗涤一次。碱水洗涤后，最后再用 30~50℃ 的温水洗涤一次，以除去碱份。</p>
+<p>在硝化甘油的洗涤过程中，搅拌要轻，不要剧烈搅动，防止冲击摩擦或将硝化甘油溅到盆外。洗涤后的产品，经充分静置后，若有仪器可进行阿贝尔安定度试验(试验时，以温度为75℃，碘化钾淀粉试纸变色时间不少于15分钟为合格)。所制成的炸药，若不长期保存，也可采用石蕊试纸进行鉴定。</p>
+<p>洗涤后的硝化甘油在表面上还残存有一部分洗涤水，可用勺将水排出。所制得的产品即为硝化甘油液体炸药。</p>
+<p>洗涤也是硝化甘油制造过程中的一个比较主要工序，为保证质量和安全应注意以下各项：</p>
+<blockquote>
+<p>(1)所使用的洗涤水温度不超过 50℃;</p>
+<p>(2)洗涤水必须干净、清洁，不含有机械杂质，并事先经过沉淀过滤；</p>
+<p>(3)洗涤时要充分搅拌，但不能撞击和摩擦器壁，用力不能过猛。</p>
+</blockquote>
+<h3 id="_9">(五) 硝化甘油暂存</h3>
+<p>硝化甘油成品不宜存放时间过长，存放地点的温度应保持在15℃以上。当温度低于13℃时，硝化甘油易产生凝结，凝结的硝化甘油极为敏感。如发现硝化甘油凝结时，绝对禁止进行任何加工，必须经稳妥的熔化(如将硝化甘油连同容器一起置于热水槽中熔化)后，方准使用。</p>
+<p>硝化甘油受阳光作用，也易分解，存放产品的地点要防止阳光直接照射。</p>
+<p>制造硝化甘油过程中，要注意避免硝化甘油撒落在地上或其它物件上。若撒出的量少时，可先用湿布轻轻擦净，再用酒精碱液处理；如撒出量较大，先用木粉将甘油吸收，再用湿布擦净和酒精碱液处理。</p>
+<p>酒精碱液的配方为</p>
+<blockquote>
+<p>(1)酒精 70%</p>
+<p>(2)氢氧化钠</p>
+<p>(3)水</p>
+</blockquote>
+<p>因含有杂质或由于其他原因而不能使用的硝化甘油应及时毁掉。销毁可用十倍于硝化甘油量的木粉将硝化甘油吸收，然后在处理场地上将它撒成一条直线，操作人员站在上风方向点火，将它烧毁。</p>
+<p>洗涤硝化甘油的废水，不要排在工作地点附近，最好用一个大缸收集起来，经充分沉淀再排出；沉淀出的硝化甘油，如不含杂质，经净水洗涤后仍可使用。</p>
+<p>在艰苦的战争年代，就是采用上述办法制造出了硝化甘油高致炸药。有了它就打开了制造炸药的大门，配制出多种多样的以硝化甘油为敏感剂的混合炸药，如周氏炸药，硝化甘油和麻杆炭粉混合物，硝化甘油强棉炸药及含有硝化甘油的硝酸铵类炸药等。</p>
+<div style="text-align: center;">表13 甘油比重浓度换算表(19.6℃时)</div>
+
+<table>
+<thead>
+<tr>
+<th>比重</th>
+<th>0</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.252</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>95.00</td>
+<td>95.03</td>
+<td>95.07</td>
+<td>95.11</td>
+<td>95.15</td>
+<td>95.19</td>
+</tr>
+<tr>
+<td>1.253</td>
+<td>95.23</td>
+<td>95.27</td>
+<td>95.31</td>
+<td>95.35</td>
+<td>95.39</td>
+<td>95.43</td>
+<td>95.46</td>
+<td>95.50</td>
+<td>95.55</td>
+<td>95.58</td>
+</tr>
+<tr>
+<td>1.254</td>
+<td>95.62</td>
+<td>95.65</td>
+<td>95.69</td>
+<td>95.77</td>
+<td>95.79</td>
+<td>95.80</td>
+<td>95.84</td>
+<td>95.88</td>
+<td>95.92</td>
+<td>95.96</td>
+</tr>
+<tr>
+<td>1.255</td>
+<td>96.00</td>
+<td>96.03</td>
+<td>96.07</td>
+<td>96.11</td>
+<td>96.15</td>
+<td>96.19</td>
+<td>96.23</td>
+<td>96.26</td>
+<td>96.30</td>
+<td>96.34</td>
+</tr>
+<tr>
+<td>1.256</td>
+<td>96.38</td>
+<td>96.42</td>
+<td>96.46</td>
+<td>96.50</td>
+<td>96.54</td>
+<td>96.58</td>
+<td>96.62</td>
+<td>96.66</td>
+<td>96.70</td>
+<td>96.74</td>
+</tr>
+<tr>
+<td>1.257</td>
+<td>96.78</td>
+<td>96.82</td>
+<td>96.86</td>
+<td>96.90</td>
+<td>96.94</td>
+<td>96.98</td>
+<td>97.02</td>
+<td>97.05</td>
+<td>97.09</td>
+<td>97.13</td>
+</tr>
+<tr>
+<td>1.258</td>
+<td>97.17</td>
+<td>97.21</td>
+<td>97.24</td>
+<td>97.28</td>
+<td>97.32</td>
+<td>97.36</td>
+<td>97.40</td>
+<td>97.44</td>
+<td>97.48</td>
+<td>97.52</td>
+</tr>
+<tr>
+<td>1.259</td>
+<td>97.56</td>
+<td>97.60</td>
+<td>97.64</td>
+<td>97.68</td>
+<td>97.72</td>
+<td>97.76</td>
+<td>97.80</td>
+<td>97.84</td>
+<td>97.88</td>
+<td>97.92</td>
+</tr>
+<tr>
+<td>1.260</td>
+<td>97.96</td>
+<td>98.00</td>
+<td>98.03</td>
+<td>98.07</td>
+<td>98.11</td>
+<td>98.15</td>
+<td>98.19</td>
+<td>98.23</td>
+<td>98.26</td>
+<td>98.30</td>
+</tr>
+<tr>
+<td>1.261</td>
+<td>98.34</td>
+<td>98.36</td>
+<td>98.41</td>
+<td>98.45</td>
+<td>98.49</td>
+<td>98.53</td>
+<td>98.57</td>
+<td>98.60</td>
+<td>98.64</td>
+<td>98.68</td>
+</tr>
+<tr>
+<td>1.262</td>
+<td>98.72</td>
+<td>98.76</td>
+<td>98.80</td>
+<td>98.84</td>
+<td>98.88</td>
+<td>98.92</td>
+<td>98.96</td>
+<td>99.00</td>
+<td>99.03</td>
+<td>99.07</td>
+</tr>
+<tr>
+<td>1.263</td>
+<td>99.11</td>
+<td>99.18</td>
+<td>99.22</td>
+<td>99.26</td>
+<td>99.30</td>
+<td>99.34</td>
+<td>99.37</td>
+<td>99.40</td>
+<td>99.45</td>
+<td>99.48</td>
+</tr>
+<tr>
+<td>1.264</td>
+<td>99.49</td>
+<td>99.53</td>
+<td>99.56</td>
+<td>99.60</td>
+<td>99.64</td>
+<td>99.68</td>
+<td>99.72</td>
+<td>99.76</td>
+<td>99.80</td>
+<td>99.84</td>
+</tr>
+<tr>
+<td>1.265</td>
+<td>99.88</td>
+<td>99.92</td>
+<td>99.96</td>
+<td>10.000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;">表14 硫酸的比重与浓度表(15℃时)</div>
+
+<table>
+<thead>
+<tr>
+<th>比重</th>
+<th><span class="arithmatex">\(H_2SO_4(\%)\)</span></th>
+<th>比重</th>
+<th><span class="arithmatex">\(H_2SO_4(\%)\)</span></th>
+<th>比重</th>
+<th><span class="arithmatex">\(H_2SO_4(\%)\)</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.000</td>
+<td>0.09</td>
+<td>1.180</td>
+<td>24.76</td>
+<td>1.360</td>
+<td>45.88</td>
+</tr>
+<tr>
+<td>1.005</td>
+<td>0.83</td>
+<td>1.185</td>
+<td>25.40</td>
+<td>1.365</td>
+<td>46.41</td>
+</tr>
+<tr>
+<td>1.010</td>
+<td>1.57</td>
+<td>1.190</td>
+<td>26.04</td>
+<td>1.370</td>
+<td>46.94</td>
+</tr>
+<tr>
+<td>1.015</td>
+<td>2.30</td>
+<td>1.195</td>
+<td>26.68</td>
+<td>1.375</td>
+<td>47.47</td>
+</tr>
+<tr>
+<td>1.020</td>
+<td>3.03</td>
+<td>1.200</td>
+<td>27.32</td>
+<td>1.380</td>
+<td>48.00</td>
+</tr>
+<tr>
+<td>1.025</td>
+<td>3.76</td>
+<td>1.205</td>
+<td>27.95</td>
+<td>1.385</td>
+<td>48.53</td>
+</tr>
+<tr>
+<td>1.030</td>
+<td>4.49</td>
+<td>1.210</td>
+<td>28.58</td>
+<td>1.390</td>
+<td>49.06</td>
+</tr>
+<tr>
+<td>1.035</td>
+<td>5.23</td>
+<td>1.215</td>
+<td>29.21</td>
+<td>1.395</td>
+<td>49.59</td>
+</tr>
+<tr>
+<td>1.040</td>
+<td>5.96</td>
+<td>1.220</td>
+<td>30.84</td>
+<td>1.400</td>
+<td>50.11</td>
+</tr>
+<tr>
+<td>1.045</td>
+<td>6.67</td>
+<td>1.225</td>
+<td>31.11</td>
+<td>1.405</td>
+<td>50.63</td>
+</tr>
+<tr>
+<td>1.050</td>
+<td>7.37</td>
+<td>1.230</td>
+<td>31.48</td>
+<td>1.410</td>
+<td>51.15</td>
+</tr>
+<tr>
+<td>1.055</td>
+<td>8.07</td>
+<td>1.235</td>
+<td>31.70</td>
+<td>1.415</td>
+<td>51.66</td>
+</tr>
+<tr>
+<td>1.060</td>
+<td>8.77</td>
+<td>1.240</td>
+<td>32.28</td>
+<td>1.420</td>
+<td>52.15</td>
+</tr>
+<tr>
+<td>1.065</td>
+<td>9.47</td>
+<td>1.245</td>
+<td>32.86</td>
+<td>1.425</td>
+<td>52.63</td>
+</tr>
+<tr>
+<td>1.070</td>
+<td>10.19</td>
+<td>1.250</td>
+<td>33.43</td>
+<td>1.430</td>
+<td>53.11</td>
+</tr>
+<tr>
+<td>1.075</td>
+<td>10.90</td>
+<td>1.255</td>
+<td>34.00</td>
+<td>1.435</td>
+<td>53.59</td>
+</tr>
+<tr>
+<td>1.080</td>
+<td>11.60</td>
+<td>1.260</td>
+<td>34.57</td>
+<td>1.440</td>
+<td>54.07</td>
+</tr>
+<tr>
+<td>1.085</td>
+<td>12.30</td>
+<td>1.265</td>
+<td>35.14</td>
+<td>1.445</td>
+<td>54.55</td>
+</tr>
+<tr>
+<td>1.090</td>
+<td>12.99</td>
+<td>1.270</td>
+<td>35.71</td>
+<td>1.450</td>
+<td>55.03</td>
+</tr>
+<tr>
+<td>1.095</td>
+<td>13.67</td>
+<td>1.275</td>
+<td>36.29</td>
+<td>1.455</td>
+<td>55.50</td>
+</tr>
+<tr>
+<td>1.100</td>
+<td>14.35</td>
+<td>1.280</td>
+<td>36.87</td>
+<td>1.460</td>
+<td>55.97</td>
+</tr>
+<tr>
+<td>1.105</td>
+<td>15.03</td>
+<td>1.285</td>
+<td>37.45</td>
+<td>1.465</td>
+<td>56.43</td>
+</tr>
+<tr>
+<td>1.110</td>
+<td>15.71</td>
+<td>1.290</td>
+<td>38.03</td>
+<td>1.470</td>
+<td>56.90</td>
+</tr>
+<tr>
+<td>1.115</td>
+<td>16.36</td>
+<td>1.295</td>
+<td>38.61</td>
+<td>1.475</td>
+<td>57.37</td>
+</tr>
+<tr>
+<td>1.120</td>
+<td>17.01</td>
+<td>1.300</td>
+<td>39.19</td>
+<td>1.480</td>
+<td>57.83</td>
+</tr>
+<tr>
+<td>1.125</td>
+<td>17.66</td>
+<td>1.305</td>
+<td>39.77</td>
+<td>1.485</td>
+<td>58.28</td>
+</tr>
+<tr>
+<td>1.130</td>
+<td>18.31</td>
+<td>1.310</td>
+<td>40.35</td>
+<td>1.490</td>
+<td>58.74</td>
+</tr>
+<tr>
+<td>1.135</td>
+<td>18.96</td>
+<td>1.315</td>
+<td>40.93</td>
+<td>1.495</td>
+<td>59.22</td>
+</tr>
+<tr>
+<td>1.140</td>
+<td>19.61</td>
+<td>1.320</td>
+<td>41.50</td>
+<td>1.500</td>
+<td>59.70</td>
+</tr>
+<tr>
+<td>1.145</td>
+<td>20.26</td>
+<td>1.325</td>
+<td>42.08</td>
+<td>1.505</td>
+<td>60.18</td>
+</tr>
+<tr>
+<td>1.150</td>
+<td>20.91</td>
+<td>1.330</td>
+<td>42.66</td>
+<td>1.510</td>
+<td>60.65</td>
+</tr>
+<tr>
+<td>1.155</td>
+<td>21.55</td>
+<td>1.335</td>
+<td>43.20</td>
+<td>1.515</td>
+<td>61.12</td>
+</tr>
+<tr>
+<td>1.160</td>
+<td>22.19</td>
+<td>1.340</td>
+<td>43.74</td>
+<td>1.520</td>
+<td>61.59</td>
+</tr>
+<tr>
+<td>1.165</td>
+<td>22.83</td>
+<td>1.345</td>
+<td>44.28</td>
+<td>1.525</td>
+<td>62.06</td>
+</tr>
+<tr>
+<td>1.170</td>
+<td>23.47</td>
+<td>1.350</td>
+<td>44.82</td>
+<td>1.530</td>
+<td>62.53</td>
+</tr>
+<tr>
+<td>1.175</td>
+<td>24.12</td>
+<td>1.355</td>
+<td>45.35</td>
+<td>1.535</td>
+<td>63.00</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>比重</th>
+<th><span class="arithmatex">\(H_2SO_4(\%)\)</span></th>
+<th>比重</th>
+<th><span class="arithmatex">\(H_2SO_4(\%)\)</span></th>
+<th>比重</th>
+<th><span class="arithmatex">\(H_2SO_4(\%)\)</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.540</td>
+<td>63.43</td>
+<td>1.660</td>
+<td>73.64</td>
+<td>1.780</td>
+<td>84.50</td>
+</tr>
+<tr>
+<td>1.545</td>
+<td>63.85</td>
+<td>1.665</td>
+<td>74.07</td>
+<td>1.785</td>
+<td>85.10</td>
+</tr>
+<tr>
+<td>1.550</td>
+<td>64.26</td>
+<td>1.670</td>
+<td>74.51</td>
+<td>1.790</td>
+<td>85.70</td>
+</tr>
+<tr>
+<td>1.555</td>
+<td>64.67</td>
+<td>1.675</td>
+<td>74.97</td>
+<td>1.795</td>
+<td>86.30</td>
+</tr>
+<tr>
+<td>1.560</td>
+<td>65.08</td>
+<td>1.680</td>
+<td>75.42</td>
+<td>1.800</td>
+<td>86.90</td>
+</tr>
+<tr>
+<td>1.565</td>
+<td>65.49</td>
+<td>1.685</td>
+<td>75.86</td>
+<td>1.805</td>
+<td>87.60</td>
+</tr>
+<tr>
+<td>1.570</td>
+<td>65.90</td>
+<td>1.690</td>
+<td>76.30</td>
+<td>1.810</td>
+<td>88.30</td>
+</tr>
+<tr>
+<td>1.575</td>
+<td>66.30</td>
+<td>1.695</td>
+<td>76.73</td>
+<td>1.815</td>
+<td>89.05</td>
+</tr>
+<tr>
+<td>1.580</td>
+<td>66.71</td>
+<td>1.700</td>
+<td>77.17</td>
+<td>1.820</td>
+<td>90.05</td>
+</tr>
+<tr>
+<td>1.585</td>
+<td>67.13</td>
+<td>1.705</td>
+<td>77.60</td>
+<td>1.825</td>
+<td>91.00</td>
+</tr>
+<tr>
+<td>1.590</td>
+<td>67.59</td>
+<td>1.710</td>
+<td>78.04</td>
+<td>1.830</td>
+<td>92.10</td>
+</tr>
+<tr>
+<td>1.595</td>
+<td>68.05</td>
+<td>1.715</td>
+<td>78.48</td>
+<td>1.835</td>
+<td>93.43</td>
+</tr>
+<tr>
+<td>1.600</td>
+<td>68.51</td>
+<td>1.720</td>
+<td>78.92</td>
+<td>1.840</td>
+<td>95.60</td>
+</tr>
+<tr>
+<td>1.605</td>
+<td>68.97</td>
+<td>1.725</td>
+<td>79.36</td>
+<td>1.8405</td>
+<td>95.95</td>
+</tr>
+<tr>
+<td>1.610</td>
+<td>69.43</td>
+<td>1.730</td>
+<td>79.80</td>
+<td>1.8410</td>
+<td>97.00</td>
+</tr>
+<tr>
+<td>1.615</td>
+<td>69.89</td>
+<td>1.735</td>
+<td>80.24</td>
+<td>1.8415</td>
+<td>97.70</td>
+</tr>
+<tr>
+<td>1.620</td>
+<td>70.32</td>
+<td>1.740</td>
+<td>80.68</td>
+<td>1.8420</td>
+<td>98.20</td>
+</tr>
+<tr>
+<td>1.625</td>
+<td>70.74</td>
+<td>1.745</td>
+<td>81.12</td>
+<td>1.8425</td>
+<td>98.70</td>
+</tr>
+<tr>
+<td>1.630</td>
+<td>71.26</td>
+<td>1.750</td>
+<td>81.56</td>
+<td>1.8430</td>
+<td>99.20</td>
+</tr>
+<tr>
+<td>1.635</td>
+<td>71.57</td>
+<td>1.755</td>
+<td>82.00</td>
+<td>1.8435</td>
+<td>99.45</td>
+</tr>
+<tr>
+<td>1.640</td>
+<td>71.99</td>
+<td>1.760</td>
+<td>82.44</td>
+<td>1.8440</td>
+<td>99.70</td>
+</tr>
+<tr>
+<td>1.645</td>
+<td>72.40</td>
+<td>1.765</td>
+<td>82.88</td>
+<td>1.8445</td>
+<td>99.95</td>
+</tr>
+<tr>
+<td>1.650</td>
+<td>72.82</td>
+<td>1.770</td>
+<td>83.32</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1.655</td>
+<td>72.23</td>
+<td>1.775</td>
+<td>83.90</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center;">表15 制造硝化甘油所用的设备、工具和仪器</div>
+
+<table>
+<thead>
+<tr>
+<th>工序</th>
+<th>设备</th>
+<th>工具</th>
+<th>仪器</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>甘油准备</td>
+<td>广口瓶、秤</td>
+<td>细白布</td>
+<td>比重计、温度计</td>
+<td></td>
+</tr>
+<tr>
+<td>配混酸</td>
+<td>瓷缸</td>
+<td>铅棒、法兰绒、漏斗(铝或铝)</td>
+<td>比重计、温度计</td>
+<td></td>
+</tr>
+<tr>
+<td>硝化</td>
+<td>搪瓷盆或瓷盆、水槽</td>
+<td>橡皮棒、铝勺</td>
+<td>温度计</td>
+<td>最好用刻度为 <span class="arithmatex">\(1^\circ\)</span> 的温度计</td>
+</tr>
+<tr>
+<td>洗涤</td>
+<td>搪瓷盆、瓷盆或铅槽</td>
+<td>虹吸管、橡皮棒、铝勺、铅漏斗、法兰绒</td>
+<td>温度计</td>
+<td></td>
+</tr>
+<tr>
+<td>废水处理</td>
+<td>瓷缸</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        此页面有帮助吗？
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 9v12H1V9zm4 12a2 2 0 0 1-2-2V9c0-.55.22-1.05.59-1.41L14.17 1l1.06 1.06c.27.27.44.64.44 1.05l-.03.32L14.69 8H21a2 2 0 0 1 2 2v2c0 .26-.05.5-.14.73l-3.02 7.05C19.54 20.5 18.83 21 18 21zm0-2h9.03L21 12v-2h-8.79l1.13-5.32L9 9.03z"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 15V3h4v12zM15 3a2 2 0 0 1 2 2v10c0 .55-.22 1.05-.59 1.41L9.83 23l-1.06-1.06c-.27-.27-.44-.64-.44-1.06l.03-.31.95-4.57H3a2 2 0 0 1-2-2v-2c0-.26.05-.5.14-.73l3.02-7.05C4.46 3.5 5.17 3 6 3zm0 2H5.97L3 12v2h8.78l-1.13 5.32L15 14.97z"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              谢谢你的反馈！
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              Thanks for your feedback! Help us improve this page by using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://s1.imagehub.cc/images/2024/02/02/bb9ee71b03ee7a3b87caad5cc4bcebff.jpeg" target="_blank" rel="noopener" title="Wechat" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154m-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4m-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2M563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4m-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6m107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://t.me/wecowin" target="_blank" rel="noopener" title="telegram" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M256 8a248 248 0 1 0 0 496 248 248 0 1 0 0-496m115 168.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7.2-.7.3-3.1-1.2-4.4s-3.6-.8-5.1-.5c-2.2.5-37.1 23.5-104.6 69.1-9.9 6.8-18.9 10.1-26.9 9.9-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3.6-4.5 6.7-9 18.4-13.7 72.3-31.5 120.5-52.3 144.6-62.3 68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6.5 9.6 2.9 2 1.7 3.2 4.1 3.5 6.7.5 3.2.6 6.5.4 9.8z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/wcowin_" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M357.2 48h70.6L273.6 224.2 455 464H313L201.7 318.6 74.5 464H3.8l164.9-188.5L-5.2 48h145.6l100.5 132.9zm-24.8 373.8h39.1L119.1 88h-42z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/Wcowin" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:<wangkewen821@gmail.com>" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M61.4 64C27.5 64 0 91.5 0 125.4c0 .9 0 1.7.1 2.6H0v256c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V128h-.1c0-.9.1-1.7.1-2.6 0-33.9-27.5-61.4-61.4-61.4zM464 192.3V384c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192.3l154.8 117.4c31.4 23.9 74.9 23.9 106.4 0zM48 125.4c0-7.4 6-13.4 13.4-13.4h389.2c7.4 0 13.4 6 13.4 13.4 0 4.2-2 8.2-5.3 10.7L280.2 271.5c-14.3 10.8-34.1 10.8-48.4 0L53.3 136.1c-3.3-2.5-5.3-6.5-5.3-10.7"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://space.bilibili.com/1407028951/lists/4566631?type=series" target="_blank" rel="noopener" title="space.bilibili.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M488.6 104.1c16.7 18.1 24.4 39.7 23.3 65.7v202.4c-.4 26.4-9.2 48.1-26.5 65.1-17.2 17-39.1 25.9-65.5 26.7H92c-26.4-.8-48.2-9.8-65.3-27.2S.7 396.5 0 368.2V169.8c.8-26 9.7-47.6 26.7-65.7C43.8 87.8 65.5 78.8 92 78h29.4L96 52.2c-5.7-5.7-8.6-13-8.6-21.8S90.3 14.3 96 8.6 109 0 117.9 0s16.1 2.9 21.9 8.6L213.1 78h88l74.5-69.4C381.7 2.9 389.2 0 398 0s16.1 2.9 21.9 8.6c5.7 5.7 8.6 13 8.6 21.8s-2.9 16.1-8.6 21.8L394.6 78h29.3c26.4.8 48 9.8 64.7 26.1m-38.8 69.7c-.4-9.6-3.7-17.4-10.7-23.5-5.2-6.1-14-9.4-22.7-9.8H96c-9.6.4-17.4 3.7-23.6 9.8-6.1 6.1-9.4 13.9-9.8 23.5v194.4c0 9.2 3.3 17 9.8 23.5s14.4 9.8 23.6 9.8h320.4c9.2 0 17-3.3 23.3-9.8s9.7-14.3 10.1-23.5zm-264.3 42.7c6.3 6.3 9.7 14.1 10.1 23.2V273c-.4 9.2-3.7 16.9-9.8 23.2-6.2 6.3-14 9.5-23.6 9.5s-17.5-3.2-23.6-9.5-9.4-14-9.8-23.2v-33.3c.4-9.1 3.8-16.9 10.1-23.2s13.2-9.6 23.3-10c9.2.4 17 3.7 23.3 10m191.5 0c6.3 6.3 9.7 14.1 10.1 23.2V273c-.4 9.2-3.7 16.9-9.8 23.2s-14 9.5-23.6 9.5-17.4-3.2-23.6-9.5c-7-6.3-9.4-14-9.7-23.2v-33.3c.3-9.1 3.7-16.9 10-23.2s14.1-9.6 23.3-10c9.2.4 17 3.7 23.3 10"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["toc.integrate", "announce.dismiss", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "navigation.path", "navigation.prune", "navigation.indexes", "content.tabs.link", "content.tooltips", "content.code.copy", "content.action.edit", "content.action.view", "content.code.annotate"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../javascripts/config.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="../../javascripts/optionalConfig.js"></script>
+      
+    
+  </body>
+</html>

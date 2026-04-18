@@ -1,0 +1,1695 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../chapter%206/">
+      
+      
+        <link rel="next" href="../chapter%208/">
+      
+      
+        
+          <link rel="alternate" href="/" hreflang="zh">
+        
+          <link rel="alternate" href="/Mkdocs-Wcowin/en/" hreflang="en">
+        
+          <link rel="alternate" href="/Mkdocs-Wcowin/ZH-TW/" hreflang="zh-TW">
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>chapter 7 - my-project</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config",""),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../.." title="my-project" class="md-header__button md-logo" aria-label="my-project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89">
+  <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z" />
+  <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5" />
+  <path d="M67.535,17.387l-27.262,18.156l21.878,32.818l5.384,2.691l0,-53.665Z" />
+  <path d="M67.535,17.387l0,53.666l18.774,-9.388l0,-53.665l-18.774,9.387Z" style="fill-opacity: 0.25" />
+</svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            my-project
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              chapter 7
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0 8a5 5 0 0 1-5-5 5 5 0 0 1 5-5 5 5 0 0 1 5 5 5 5 0 0 1-5 5m0-12.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.83 9 15 12.16V12a3 3 0 0 0-3-3zm-4.3.8 1.55 1.55c-.05.21-.08.42-.08.65a3 3 0 0 0 3 3c.22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53a5 5 0 0 1-5-5c0-.79.2-1.53.53-2.2M2 4.27l2.28 2.28.45.45C3.08 8.3 1.78 10 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.43.42L19.73 22 21 20.73 3.27 3M12 7a5 5 0 0 1 5 5c0 .64-.13 1.26-.36 1.82l2.93 2.93c1.5-1.25 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-4 .7l2.17 2.15C10.74 7.13 11.35 7 12 7"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="选择当前语言">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="/" hreflang="zh" class="md-select__link">
+              简体中文
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="/Mkdocs-Wcowin/en/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="/Mkdocs-Wcowin/ZH-TW/" hreflang="zh-TW" class="md-select__link">
+              China(TW)
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../about/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Guide
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="my-project" class="md-nav__button md-logo" aria-label="my-project" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 89">
+  <path d="M3.136,17.387l0,42.932l42.932,21.467l-42.932,-64.399Z" />
+  <path d="M21.91,8l42.933,64.398l-18.775,9.388l-42.932,-64.399l18.774,-9.387Z" style="fill-opacity: 0.5" />
+  <path d="M67.535,17.387l-27.262,18.156l21.878,32.818l5.384,2.691l0,-53.665Z" />
+  <path d="M67.535,17.387l0,53.666l18.774,-9.388l0,-53.665l-18.774,9.387Z" style="fill-opacity: 0.25" />
+</svg>
+
+    </a>
+    my-project
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guide
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Guide
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    about
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%201/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%202/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%203/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%204/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%205/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%206/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 7
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 7
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1 概 述
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2 电雷管的构造
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3 灯泡式电发火的制造
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3 灯泡式电发火的制造">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 脚线准备
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 往小灯泡内装黑火药粉
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (三) 黑火药粉准备
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (四) 焊脚线
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4 电雷管装配
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4 电雷管装配">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 装配
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 灌硫磺固定剂
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        5 电雷管的检验
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="5 电雷管的检验">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_8" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 起爆试验
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_9" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 电阻检验
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        6 简易电阻检查表
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="6 简易电阻检查表">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_10" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (一) 构造
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_11" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (二) 用法
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_12" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        (三) 原理
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%208/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%209/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 9
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2010/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 10
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2011/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter%2012/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    chapter 12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="导航栏" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Home
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../about/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Guide
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="_1">第七章 电雷管制造法</h1>
+<h2 id="1">1 概 述</h2>
+<p>在火雷管中装入一个电桥发火机构即构成电雷管。电桥发火机构是以两根脚线和电桥丝组成。一般所采用的脚线规格是直径0.45毫米的纱包线，其电阻为 $ 0.11\pm0.01 $欧姆/米。脚线每根的长度是1.5～2米，在其端部穿入一个绝缘垫(用橡皮或厚纸板)。脚线的顶端，焊上电桥丝。</p>
+<p>电桥是电雷管的主要部件，桥丝通常是采用直径0.03~0.04毫米的康铜合金丝，在桥丝上缠以少量的硝化棉(一般可装0.05克)。</p>
+<p>电雷管装配时，为使电桥牢固的固定于雷管壳中，在绳缘垫上面灌硫磺或密封剂。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_438_801_926_936.jpg" alt="Image" width="46%" />
+<div style="text-align: center;">1—脚线；2—防潮剂；3—绝缘垫；4—桥丝；5—硝化棉；6—管壳；7—加强帽；8—绸垫；9—起爆药；10—烈性炸药。</div>
+<div style="text-align: center;">图51 电雷管</div>
+</div>
+
+<p>电雷管的发火原理与火雷管不同，它是利用电流通过电桥使电桥丝灼热，点燃硝化棉和使雷管爆炸。</p>
+<p>电雷管和火雷管相比其优点是，可以远距离操作，在水下或土壤等介质中均可从事爆破作业。</p>
+<p>抗战时期，电雷管的应用也是很广泛的，如需要在较远的地点进行大爆破或在爆破条件不允许爆破人员就地点火起爆时，就需要用电雷管。在一次战斗中，敌人据点中有一个很大的堡垒，防守很严，按战斗要求必须攻克这一据点，倘若硬攻或强力爆破，要付出较大的代价。为着巧妙的打击敌人，就在距离敌人据点数十米以外，由地下挖一通道，将大型炸药包从地洞送入堡垒底下，装好电雷管，在数十米以外，接通电流，轰的一声巨响，敌人血肉横飞，与堡垒同归于尽。这样的爆破例子，当时很多，不胜枚举。</p>
+<h2 id="2">2 电雷管的构造</h2>
+<p>在抗战时期，为了充分利用各种物质，曾采用灯泡制成灯泡式电桥电雷管。</p>
+<p>灯泡式电桥电雷管的构造如图 52、53 所示。外形与普通的电雷管相似，它是以火雷管为主体，从雷管的口部装入一个手电筒用的小灯泡，在灯泡中装入少量的黑火药粉，灯泡的两极处焊接上脚线，然后在口部灌入硫磺，使灯泡式电桥固定于火雷管中。当电源接通时，电流通过脚线使桥丝烧灼，点燃灯泡中的黑火药粉，火焰从底部的传火孔(大都是将灯泡炸开)排出，引爆雷管中的起爆药，使整个雷管爆炸。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_118_844_602_967.jpg" alt="Image" width="46%" />
+<div style="text-align: center;">1—脚线(铜丝或铁丝)；2—防潮剂(硫磺)；3—继上的纸条；4—手电筒用小灯泡；5—纸管壳；6—加强帽；7—雷汞或雷银；8—炸药。</div>
+<div style="text-align: center;">图52 纸尧电雷管</div>
+</div>
+
+<p>这种形式的电雷管，结构简单，制造容易。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_650_644_765_1112.jpg" alt="Image" width="10%" />
+<div style="text-align: center;">1—枪弹废铜壳。</div>
+<div style="text-align: center;">图53 用枪弹废铜壳改装的铜电雷管</div>
+</div>
+
+<h2 id="3">3 灯泡式电发火的制造</h2>
+<p>灯泡式电发火是电雷管中的发火机构，是由脚线(纱包线)、手电筒用的小灯泡和黑火药粉等构成，如图 54 所示。</p>
+<pre class="mermaid"><code>graph TD
+    A[小灯泡准备] --&gt; B[检验]
+    B --&gt; C[磨底部]
+    C --&gt; D[扎孔]
+    D --&gt; E[装黑火药粉]
+    F[黑火药粉准备] --&gt; G[黑火药粉干燥]
+    G --&gt; E
+    H[浆糊或胶水准备] --&gt; I[糊纸]
+    E --&gt; I
+    I --&gt; J[干燥]
+    J --&gt; K[检验]
+    K --&gt; L[焊脚线]
+    L --&gt; M[缠纸]
+    M --&gt; N[装入火雷管中]
+    O[纸准备] --&gt; P[裁纸条]
+    Q[火雷管准备] --&gt; R[火雷管检验]
+    R --&gt; N
+    P --&gt; M
+    S[硫磺准备] --&gt; T[硫磺检验]
+    T --&gt; U[灌硫磺]
+    N --&gt; U
+    U --&gt; V[清理]
+    V --&gt; W[包装]
+    X[脚线准备] --&gt; Y[脚线切断]
+    Y --&gt; Z[脚线卡头]
+    Z --&gt; AA[脚线撑紧]
+    AA --&gt; AB[脚线盘把]
+    AB --&gt; AC[脚线检验]
+    AC --&gt; L
+    W --&gt; AD[试验]
+    AD --&gt; AE[成品]</code></pre>
+<div style="text-align: center;">
+<div style="text-align: center;">流程15 电雷管装配工艺流程</div>
+<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_198_205_825_1328.jpg" alt="Image" width="59%" /> -->
+</div>
+
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_170_164_296_520.jpg" alt="Image" width="11%" />
+<div style="text-align: center;">1—纱包线；2—手电筒用小灯泡；3—黑火药粉。</div>
+<div style="text-align: center;">图54 电发火放大视图</div>
+</div>
+
+<h3 id="_2">(一) 脚线准备</h3>
+<p>脚线的材料是直径0.45毫米的铜芯纱包线或铁芯纱包线，将它先剪成规定长度(通常为1.5～2.0米)，然后用小刀将两端部棉纱除去40～50毫米(如图55所示)。其一端与小灯泡焊接用，另一端在使用时与电源线路相接。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_115_679_484_828.jpg" alt="Image" width="35%" />
+<div style="text-align: center;">图55 纱包缝</div> 
+</div>
+
+<p>除掉端部棉线的脚线，需在手摇的工具上拧紧(如图 56、57 所示)。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_477_248_929_496.jpg" alt="Image" width="42%" />
+<div style="text-align: center;">1—工作台；2—手摇把；3—圆盘；4—卡紧夹；5—卡紧夹；6—脚线。</div>
+<div style="text-align: center;">图56 拧紧工具</div>
+</div>
+
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_584_688_951_808.jpg" alt="Image" width="34%" />
+<div style="text-align: center;">1—纱包线；2—钢丝芯。</div> 
+<div style="text-align: center;">图57 拧紧后的脚线</div>
+</div>
+
+<h3 id="_3">(二) 往小灯泡内装黑火药粉</h3>
+<p>购来的小灯泡，通常电压为1.5、2.0、2.4、2.5伏等。选择时以电压低的为宜，若电压高，需要的点火能量大，电阻也大，因而所需电源能量也大，如用电池起爆，则需用的电池数目多，在战场上携带不方便。</p>
+<p>装黑火药粉以前，先检验灯泡，将坏的和桥丝断的挑出来，除外覌检查外，可用一组电池进行检验。合格的灯泡用人工在磨刀石(油石)上轻轻磨灯泡的底部，将其磨薄，然后在磨薄处用钢针穿一直径为4～5毫米的小孔，慢慢地将黑火药粉由小孔处灌入灯泡中，装入黑火药粉的数量以接近桥丝为准。黑火药粉加入量不宜过少，否则，当桥丝烧断，其热量引不起黑火药粉的起火。也可采用硝化棉作为点火材料。</p>
+<p>磨灯泡时不要用力过猛，避免磨碎。灯泡磨好和穿孔之后，先检查桥丝是否正常，再装入黑火药粉。黑火药装入后，用纸将装药的孔糊住，粘纸用的粘合剂可用胶水、虫胶漆或浆糊。纸要糊严糊平。如图58、59所示。</p>
+<p>糊过纸的灯泡，在室温条件下放置5~6小时，粘合剂即可干燥。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_587_295_729_506.jpg" alt="Image" width="13%" />
+<div style="text-align: center;">图58 装黑药粉</div>
+</div>
+
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_806_283_918_515.jpg" alt="Image" width="10%" />
+<div style="text-align: center;">1—灯泡；2—黑药粉；3—装入口。</div>
+<div style="text-align: center;">图59 糊纸</div>
+</div>
+
+<h3 id="_4">(三) 黑火药粉准备</h3>
+<p>电发火中所使用的黑火药粉，使用前必须经过干燥，以免黑火药粉受潮影响发火效果。黑火药的干燥，不允许用火直接加热和用锅炒干，应将黑火药粉置于木盘上铺平，放入干燥室的木架上，在室温45～60℃的条件下烘干8～12小时。经过干燥的黑火药粉，应及时使用，不宜在空气中暴露放置，如黑火药吸湿后仍需干燥才能使用。</p>
+<p>黑火药对冲击摩擦敏感，装填黑火药粉不能用铁质工具进行，最好使用塑料、牛角和铜质等软质材料制成的工具。</p>
+<h3 id="_5">(四) 焊脚线</h3>
+<p>装好药的灯泡需焊以脚线。焊脚线时以烙铁将锡涂在如图 60 所示的部位上，两根线分别焊在灯泡的两极上。接处要牢固，表面光洁要精心细致，避免弄断桥丝。平整。焊线操作时要精心细致，避免弄断桥丝。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_111_991_266_1341.jpg" alt="Image" width="14%" />
+<div style="text-align: center;">1—脚线；2—灯泡。</div>
+<div style="text-align: center;">图60 焊脚线 </div>
+</div>
+
+<p>焊线操作时也要注意安全，操作地点不得存放过多的雷管(一般不超过十发)和不允许存放黑火药粉。脚线焊好后，有电阻表时，可测定电路是否接通，同时可进行外观检验，合格品即可送去与雷管装配。</p>
+<h2 id="4">4 电雷管装配</h2>
+<h3 id="_6">(一) 装配</h3>
+<p>用于制造电雷管的火雷管，无论采用金属壳或纸壳，装、压药的方法均与火雷管相同。但制作电雷管所用的火雷管，在壳体中须装入发火机构。因此，管体的长度比一般的火雷管长一些，约为 60 毫米。</p>
+<p>火雷管的直径与长度，可根据每批灯泡的尺寸来决定。火雷管中装入发火机构以前，需检查内部是否清洁。灯泡式电发火装入前亦需擦拭干净。</p>
+<p>装配时，灯泡螺口处与雷管口部要求连接牢固，为此需在灯泡的螺口部位(有螺纹的部位)缠上纸条。缠纸条的厚度，以能将电发火牢固地固定于雷管壳中为准(如图61所示)。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_128_699_297_1066.jpg" alt="Image" width="16%" />
+<div style="text-align: center;">图61 缠纸条 1—纸条；2—灯泡。</div>
+</div>
+
+<p>灯泡缠上纸条后，小心地装入雷管壳中，装入的深度不能太长，以防灯泡破碎后，破片堵塞加强帽的傅火孔而影响雷管点火。根据经验，灯泡底部和雷管加强帽上部的距离以1～1.5毫米为宜。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_326_592_461_1066.jpg" alt="Image" width="12%" />
+<div style="text-align: center;">图62 电发火装配</div>
+</div>
+
+<h3 id="_7">(二) 灌硫磺固定剂</h3>
+<p>雷管灌硫磺的目的是使灯泡式发火机构牢固地固定于雷管中，当受震动时不发生位移，并能起到良好的防潮作用。</p>
+<p>硫磺熔点较高，又是燃烧物质，在熔化时不宜用火直接加热，简易安全的办法是采用隔墙加热，也可用电炉加热。隔墙加热的方法是在工作间的隔墙上开一个洞口，在隔墙的对面靠墙装一个火炉，用煤或焦炭加热(如图 63 所示)，硫磺熔化后用小勺灌入雷管壳中(如图 64 所示)。</p>
+<p>往管壳灌入硫磺可分2～3次进行。灌入硫磺的温度应保持在117～140℃之间，温度不宜过高。灌完硫磺的雷管，经过清理、外观擦拭和检验后，合格者即为成品。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_189_535_436_884.jpg" alt="Image" width="23%" />
+<div style="text-align: center;">1—熔硫磺锅；2—火炉。</div>
+<div style="text-align: center;">图63 熔化硫磺</div>
+</div>
+
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_693_446_822_902.jpg" alt="Image" width="12%" />
+<div style="text-align: center;">1—硫磺；2—雷管。</div>
+<div style="text-align: center;">图64 灌硫磺封口</div>
+</div>
+
+<h2 id="5">5 电雷管的检验</h2>
+<h3 id="_8">(一) 起爆试验</h3>
+<p>抗战时期，对电雷管的检验，多是采用实际爆破的方法。</p>
+<p>起爆试验的方法是将雷管与电线(当时多采用电话线)接通，用手摇发电机或用其他电源，通电起爆，爆炸者即为合格品。如图65所示。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_599_1107_920_1420.jpg" alt="Image" width="30%" />
+<div style="text-align: center;">1—母线；2—干电池或手摇发电机；3—工作台；4—电雷管；5—墙。</div>
+<div style="text-align: center;">图65 起爆试验</div>
+</div>
+
+<p>试验时，先将脚线与电话线连接好，最后再接通电源。用交流电源时，一定要先接好线路，再接通电源。如发现有拒爆现象，首先切断电源再检查处理。</p>
+<h3 id="_9">(二) 电阻检验</h3>
+<p>若有电阻表时，可检验电阻。试验用的电流最大不能超过0.03安培。电流过大，会导致雷管爆炸。通常，装好的电雷管，铜脚线的长为一米，电雷管的电阻约为0.9～1.2欧姆；脚线长度为2.5米时，电阻约为1.2～1.5欧姆。</p>
+<p>抗战时期曾自制电阻测定器，来检查电雷管的电阻。</p>
+<h2 id="6">6 简易电阻检查表</h2>
+<p>电雷管的电阻检验，当没有电阻表时，可应用下述方法测定电雷管的电阻。</p>
+<h3 id="_10">(一) 构造</h3>
+<ol>
+<li>
+<p>接线图(图 66)：</p>
+<p><div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_231_971_826_1257.jpg" alt="Image" width="56%" />
+<div style="text-align: center;">1—表盘；2—电阻盒；3—接触板；4—夹子；5—电池；6—被测定的脚线。</div>
+<div style="text-align: center;">图66 接线图</div>
+</div></p>
+</li>
+<li>
+<p>零件：</p>
+<ol>
+<li>表盘：5 毫安直流电流表，用前先打开表壳调节弹簧游丝，使指针指在刻度盘的中间。</li>
+<li>
+<p>电阻盒： $ R_1 $， $ R_2 $， $ R_2^\prime $ 和  $ R_3 $ 为锰铜或康铜制作的电阻，用锡固定于接线柱 A，B，C，D，E 上。</p>
+<p>令  $ R_1=R_3=10 $ 欧姆；</p>
+<p>$ R_2=1.1 $ 欧姆(1.6 米长脚线标准电阻)；</p>
+<p>$ R_2^\prime=0.1 $ 欧姆；</p>
+<p>$ R_2+R_2^\prime=1.2 $ 欧姆(2 米长脚线电阻)。</p>
+</li>
+<li>
+<p>接触板：起电开关作用，可用2毫米厚的紫镧板制作。它以螺钉固定于作业台上。</p>
+</li>
+<li>
+<p>夹子：铜制，夹线尾用，固定于作业台上。</p>
+</li>
+<li>
+<p>电池：1.5伏干电池或2伏蓄电池。</p>
+</li>
+</ol>
+</li>
+</ol>
+<h3 id="_11">(二) 用法</h3>
+<ol>
+<li>
+<p>检查 1.6 米脚线电阻(1.6 米脚线电阻规定为 0.95～1.25 欧姆)。</p>
+<ol>
+<li>
+<p>确定合格区间：开始操作时将按钮F与D连接，再以0.95和1.25欧姆的两个标准电阻代替 $ R_4 $。将0.95的电阻一端接于夹子上，另一端与按钮F接触，同时把F与电源相接，记录这时表盘(如图67所示)指针的位置。用同样方法将1.25的电阻代替 $ R_4 $，再记下指针位置，指针两次位置的中间范围即为合格区间。</p>
+<p><div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_707_1049_942_1273.jpg" alt="Image" width="22%" />
+<div style="text-align: center;">图67 表盘</div>
+</div></p>
+</li>
+<li>
+<p>检查：用上述方法将脚线放在 $ R_4 $位置测定，如指针摆动范围不超出合格区间即为合格品。</p>
+</li>
+</ol>
+</li>
+<li>
+<p>检查2米脚线电阻(2米脚线电阻规定为1.05～1.35欧姆)。</p>
+<ol>
+<li>
+<p>确定合格区间：将按钮改为与E连接后，再用两个1.05和1.35欧姆的标准电阻，以同样的方法重新确定合格区间。</p>
+</li>
+<li>
+<p>检查：将2米脚线放在 $ R_4 $位置测定。</p>
+</li>
+</ol>
+</li>
+</ol>
+<h3 id="_12">(三) 原理</h3>
+<p>此法是根据韦士登电桥原理(图 68)进行的，即当电桥平衡(毫安计指针在零点)时， $ R_1R_4=R_3R_2 $。因  $ R_1=R_3=10 $ 欧姆，故  $ R_4=R_2=1.1 $ 欧姆(1.6 米脚线的电阻)。</p>
+<div style="text-align: center;">
+<img src="/baopojianyishengchanfa/images/img_in_image_box_103_433_444_695.jpg" alt="Image" width="32%" />
+<div style="text-align: center;">图68 原理图</div>
+</div>
+
+<p>$ R_4&lt;R_2 $ 时，指针右摆；</p>
+<p>$ R_4&gt;R_2 $ 时，指针左摆。</p>
+<p>因此在测定 1.6 米的脚线时，以  $ R_2 $ 为标准脚线电阻。即 1.1 欧姆， $ R_4 $ 用 0.95 和 1.25 各一个测定合格区间。当脚线电阻大于 1.25 和小于 0.95 欧姆时，指针就会超出这个区间即为不合格品。</p>
+<div style="text-align: center;">表29 电雷管装配时所用的设备、工具和仪器</div>
+
+<table>
+<thead>
+<tr>
+<th>工序</th>
+<th>设备</th>
+<th>工具</th>
+<th>仪器</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>小灯泡检验</td>
+<td></td>
+<td>干电池</td>
+<td></td>
+</tr>
+<tr>
+<td>小灯泡磨底部</td>
+<td></td>
+<td>油石(磨刀石)</td>
+<td></td>
+</tr>
+<tr>
+<td>小灯泡扎孔</td>
+<td></td>
+<td>钢针</td>
+<td></td>
+</tr>
+<tr>
+<td>装黑火药粉</td>
+<td></td>
+<td>牛角勺</td>
+<td></td>
+</tr>
+<tr>
+<td>糊纸</td>
+<td>工作台</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>干燥</td>
+<td>干燥室</td>
+<td>架子、干燥盘</td>
+<td>温度计</td>
+</tr>
+<tr>
+<td>焊脚线</td>
+<td>小火炉</td>
+<td>烙铁</td>
+<td></td>
+</tr>
+<tr>
+<td>缭纸</td>
+<td>工作台</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>小灯泡装入雷管体</td>
+<td>工作台</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>灌硫磺</td>
+<td></td>
+<td>小勺</td>
+<td></td>
+</tr>
+<tr>
+<td>硫磺熔化</td>
+<td>火炉、锅</td>
+<td>小刀</td>
+<td>温度计</td>
+</tr>
+<tr>
+<td>裁纸</td>
+<td></td>
+<td>小刀</td>
+<td></td>
+</tr>
+<tr>
+<td>黑火药粉干燥</td>
+<td>干燥室</td>
+<td>架子、干燥盘</td>
+<td>温度计</td>
+</tr>
+<tr>
+<td>脚线切断</td>
+<td></td>
+<td>剪刀、尺</td>
+<td></td>
+</tr>
+<tr>
+<td>脚线卡头</td>
+<td></td>
+<td>小刀</td>
+<td></td>
+</tr>
+<tr>
+<td>脚线挥紧</td>
+<td></td>
+<td>抟紧工具</td>
+<td></td>
+</tr>
+<tr>
+<td>脚线盘把</td>
+<td>工作台</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>脚线检验</td>
+<td></td>
+<td></td>
+<td>电阻表</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        此页面有帮助吗？
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 9v12H1V9zm4 12a2 2 0 0 1-2-2V9c0-.55.22-1.05.59-1.41L14.17 1l1.06 1.06c.27.27.44.64.44 1.05l-.03.32L14.69 8H21a2 2 0 0 1 2 2v2c0 .26-.05.5-.14.73l-3.02 7.05C19.54 20.5 18.83 21 18 21zm0-2h9.03L21 12v-2h-8.79l1.13-5.32L9 9.03z"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 15V3h4v12zM15 3a2 2 0 0 1 2 2v10c0 .55-.22 1.05-.59 1.41L9.83 23l-1.06-1.06c-.27-.27-.44-.64-.44-1.06l.03-.31.95-4.57H3a2 2 0 0 1-2-2v-2c0-.26.05-.5.14-.73l3.02-7.05C4.46 3.5 5.17 3 6 3zm0 2H5.97L3 12v2h8.78l-1.13 5.32L15 14.97z"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              谢谢你的反馈！
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              Thanks for your feedback! Help us improve this page by using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://s1.imagehub.cc/images/2024/02/02/bb9ee71b03ee7a3b87caad5cc4bcebff.jpeg" target="_blank" rel="noopener" title="Wechat" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154m-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4m-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2M563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4m-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6m107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://t.me/wecowin" target="_blank" rel="noopener" title="telegram" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M256 8a248 248 0 1 0 0 496 248 248 0 1 0 0-496m115 168.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7.2-.7.3-3.1-1.2-4.4s-3.6-.8-5.1-.5c-2.2.5-37.1 23.5-104.6 69.1-9.9 6.8-18.9 10.1-26.9 9.9-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3.6-4.5 6.7-9 18.4-13.7 72.3-31.5 120.5-52.3 144.6-62.3 68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6.5 9.6 2.9 2 1.7 3.2 4.1 3.5 6.7.5 3.2.6 6.5.4 9.8z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/wcowin_" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M357.2 48h70.6L273.6 224.2 455 464H313L201.7 318.6 74.5 464H3.8l164.9-188.5L-5.2 48h145.6l100.5 132.9zm-24.8 373.8h39.1L119.1 88h-42z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/Wcowin" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:<wangkewen821@gmail.com>" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M61.4 64C27.5 64 0 91.5 0 125.4c0 .9 0 1.7.1 2.6H0v256c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V128h-.1c0-.9.1-1.7.1-2.6 0-33.9-27.5-61.4-61.4-61.4zM464 192.3V384c0 8.8-7.2 16-16 16H64c-8.8 0-16-7.2-16-16V192.3l154.8 117.4c31.4 23.9 74.9 23.9 106.4 0zM48 125.4c0-7.4 6-13.4 13.4-13.4h389.2c7.4 0 13.4 6 13.4 13.4 0 4.2-2 8.2-5.3 10.7L280.2 271.5c-14.3 10.8-34.1 10.8-48.4 0L53.3 136.1c-3.3-2.5-5.3-6.5-5.3-10.7"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://space.bilibili.com/1407028951/lists/4566631?type=series" target="_blank" rel="noopener" title="space.bilibili.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M488.6 104.1c16.7 18.1 24.4 39.7 23.3 65.7v202.4c-.4 26.4-9.2 48.1-26.5 65.1-17.2 17-39.1 25.9-65.5 26.7H92c-26.4-.8-48.2-9.8-65.3-27.2S.7 396.5 0 368.2V169.8c.8-26 9.7-47.6 26.7-65.7C43.8 87.8 65.5 78.8 92 78h29.4L96 52.2c-5.7-5.7-8.6-13-8.6-21.8S90.3 14.3 96 8.6 109 0 117.9 0s16.1 2.9 21.9 8.6L213.1 78h88l74.5-69.4C381.7 2.9 389.2 0 398 0s16.1 2.9 21.9 8.6c5.7 5.7 8.6 13 8.6 21.8s-2.9 16.1-8.6 21.8L394.6 78h29.3c26.4.8 48 9.8 64.7 26.1m-38.8 69.7c-.4-9.6-3.7-17.4-10.7-23.5-5.2-6.1-14-9.4-22.7-9.8H96c-9.6.4-17.4 3.7-23.6 9.8-6.1 6.1-9.4 13.9-9.8 23.5v194.4c0 9.2 3.3 17 9.8 23.5s14.4 9.8 23.6 9.8h320.4c9.2 0 17-3.3 23.3-9.8s9.7-14.3 10.1-23.5zm-264.3 42.7c6.3 6.3 9.7 14.1 10.1 23.2V273c-.4 9.2-3.7 16.9-9.8 23.2-6.2 6.3-14 9.5-23.6 9.5s-17.5-3.2-23.6-9.5-9.4-14-9.8-23.2v-33.3c.4-9.1 3.8-16.9 10.1-23.2s13.2-9.6 23.3-10c9.2.4 17 3.7 23.3 10m191.5 0c6.3 6.3 9.7 14.1 10.1 23.2V273c-.4 9.2-3.7 16.9-9.8 23.2s-14 9.5-23.6 9.5-17.4-3.2-23.6-9.5c-7-6.3-9.4-14-9.7-23.2v-33.3c.3-9.1 3.7-16.9 10-23.2s14.1-9.6 23.3-10c9.2.4 17 3.7 23.3 10"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["toc.integrate", "announce.dismiss", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.top", "navigation.path", "navigation.prune", "navigation.indexes", "content.tabs.link", "content.tooltips", "content.code.copy", "content.action.edit", "content.action.view", "content.code.annotate"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../javascripts/config.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="../../javascripts/optionalConfig.js"></script>
+      
+    
+  </body>
+</html>
