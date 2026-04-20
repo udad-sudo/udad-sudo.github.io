@@ -81,7 +81,7 @@ $$  2KClO_3 \longrightarrow 2KCl + 3O_2 $$
 凝固油料的方法，可采用如图 125 的装置。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_161_701_474_893.jpg" alt="Image" width="29%" />
+<img src="../images/img_in_image_box_161_701_474_893.jpg" alt="Image" width="29%" />
 <div style="text-align: center;">1—陶缸；2—钢槽；3—物料；4—热水。</div>
 <div style="text-align: center;">图125 胶化油料装置</div>
 </div>
@@ -97,7 +97,7 @@ $$  2KClO_3 \longrightarrow 2KCl + 3O_2 $$
 抗战时期曾利用各种易燃材料制造燃烧瓶，前后共制造过下列几种类型的燃烧瓶。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_269_164_821_417.jpg" alt="Image" width="52%" />
+<img src="../images/img_in_image_box_269_164_821_417.jpg" alt="Image" width="52%" />
 <div style="text-align: center;">1—橡皮塞；2—橡皮塞；3—汽油；4—硫酸；5—玻璃管；6—玻璃瓶；7—氯酸钾；8—缓燃线；9—黄磷；10—油纸。</div>
 <div style="text-align: center;">图126 燃烧瓶</div>
 </div>
@@ -123,7 +123,7 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用浓硫酸与氯
 燃烧手榴弹的壳体材料是采用0.7～1毫米厚的铁皮(最好是镀𫓴铁皮)，药是采用黄磷和胶化油料。胶化油料的装药比较简单，只是称取一定数量的胶化油料装入弹壳，然后再与装有拉火装置的木柄合装在一起，其合装的方法与糸并手榴弹同。装填黄磷需采用注装法。燃烧手榴弹的构造如图127所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_142_1027_270_1435.jpg" alt="Image" width="12%" />
+<img src="../images/img_in_image_box_142_1027_270_1435.jpg" alt="Image" width="12%" />
 <div style="text-align: center;">图127 燃烧手榴弹 1—黄磷或胶化油料。</div>
 </div>
 
@@ -132,7 +132,7 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用浓硫酸与氯
 进厂的黄磷是块状，一般均保存在清水中，使用时需将磷熔化。在战争年代里，由于设备条件所限，磷的熔化是用热水槽来进行的，其构造如图 128 所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_103_410_462_617.jpg" alt="Image" width="34%" />
+<img src="../images/img_in_image_box_103_410_462_617.jpg" alt="Image" width="34%" />
 <div style="text-align: center;">1—陶缸；2—热水；3—钢槽；4—加料口；5—热水；6—黄磷；7—出磷口。</div>
 <div style="text-align: center;">图128 熔磷槽</div> 
 </div>
@@ -150,7 +150,7 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用浓硫酸与氯
 利用黄磷和水的不同，用黄磷将弹壳中的水置换出来(如图129所示)。这样可避免黄磷与空气接触发生自燃。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_150_1222_397_1416.jpg" alt="Image" width="23%" />
+<img src="../images/img_in_image_box_150_1222_397_1416.jpg" alt="Image" width="23%" />
 <div style="text-align: center;">1—水；2—黄磷。</div>
 <div style="text-align: center;">图129 铁壶</div>
 </div>
@@ -160,7 +160,7 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用浓硫酸与氯
 旋好底盖的弹头，将外表面擦拭干净，在螺纹结合处再涂上一层密封剂。经检验合格后，可与带有拉火装置的弹柄合装。装配的方法与糸饬手榴弹相同。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_671_1191_881_1452.jpg" alt="Image" width="19%" />
+<img src="../images/img_in_image_box_671_1191_881_1452.jpg" alt="Image" width="19%" />
 <div style="text-align: center;">1—黄磷；2—弹壳。</div>
 <div style="text-align: center;">图130 弹头注磷</div>
 </div>
@@ -174,7 +174,7 @@ D型燃烧瓶和B型燃烧瓶的发火原理相似，也是利用浓硫酸与氯
 燃烧地雷主要是由燃烧桶、炸药包(或黑火药包)及拉火机构所组成。燃烧地雷的发火方式一般均采用拉火，拉火的构造与杀伤地雷拉火机构完全相同(详见第九章)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_103_1170_530_1380.jpg" alt="Image" width="40%" />
+<img src="../images/img_in_image_box_103_1170_530_1380.jpg" alt="Image" width="40%" />
 <div style="text-align: center;">1—燃烧桶；2—汽油或煤油；3—薄木板；4—炸药包；5—拉发装置；6—拉绳。</div>
 <div style="text-align: center;">图131 燃烧地雷</div>
 </div>

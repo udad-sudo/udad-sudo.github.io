@@ -9,7 +9,7 @@
 电雷管装配时，为使电桥牢固的固定于雷管壳中，在绳缘垫上面灌硫磺或密封剂。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_438_801_926_936.jpg" alt="Image" width="46%" />
+<img src="../images/img_in_image_box_438_801_926_936.jpg" alt="Image" width="46%" />
 <div style="text-align: center;">1—脚线；2—防潮剂；3—绝缘垫；4—桥丝；5—硝化棉；6—管壳；7—加强帽；8—绸垫；9—起爆药；10—烈性炸药。</div>
 <div style="text-align: center;">图51 电雷管</div>
 </div>
@@ -27,7 +27,7 @@
 灯泡式电桥电雷管的构造如图 52、53 所示。外形与普通的电雷管相似，它是以火雷管为主体，从雷管的口部装入一个手电筒用的小灯泡，在灯泡中装入少量的黑火药粉，灯泡的两极处焊接上脚线，然后在口部灌入硫磺，使灯泡式电桥固定于火雷管中。当电源接通时，电流通过脚线使桥丝烧灼，点燃灯泡中的黑火药粉，火焰从底部的传火孔(大都是将灯泡炸开)排出，引爆雷管中的起爆药，使整个雷管爆炸。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_118_844_602_967.jpg" alt="Image" width="46%" />
+<img src="../images/img_in_image_box_118_844_602_967.jpg" alt="Image" width="46%" />
 <div style="text-align: center;">1—脚线(铜丝或铁丝)；2—防潮剂(硫磺)；3—继上的纸条；4—手电筒用小灯泡；5—纸管壳；6—加强帽；7—雷汞或雷银；8—炸药。</div>
 <div style="text-align: center;">图52 纸尧电雷管</div>
 </div>
@@ -35,7 +35,7 @@
 这种形式的电雷管，结构简单，制造容易。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_650_644_765_1112.jpg" alt="Image" width="10%" />
+<img src="../images/img_in_image_box_650_644_765_1112.jpg" alt="Image" width="10%" />
 <div style="text-align: center;">1—枪弹废铜壳。</div>
 <div style="text-align: center;">图53 用枪弹废铜壳改装的铜电雷管</div>
 </div>
@@ -80,12 +80,12 @@ graph TD
 
 <div style="text-align: center;">
 <div style="text-align: center;">流程15 电雷管装配工艺流程</div>
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_198_205_825_1328.jpg" alt="Image" width="59%" /> -->
+<!-- <img src="../images/img_in_image_box_198_205_825_1328.jpg" alt="Image" width="59%" /> -->
 </div>
 
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_170_164_296_520.jpg" alt="Image" width="11%" />
+<img src="../images/img_in_image_box_170_164_296_520.jpg" alt="Image" width="11%" />
 <div style="text-align: center;">1—纱包线；2—手电筒用小灯泡；3—黑火药粉。</div>
 <div style="text-align: center;">图54 电发火放大视图</div>
 </div>
@@ -96,20 +96,20 @@ graph TD
 脚线的材料是直径0.45毫米的铜芯纱包线或铁芯纱包线，将它先剪成规定长度(通常为1.5～2.0米)，然后用小刀将两端部棉纱除去40～50毫米(如图55所示)。其一端与小灯泡焊接用，另一端在使用时与电源线路相接。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_115_679_484_828.jpg" alt="Image" width="35%" />
+<img src="../images/img_in_image_box_115_679_484_828.jpg" alt="Image" width="35%" />
 <div style="text-align: center;">图55 纱包缝</div> 
 </div>
 
 除掉端部棉线的脚线，需在手摇的工具上拧紧(如图 56、57 所示)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_477_248_929_496.jpg" alt="Image" width="42%" />
+<img src="../images/img_in_image_box_477_248_929_496.jpg" alt="Image" width="42%" />
 <div style="text-align: center;">1—工作台；2—手摇把；3—圆盘；4—卡紧夹；5—卡紧夹；6—脚线。</div>
 <div style="text-align: center;">图56 拧紧工具</div>
 </div>
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_584_688_951_808.jpg" alt="Image" width="34%" />
+<img src="../images/img_in_image_box_584_688_951_808.jpg" alt="Image" width="34%" />
 <div style="text-align: center;">1—纱包线；2—钢丝芯。</div> 
 <div style="text-align: center;">图57 拧紧后的脚线</div>
 </div>
@@ -125,12 +125,12 @@ graph TD
 糊过纸的灯泡，在室温条件下放置5~6小时，粘合剂即可干燥。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_587_295_729_506.jpg" alt="Image" width="13%" />
+<img src="../images/img_in_image_box_587_295_729_506.jpg" alt="Image" width="13%" />
 <div style="text-align: center;">图58 装黑药粉</div>
 </div>
  
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_806_283_918_515.jpg" alt="Image" width="10%" />
+<img src="../images/img_in_image_box_806_283_918_515.jpg" alt="Image" width="10%" />
 <div style="text-align: center;">1—灯泡；2—黑药粉；3—装入口。</div>
 <div style="text-align: center;">图59 糊纸</div>
 </div>
@@ -146,7 +146,7 @@ graph TD
 装好药的灯泡需焊以脚线。焊脚线时以烙铁将锡涂在如图 60 所示的部位上，两根线分别焊在灯泡的两极上。接处要牢固，表面光洁要精心细致，避免弄断桥丝。平整。焊线操作时要精心细致，避免弄断桥丝。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_111_991_266_1341.jpg" alt="Image" width="14%" />
+<img src="../images/img_in_image_box_111_991_266_1341.jpg" alt="Image" width="14%" />
 <div style="text-align: center;">1—脚线；2—灯泡。</div>
 <div style="text-align: center;">图60 焊脚线 </div>
 </div>
@@ -164,14 +164,14 @@ graph TD
 装配时，灯泡螺口处与雷管口部要求连接牢固，为此需在灯泡的螺口部位(有螺纹的部位)缠上纸条。缠纸条的厚度，以能将电发火牢固地固定于雷管壳中为准(如图61所示)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_128_699_297_1066.jpg" alt="Image" width="16%" />
+<img src="../images/img_in_image_box_128_699_297_1066.jpg" alt="Image" width="16%" />
 <div style="text-align: center;">图61 缠纸条 1—纸条；2—灯泡。</div>
 </div>
 
 灯泡缠上纸条后，小心地装入雷管壳中，装入的深度不能太长，以防灯泡破碎后，破片堵塞加强帽的傅火孔而影响雷管点火。根据经验，灯泡底部和雷管加强帽上部的距离以1～1.5毫米为宜。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_326_592_461_1066.jpg" alt="Image" width="12%" />
+<img src="../images/img_in_image_box_326_592_461_1066.jpg" alt="Image" width="12%" />
 <div style="text-align: center;">图62 电发火装配</div>
 </div>
 
@@ -184,13 +184,13 @@ graph TD
 往管壳灌入硫磺可分2～3次进行。灌入硫磺的温度应保持在117～140℃之间，温度不宜过高。灌完硫磺的雷管，经过清理、外观擦拭和检验后，合格者即为成品。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_189_535_436_884.jpg" alt="Image" width="23%" />
+<img src="../images/img_in_image_box_189_535_436_884.jpg" alt="Image" width="23%" />
 <div style="text-align: center;">1—熔硫磺锅；2—火炉。</div>
 <div style="text-align: center;">图63 熔化硫磺</div>
 </div>
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_693_446_822_902.jpg" alt="Image" width="12%" />
+<img src="../images/img_in_image_box_693_446_822_902.jpg" alt="Image" width="12%" />
 <div style="text-align: center;">1—硫磺；2—雷管。</div>
 <div style="text-align: center;">图64 灌硫磺封口</div>
 </div>
@@ -204,7 +204,7 @@ graph TD
 起爆试验的方法是将雷管与电线(当时多采用电话线)接通，用手摇发电机或用其他电源，通电起爆，爆炸者即为合格品。如图65所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_599_1107_920_1420.jpg" alt="Image" width="30%" />
+<img src="../images/img_in_image_box_599_1107_920_1420.jpg" alt="Image" width="30%" />
 <div style="text-align: center;">1—母线；2—干电池或手摇发电机；3—工作台；4—电雷管；5—墙。</div>
 <div style="text-align: center;">图65 起爆试验</div>
 </div>
@@ -226,7 +226,7 @@ graph TD
 1. 接线图(图 66)：
 
     <div style="text-align: center;">
-    <img src="/baopojianyishengchanfa/images/img_in_image_box_231_971_826_1257.jpg" alt="Image" width="56%" />
+    <img src="../images/img_in_image_box_231_971_826_1257.jpg" alt="Image" width="56%" />
     <div style="text-align: center;">1—表盘；2—电阻盒；3—接触板；4—夹子；5—电池；6—被测定的脚线。</div>
     <div style="text-align: center;">图66 接线图</div>
     </div>
@@ -257,7 +257,7 @@ graph TD
     1. 确定合格区间：开始操作时将按钮F与D连接，再以0.95和1.25欧姆的两个标准电阻代替 $ R_4 $。将0.95的电阻一端接于夹子上，另一端与按钮F接触，同时把F与电源相接，记录这时表盘(如图67所示)指针的位置。用同样方法将1.25的电阻代替 $ R_4 $，再记下指针位置，指针两次位置的中间范围即为合格区间。
 
         <div style="text-align: center;">
-        <img src="/baopojianyishengchanfa/images/img_in_image_box_707_1049_942_1273.jpg" alt="Image" width="22%" />
+        <img src="../images/img_in_image_box_707_1049_942_1273.jpg" alt="Image" width="22%" />
         <div style="text-align: center;">图67 表盘</div>
         </div>
 
@@ -274,7 +274,7 @@ graph TD
 此法是根据韦士登电桥原理(图 68)进行的，即当电桥平衡(毫安计指针在零点)时， $ R_1R_4=R_3R_2 $。因  $ R_1=R_3=10 $ 欧姆，故  $ R_4=R_2=1.1 $ 欧姆(1.6 米脚线的电阻)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_103_433_444_695.jpg" alt="Image" width="32%" />
+<img src="../images/img_in_image_box_103_433_444_695.jpg" alt="Image" width="32%" />
 <div style="text-align: center;">图68 原理图</div>
 </div>
 

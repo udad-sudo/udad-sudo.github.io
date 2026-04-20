@@ -92,7 +92,7 @@ $$
 点火后把通气孔打开，估计火力在封闭后不致熄灭时把火门封上，同时将通气孔留下一半。燃烧4～5小时后，把通气孔全部关死。这时烟雾为黄黑色，经一段时间逐渐变成白色，待白色烟基本消失后，碳化过程即告结束。于是封闭烟道，使木炭冷却，全部碳化过程需75～80小时。封闭烟道的时间不能过早和过迟；过早碳化程度不够，过迟则碳化过程过度，灰份含量较多。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_201_499_847_993.jpg" alt="Image" width="61%" />
+<img src="../images/img_in_image_box_201_499_847_993.jpg" alt="Image" width="61%" />
 <div style="text-align: center;">1—火门；2—隔火墙；3—装料出口；4—排气孔。</div>
 <div style="text-align: center;">图33 烧炭窑</div>
 </div>
@@ -114,7 +114,7 @@ $$
 罐精制硫时，先将粗硫块打成每边小于50毫米的碎块，放入罐中用微火徐徐加热，加热温度为130～140℃，不要超过 160℃。待硫全部熔化后，静止约十分钟，用铁勺将硫取出过滤。过滤冷却后的硫，即可使用。或者，在罐侧装一导管，加热使硫升华也可精制出硫。经提纯的硫，用药碾子将硫压成细末，也可用人工捣碎，细碎的硫经每平方厘米110～120孔的筛网筛选，合格的硫粉即送去使用(图 34)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_426_994_934_1187.jpg" alt="Image" width="48%" />
+<img src="../images/img_in_image_box_426_994_934_1187.jpg" alt="Image" width="48%" />
 <div style="text-align: center;">1—物料；2—船形槽；3—手柄；4—铜铊。</div>
 <div style="text-align: center;">图34 药碾子</div>
 </div>
@@ -171,7 +171,7 @@ flowchart TB
 ```
 
 <div style="text-align: center;">
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_134_648_864_1324.jpg" alt="Image" width="69%" />-->
+<!-- <img src="../images/img_in_image_box_134_648_864_1324.jpg" alt="Image" width="69%" />-->
 </div>
 <div style="text-align: center;">表22 制造黑火药所用的设备、工具和仪器</div>
 

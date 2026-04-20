@@ -11,7 +11,7 @@
 手榴弹是由弹柄、拉火装置和弹头三个主要部分组成。其构造如图 69 所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_119_1051_930_1342.jpg" alt="Image" width="77%" />
+<img src="../images/img_in_image_box_119_1051_930_1342.jpg" alt="Image" width="77%" />
 <div style="text-align: center;"> 1—保险盖；2—毡垫；3—纸垫；4—拉环；5—棉花球；6—拉火线；7—木柄；8—拉火丝；9—拉火帽；10—套管；11—缓燃线；12—纸垫圈；13—石蜡地蜡混合物；14—固定螺钉；15—纸垫；16—纸雷管；17—中心纸管；18—周氏炸药；</div>
 <div style="text-align: center;">图69 木柄手榴弹</div>
 </div>
@@ -47,14 +47,14 @@
 木柄是手榴弹的一个主要部件，要求木柄具有一定的尺寸(如图 70 所示)，外表要光滑，并有足够的防潮能力。最好是采用榫木、梨木等制造木柄。加工木柄的程序如下:
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_359_397_928_572.jpg" alt="Image" width="54%" />
+<img src="../images/img_in_image_box_359_397_928_572.jpg" alt="Image" width="54%" />
 <div style="text-align: center;">图70 木柄</div>
 </div>
 
 (1) 下料: 木材运来后，先锯成  $ 40^{+2}_{-1} $ 毫米的方木条(图 71 所示)，下料后的木条送去烘干。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_141_827_432_1087.jpg" alt="Image" width="27%" />
+<img src="../images/img_in_image_box_141_827_432_1087.jpg" alt="Image" width="27%" />
 <div style="text-align: center;">图71 下料后的木条</div>
 </div>
 
@@ -63,7 +63,7 @@
 (3)木条切断：经干燥后的木条切成长度为 $152_{-1.5}$ 毫米的木条(图 72 所示)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_542_841_883_1081.jpg" alt="Image" width="32%" />
+<img src="../images/img_in_image_box_542_841_883_1081.jpg" alt="Image" width="32%" />
 <div style="text-align: center;">图72 切断</div>
 </div>
 
@@ -72,7 +72,7 @@
 (5)木柄浸蜡(炸蜡)：木柄浸蜡的目的是为了提高防潮能力。先将石蜡加入熔蜡锅内加热，温度达到130～140℃时用工具将木柄浸入蜡中，浸蜡时间为20～25分钟。取出后经冷却，除去外表面多余的石蜡，即为成品。用火直接加热石蜡时，容易引起火灾，最好是采用如图 73 所示的方法，即将蜡锅与加热炉灶的火门用墙隔开。加热时要不断地用温度计测定温度，蜡液的温度控制在 140℃ 内为宜。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_438_318_948_588.jpg" alt="Image" width="48%" />
+<img src="../images/img_in_image_box_438_318_948_588.jpg" alt="Image" width="48%" />
 <div style="text-align: center;">1—熔蜡锅；2—炉灶。</div>
 <div style="text-align: center;">图73 炸蜡</div>
 </div>
@@ -82,12 +82,12 @@
 手榴弹弹壳的材料主要是铸铁，但也使用过铁皮等。弹壳的形状，多是采用筒形壳体，要求外表无龟纹。弹壳的形状和尺寸如图 74 所示。抗战时期也生产过不少圆形弹壳，其形状如图 75 所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_132_921_353_1233.jpg" alt="Image" width="21%" />
+<img src="../images/img_in_image_box_132_921_353_1233.jpg" alt="Image" width="21%" />
 <div style="text-align: center;">图74 弹壳</div>
 </div>
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_407_967_653_1230.jpg" alt="Image" width="23%" />
+<img src="../images/img_in_image_box_407_967_653_1230.jpg" alt="Image" width="23%" />
 <div style="text-align: center;">图75 圆形弹壳</div>
 </div>
 
@@ -96,7 +96,7 @@
 在战争年代，除充分利用各种条件铸造弹壳外。也采用过各种现成的铁皮盒子作弹壳，如方形的或圆形的铁盒子，略经修正，焊上一圈边缘就成为弹壳。虽然，铁皮弹壳的杀伤和破坏力不如铸铁的大，但也具有一定的尒伤效果。铁皮弹壳的手榴弹如图76所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_762_740_896_1123.jpg" alt="Image" width="12%" />
+<img src="../images/img_in_image_box_762_740_896_1123.jpg" alt="Image" width="12%" />
 <div style="text-align: center;">1—保险盖；2—木柄；3—铁皮弹壳；4—炸药。</div>
 <div style="text-align: center;">图76 铁皮弹壳手榴弹</div>
 </div>
@@ -106,7 +106,7 @@
 拉火装置是木柄手榴弹的发火和引爆机构，由拉火管(包括拉火帽、拉火丝和套管)、缓燃线、火雷管和套管组成。拉火装置的构造如图77所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_178_504_817_637.jpg" alt="Image" width="60%" />
+<img src="../images/img_in_image_box_178_504_817_637.jpg" alt="Image" width="60%" />
 <div style="text-align: center;">1—雷管；2—缓燃线；3—黑火药粉；4—拉火线；5—套管；6—虫胶漆；7—拉火线。</div>
 <div style="text-align: center;">图77 拉火装置</div>
 </div>
@@ -120,13 +120,13 @@
     2. 铜丝轧齿：做为铜丝簧的铜丝或铅丝需要轧齿，以增大拉火时的摩擦力。用小链刀在木板上将铜丝轧成小齿，轧齿的长度为20～25毫米。轧齿后要除去油污，可用牙刷沾汽油将铜丝刷洗干净。
 
         <div style="text-align: center;">
-        <img src="/baopojianyishengchanfa/images/img_in_image_box_115_365_299_453.jpg" alt="Image" width="17%" />
+        <img src="../images/img_in_image_box_115_365_299_453.jpg" alt="Image" width="17%" />
         <div style="text-align: center;">图78 轧齿</div>
         </div>
 
     3. 盘簧和磨尖：用手工将铜丝或铅丝盘成盘簧，并把端部在砂布上磨成1~2毫米长的小尖头。如图79所示。
         <div style="text-align: center;">
-        <img src="/baopojianyishengchanfa/images/img_in_image_box_332_344_630_476.jpg" alt="Image" width="28%" />
+        <img src="../images/img_in_image_box_332_344_630_476.jpg" alt="Image" width="28%" />
         <div style="text-align: center;">图79 盘簧</div>
         </div>
     4. 清洗：盘簧和磨尖后用汽油清洗。
@@ -134,7 +134,7 @@
     5. 沾玻璃粉：洗净后的铜丝簧沾上浓度为20%的虫胶漆(其中含有4~5%的细玻璃粉)，然后在室温条件下晾干4~6小时，送去与拉火帽合装。沾玻璃粉的铜丝簧如图 80 所示。
 
         <div style="text-align: center;">
-        <img src="/baopojianyishengchanfa/images/img_in_image_box_690_353_932_451.jpg" alt="Image" width="23%" />
+        <img src="../images/img_in_image_box_690_353_932_451.jpg" alt="Image" width="23%" />
         <div style="text-align: center;">1—玻璃粉；2—铜丝簧。</div>
         <div style="text-align: center;">图80 沾玻璃粉</div>
         </div>
@@ -153,7 +153,7 @@
         每个火帽中装拉火药仅 0.1 克，因用量较小，所以物料粉碎等工作均在乳钵中进行。
 
         <div style="text-align: center;">
-        <img src="/baopojianyishengchanfa/images/img_in_image_box_260_1078_384_1168.jpg" alt="Image" width="11%" />
+        <img src="../images/img_in_image_box_260_1078_384_1168.jpg" alt="Image" width="11%" />
         <div style="text-align: center;">图81 拉火帽壳</div>
         </div>
 
@@ -168,12 +168,12 @@
     2. 拉火帽装药：拉火帽装药有两种方法，一种是压药法(图 82 a)另一种是涂药法(见图 82 b)。
 
         <div style="text-align: center;">
-        <img src="/baopojianyishengchanfa/images/img_in_image_box_519_1039_649_1164.jpg" alt="Image" width="12%" />
+        <img src="../images/img_in_image_box_519_1039_649_1164.jpg" alt="Image" width="12%" />
         <div style="text-align: center;">a</div>
         </div>
 
         <div style="text-align: center;">
-        <img src="/baopojianyishengchanfa/images/img_in_image_box_724_1087_849_1167.jpg" alt="Image" width="11%" />
+        <img src="../images/img_in_image_box_724_1087_849_1167.jpg" alt="Image" width="11%" />
         <div style="text-align: center;">b</div>
         </div>
 
@@ -190,7 +190,7 @@
 2. 拉火帽穿入套管：将拉火帽穿入纸的或金属(铜、铅)的套管中，就组成了拉火管(如图 83)。
 
     <div style="text-align: center;">
-    <img src="/baopojianyishengchanfa/images/img_in_image_box_111_834_401_950.jpg" alt="Image" width="27%" />
+    <img src="../images/img_in_image_box_111_834_401_950.jpg" alt="Image" width="27%" />
     <div style="text-align: center;">1—套管；2—拉火帽。</div>
     <div style="text-align: center;">图83 拉火管</div> 
     </div>
@@ -198,14 +198,14 @@
 3. 拉火管盘环：目的是通过盘环使拉火帽固定于套管中，所盘成的环也供穿拉火线之用。盘环时要细心操作，盘环不少于三圈，并在顶部盘成一个双环(见图84所示)。
 
     <div style="text-align: center;">
-    <img src="/baopojianyishengchanfa/images/img_in_image_box_453_848_679_939.jpg" alt="Image" width="21%" />
+    <img src="../images/img_in_image_box_453_848_679_939.jpg" alt="Image" width="21%" />
     <div style="text-align: center;">图84 盘环</div>
     </div>
 
 4. 套管：如套管为铜制，则需要在其管壁上钻2～3个直径为1.5～1毫米的排气孔(如图85所示)，以供拉火帽和缓燃线燃烧时，排出气体用。装入拉火帽时用纸(玻璃纸)把排气孔封上。准备好的拉火管送去与缓燃线和雷管合装。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_706_815_929_939.jpg" alt="Image" width="21%" />
+<img src="../images/img_in_image_box_706_815_929_939.jpg" alt="Image" width="21%" />
 <div style="text-align: center;">图85 套管</div>
 </div>
 
@@ -224,7 +224,7 @@
 为了易于点燃，在缓燃线的端部涂上一点黑火药粉，药量不易过多(不超过0.05克)，过多时则影响延期时间。缓燃线如图86所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_106_486_433_657.jpg" alt="Image" width="31%" />
+<img src="../images/img_in_image_box_106_486_433_657.jpg" alt="Image" width="31%" />
 <div style="text-align: center;">图86 缓燃线</div> 
 </div>
 
@@ -233,7 +233,7 @@
 拉火装置合装：将拉火管、缓燃线和火雷管合装在一起并拴上拉火线。拉火装置合装顺序如图87所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_107_1061_891_1176.jpg" alt="Image" width="74%" />
+<img src="../images/img_in_image_box_107_1061_891_1176.jpg" alt="Image" width="74%" />
 <div style="text-align: center;">1—拉火管；2—沾虫胶漆；3—缓燃线；4—雷管。</div>
 <div style="text-align: center;">图87 拉火装置合装</div>
 </div>
@@ -243,14 +243,14 @@
 装好拉火装置后，在铜(或铅)丝簧的环上拴上拉火线，拴拉火线要牢固，不能用力向外拉动拉火线。拴拉火线要结成死结(如图89所示)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_142_491_449_577.jpg" alt="Image" width="29%" />
+<img src="../images/img_in_image_box_142_491_449_577.jpg" alt="Image" width="29%" />
 <div style="text-align: center;">图88 拴拉火线</div>
 </div>
 
 拉火线拴好之后，将缓燃线的另一端也涂上浓度为 40～45% 的虫胶漆，然后插入雷管。缓燃线插入的深度以比雷管的加强帽高 2～3 毫米为准，不得接觔到加强帽。装配拉火装置的次序不能颠倒。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_583_477_859_591.jpg" alt="Image" width="26%" />
+<img src="../images/img_in_image_box_583_477_859_591.jpg" alt="Image" width="26%" />
 <div style="text-align: center;">图89 拉火线打结放大图</div>
 </div>
 
@@ -267,7 +267,7 @@
 2. 装药：将炸药称量好，用小勺沿弹壳的中心管外壁四周，均匀地把炸药装入弹壳中，并用小木棒压平和压紧。不要把炸药误装入中心管内。装完药后盖上一个有中心孔的薄纸垫，然后用布把弹壳的四周擦净，即可以送去合装。弹壳装药次序见图90所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_540_176_773_444.jpg" alt="Image" width="22%" />
+<img src="../images/img_in_image_box_540_176_773_444.jpg" alt="Image" width="22%" />
 <div style="text-align: center;">1—圆纸垫；2—中心纸管；3—炸药；4—弹壳。</div>
 <div style="text-align: center;">图90 弹壳装药</div>
 </div>
@@ -281,7 +281,7 @@
 拉火装置装入木柄内并固定好，就组成了带有拉火装置的木柄(如图 91 所示)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_796_145_957_1320.jpg" alt="Image" width="15%" />
+<img src="../images/img_in_image_box_796_145_957_1320.jpg" alt="Image" width="15%" />
 <div style="text-align: center;">图91 拉火装置装入木柄</div>
 </div>
 
@@ -291,7 +291,7 @@
 
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_512_607_680_1000.jpg" alt="Image" width="15%" />
+<img src="../images/img_in_image_box_512_607_680_1000.jpg" alt="Image" width="15%" />
 <div style="text-align: center;">图92 灌硫磺</div> 
 </div>
 
@@ -308,7 +308,7 @@
 为了使弹头与木柄牢固的结合，在壳体螺钉孔的部位旋入三个木螺钉(120°一个)，以螺丝刀拧入(抗战时期也曾较大量地用过钉鞋的钉子。钉子应事先准备好，长度要合乎要求，不得过长，以能深入到木柄壁厚的1/3处即可)。然后在防潮盖的内螺纹上涂一层油或凡士林，将其拧在木柄上。为了防止弹壳生锈，可将弹头部分沾上沥青，沥青干燥后即为成品(如图93所示)。成品经检验合格后，即可供部队使用。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_765_635_903_997.jpg" alt="Image" width="13%" />
+<img src="../images/img_in_image_box_765_635_903_997.jpg" alt="Image" width="13%" />
 <div style="text-align: center;">图93 全弹合装</div>
 </div>
 
@@ -325,7 +325,7 @@
 试验的弹体如图 94 所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_137_836_349_1154.jpg" alt="Image" width="20%" />
+<img src="../images/img_in_image_box_137_836_349_1154.jpg" alt="Image" width="20%" />
 <div style="text-align: center;">1—木塞；2—纸垫；3—中心管；4—炸药；5—弹壳。</div>
 <div style="text-align: center;">图94 试验弹体</div>
 </div>
@@ -333,7 +333,7 @@
 破片试验装置如图 95 所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_409_811_962_1158.jpg" alt="Image" width="52%" />
+<img src="../images/img_in_image_box_409_811_962_1158.jpg" alt="Image" width="52%" />
 <div style="text-align: center;">1--缓燃线；2—石板或大铁桶；3—木板；4—木垫；5—砂子。</div>
 <div style="text-align: center;">图95 破片试验</div>
 </div>
@@ -351,7 +351,7 @@
 每一批中抽出十发，将手榴弹顶部用一个小细绳拴好(图96)，隔着一个较厚的墙(厚为500毫米以上)投下，不要用力向下投掷，只靠物体的自重落下，'以观察其是否爆炸。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_586_557_903_1012.jpg" alt="Image" width="30%" />
+<img src="../images/img_in_image_box_586_557_903_1012.jpg" alt="Image" width="30%" />
 <div style="text-align: center;">1-手榴弹；2—拉绳；3—墙；4—石板。</div>
 <div style="text-align: center;">图96 成品安全性试验</div>
 </div>

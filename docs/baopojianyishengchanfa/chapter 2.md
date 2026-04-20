@@ -10,7 +10,7 @@
 通常所采用的纳唐式硝化设备(图15)，它是一个圆形的铅质容器，在容器内装有蛇形管，通过蛇形管内的冷却水来控制硝化温度。采用上述方法除需整套专用设备外，还需设置冷却盐水、压缩空气等辅助系统。
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/baopojianyishengchanfa/images/img_in_image_box_487_587_960_1317.jpg" alt="图15 纳唐-汤姆逊硝化器" width="44%" style="margin-right: 2em;" />
+  <img src="../images/img_in_image_box_487_587_960_1317.jpg" alt="图15 纳唐-汤姆逊硝化器" width="44%" style="margin-right: 2em;" />
   <div>
   <li>1—硝化器；</li><li>2—排油窥视孔；</li><li>3—溜子的检查口盖；</li><li>4—排油溜子；</li><li>5—窥视窗；</li><li>6—接触温度计；</li>
   <li>7—压缩空气管；</li><li>8—冷却盐水管；</li><li>9—酸管；<li>10—混酸管；</li><li>11—废酸出口管；</li><li>12—置换酸管</li>
@@ -93,7 +93,7 @@ $$
 氢氧化钙水溶液全部加完后仍继续搅拌，一直搅拌到反应完全为止。当物料沸腾时有大量泡沫产生。沸腾保持一些时间以后，停止或以微火加热，防止泡沫溅出。待反应快完成时可逐渐降温，这时物料的粘度也随之增加，直到呈糊状时反应即告停止。油脂皂化的设备如图16所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_179_962_878_1429.jpg" alt="Image" width="66%" />
+<img src="../images/img_in_image_box_179_962_878_1429.jpg" alt="Image" width="66%" />
 <p>1—铁锅；2—套圈；3—炉灶；4—隔火墙</p>
 <div style="text-align: center;">图16 油脂皂化锅</div>
 </div>
@@ -103,7 +103,7 @@ $$
 在制钙皂过程中，加热油脂要注意防火，可采用图16所示的隔墙加热的方法。在安装锅时应在锅口的上部用木板或水泥制做一个套圈，避免当物料沸腾时溅出锅外。油脂加热，温度要徐徐上升，不能火力过猛，如温度骤然上升，易引起料液外溅。氢氧化钙水溶液加入的数量不宜过多或过少，过多则在甘油水中含的  $Ca(OH)_2$ 杂质多；过少则碱化不完全，物料发粘，甘油不易提出。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_479_251_916_527.jpg" alt="Image" width="41%" />
+<img src="../images/img_in_image_box_479_251_916_527.jpg" alt="Image" width="41%" />
 <div style="text-align: center;">图17 装配槽 1—槽体；2—底板。</div>
 </div>
 
@@ -124,7 +124,7 @@ $$
 (2)经浓缩至60～70%的甘油，用工具掏入瓷盆里，在火炕●式的沙盘上进一步蒸发浓缩。蒸发浓缩甘油的装置是在火炕上放置一层厚度一定的砂子做为传热介质，再将盛有甘油的瓷盆置于砂中，如图18所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_191_880_896_1263.jpg" alt="Image" width="67%" />
+<img src="../images/img_in_image_box_191_880_896_1263.jpg" alt="Image" width="67%" />
 <div style="text-align: center;">1—磁盘；2—甘油；3—砂子；4—土坯或砖砌的火炕</div>
 <div style="text-align: center;">图18 甘油蒸滤砂盘</div>
 </div>
@@ -154,7 +154,7 @@ $$
 在配酸过程中有酸烟排出，对人体有害。搅拌时，操作人员应站在配酸缸的上风方向操作。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_506_1152_954_1449.jpg" alt="Image" width="42%" />
+<img src="../images/img_in_image_box_506_1152_954_1449.jpg" alt="Image" width="42%" />
 <div style="text-align: center;">1—木槽；2—混酸；3—陶瓷缸</div>
 <div style="text-align: center;">图19 配酸装置</div>
 </div>
@@ -175,7 +175,7 @@ flowchart TD
 ```
 
 <div style="text-align: center;">
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_190_208_854_874.jpg" alt="Image" width="63%" /> -->
+<!-- <img src="../images/img_in_image_box_190_208_854_874.jpg" alt="Image" width="63%" /> -->
 <div style="text-align: center;">流程 3 硝化甘油制造流程</div>
 </div>
 
@@ -204,7 +204,7 @@ $$
 进行硝化作业时，首先将已准备好的混酸使其温度降低到 10℃ 以下，最高也不超过 17℃。为了控制温度，当时没有采用人工制冷设备，而是选择每一天中气温较低的时间来进行硝化作业，如清晨水温、气温较低，适合硝化作业。先将称量好的混酸倒入事先准备妥当的表面光洁的搪瓷盆或陶瓷盆中。再将准备好的甘油呈线状缓慢地加入混酸中(最好是以雾状喷入)，加入甘
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_142_322_541_565.jpg" alt="Image" width="37%" />
+<img src="../images/img_in_image_box_142_322_541_565.jpg" alt="Image" width="37%" />
 <div style="text-align: center;">1—木槽；2—木条；3—瓷盆。</div>
 <div style="text-align: center;">图20 硝化槽</div>
 </div>

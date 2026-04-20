@@ -9,7 +9,7 @@
 火雷管的壳体材料，通常是采用紫铜板制成。当时为了坚持长期抗战，节约金属原材料，除生产一部分铜壳和铁壳火雷管外，还大量生产了纸壳雷管。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_789_597_913_952.jpg" alt="Image" width="11%" />
+<img src="../images/img_in_image_box_789_597_913_952.jpg" alt="Image" width="11%" />
 <div style="text-align: center;">1—壳体；2—加强帽；3—绸垫；4—起爆药；5—烈性炸药。</div>
 <div style="text-align: center;">图35 火雷管</div>
 </div>
@@ -23,7 +23,7 @@
 抗战时期所生产的雷管，种类很多，除装有起爆药和烈性炸药的复式雷管外，也有只装有起爆药的单式雷管。单式雷管主要
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_122_349_256_601.jpg" alt="Image" width="12%" />
+<img src="../images/img_in_image_box_122_349_256_601.jpg" alt="Image" width="12%" />
 </div>
 <div style="text-align: center;">1—管壳；2—加强帽；3—绸垫；4—起爆药。</div>
 <div style="text-align: center;">图36 单式雷管</div>
@@ -41,7 +41,7 @@ D型结构与B、C型同，但其底窝是纸制的并与壳体连接在一起�
 E型结构也与B、C型同，但底部是纸制的平底。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_148_919_890_1213.jpg" alt="Image" width="70%" />
+<img src="../images/img_in_image_box_148_919_890_1213.jpg" alt="Image" width="70%" />
 </div>
 <div style="text-align: center;">1—纸管壳；2—金属加强帽；3—绸垫；4—起爆药；5—底窝；6—烈性炸药。</div>
 <div style="text-align: center;">图37 纸壳火雷管</div>
@@ -118,7 +118,7 @@ flowchart TD
 
 <div style="text-align: center;">流程14 雷管装药装配工艺流程</div
 <div style="text-align: center;">
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_79_216_912_1492.jpg" alt="Image" width="79%" /> -->
+<!-- <img src="../images/img_in_image_box_79_216_912_1492.jpg" alt="Image" width="79%" /> -->
 </div>
 规格的牛皮纸外，也大量使用过两层废报纸中间夹一层麻纸●的管壳材料。
 
@@ -151,7 +151,7 @@ flowchart TD
 搓管的操作方法是，操作人员坐在木板凳的一端，将裁好的纸条，一面全部涂上粘合剂，放好半月形的金属冲头(其直径大小等于管壳的内径)，将纸放在件号2的木板上，用力往复的推动半月形搓板的上端支杆，往复搓制3~4次，即卷成纸管。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_610_373_925_776.jpg" alt="Image" width="29%" />
+<img src="../images/img_in_image_box_610_373_925_776.jpg" alt="Image" width="29%" />
 <div style="text-align: center;">1—木板凳；2—厚木板；3—半月形搓子；4—支杆；5—金爵环。</div>
 <div style="text-align: center;">图38 搓管工具</div>
 </div>
@@ -170,7 +170,7 @@ E型平底的管壳，是将纸管制成以后，在管底部涂上虫胶漆，�
 干燥过的管壳，需切成规定长度，切管可以在车床上进行，也可以用刀具手工操作。切好的纸管用冲子、卡尺进行尺寸和壁厚检验，将不合格的管壳挑选出来。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_108_211_277_458.jpg" alt="Image" width="16%" />
+<img src="../images/img_in_image_box_108_211_277_458.jpg" alt="Image" width="16%" />
 <div style="text-align: center;">图39 多孔桶</div>
 </div>
 
@@ -213,7 +213,7 @@ E型平底的管壳，是将纸管制成以后，在管底部涂上虫胶漆，�
 硝碳混合物的两种成分混合操作时，要特别注意安全，每次混合量不超过 500 克。最好采用图 40 所示的具有防护板的装置，操作时将工作台靠近窗口，操作人员在防护板的后面，通过观察孔察看，并以光滑的木板或胶皮棒搅拌，混合均匀后，送去装药。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_548_886_935_1247.jpg" alt="Image" width="36%" />
+<img src="../images/img_in_image_box_548_886_935_1247.jpg" alt="Image" width="36%" />
 <div style="text-align: center;">1—胶皮盆或瓷盆；2—观察孔；3—20毫米厚铅板；4—12～15毫米厚铜板。</div>
 <div style="text-align: center;">图40 硝碳混合装置</div>
 </div>
@@ -237,7 +237,7 @@ E型平底的管壳，是将纸管制成以后，在管底部涂上虫胶漆，�
 抗战时期也采用过由三板组成的定量装药板(用铜板、铅板、塑料板均可)，如图 41 所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_490_689_923_808.jpg" alt="Image" width="41%" />
+<img src="../images/img_in_image_box_490_689_923_808.jpg" alt="Image" width="41%" />
 <div style="text-align: center;">图41 装药板</div>
 <div style="text-align: center;">1—漏斗；2—上药板；3—下药板；4—定量板；5—手柄。</div>
 </div>
@@ -251,7 +251,7 @@ E型平底的管壳，是将纸管制成以后，在管底部涂上虫胶漆，�
 (2)压副药：压药是雷管制造中的主要工序，直接影响响产品的质量和安全。压药的工艺设备很多，如可用弹簧曲轴压力机、油压机、手扳杠杆压力机和手扳螺旋压力机等。弹簧曲轴压力机和油压机，每次压制的产品数量较多，但设备较笨重。为符合战时环境，当时曾采用手扳杠杆压力机和手扳螺旋压力机。杠杆压力机每次可压一个或数个雷管，而螺旋压力机每次可压10个。手扳杠杆压力机如图42所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_66_1042_458_1390.jpg" alt="Image" width="37%" />
+<img src="../images/img_in_image_box_66_1042_458_1390.jpg" alt="Image" width="37%" />
 <div style="text-align: center;">1—杠杆1；2—重锤；3—滑块；4—冲头；5—组合模；6—滑块；7—杠杆2；8—工作台。</div>
 <div style="text-align: center;">图42 手扳杠杆压力机</div>
 </div>
@@ -259,7 +259,7 @@ E型平底的管壳，是将纸管制成以后，在管底部涂上虫胶漆，�
 手扳杠杆压力机由两个杠杆所组成。用手压杠杆 2，使滑块向上移动，这时放置在滑块上的组合模亦随之上升，模中冲头顶到上方的滑块，上方的滑块也上升顶到杠杆1，适当调整重锤所形成的力矩大小，即可确定模内压药的压力。压药时只要使杠杆2的重锤稍许提高，压药即告完毕。对杠杆来讲，重锤所形成的力矩，应等于上方滑块上升时所形成的力矩，即组合模内冲头的压力所形成的力矩。根据上述原理可计算出重锤的重量或重锤距支点的距离(图43)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_111_398_548_665.jpg" alt="Image" width="41%" />
+<img src="../images/img_in_image_box_111_398_548_665.jpg" alt="Image" width="41%" />
 <div style="text-align: center;">图43 杠杆原理</div>
 </div>
 
@@ -288,7 +288,7 @@ $$
 压药所采用的手扳螺旋压力机如图 44 所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_506_850_954_1286.jpg" alt="Image" width="42%" />
+<img src="../images/img_in_image_box_506_850_954_1286.jpg" alt="Image" width="42%" />
 <div style="text-align: center;">1—手轮；2—冲头；3—滑块；4—托板；5—压力调节杆；6—重锤。</div>
 <div style="text-align: center;">图44 手扳螺旋杠杆压力机</div> 
 </div>
@@ -302,13 +302,13 @@ $$
 [^1]: 当时所采用的起爆药有两种，铜管壳者多是装雷汞，纸管壳则装雷银，每发的装药量为0.5克
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_123_567_483_911.jpg" alt="Image" width="34%" />
+<img src="../images/img_in_image_box_123_567_483_911.jpg" alt="Image" width="34%" />
 <div style="text-align: center;">1—压力机；2—铅罩；3—防护墙。</div>
 <div style="text-align: center;">图45 压药防护装置</div>
 </div>
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_612_592_914_894.jpg" alt="Image" width="28%" />
+<img src="../images/img_in_image_box_612_592_914_894.jpg" alt="Image" width="28%" />
 <div style="text-align: center;">1—防爆玻璃(厚20毫米)；2—铅板(厚12毫米)。</div>
 <div style="text-align: center;">图46 护胸板</div>
 </div>
@@ -324,7 +324,7 @@ $$
 已压药的雷管，必须加以清理，因在管体内、外壁上经常会粘有一些浮药。清理时可采用鸭绒或鹅绒制成的小绒撺，在上面蘸上酒精。擦内壁时要注意安全，应在防护板的保护下进行操作。擦内壁浮药装置如图47所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_112_509_497_784.jpg" alt="Image" width="36%" />
+<img src="../images/img_in_image_box_112_509_497_784.jpg" alt="Image" width="36%" />
 <div style="text-align: center;">1—观察防护玻璃；2—操纵杆；3—钢珠；4—小鸭绒(鹅绒)掸；5—工作台。</div>
 <div style="text-align: center;">图47 擦管内壁浮药装置</div>
 </div>
@@ -332,7 +332,7 @@ $$
 擦管内壁浮药装置的外罩是用钢板或铅板制成的，在一侧开一个小洞，洞内装有钢珠，再穿入一个操作拉杆，操作人员在室外操纵拉杆以绒择擦拭内表面的浮药。擦拭操作时，要特别注意不要使绒择头或杆把的端部，触及到加强帽的传火孔。因此，在掸把上缚一个定位销子，如图48所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_569_486_706_912.jpg" alt="Image" width="13%" />
+<img src="../images/img_in_image_box_569_486_706_912.jpg" alt="Image" width="13%" />
 <div style="text-align: center;">1—定位销；2—鸭绒掸；3—雷管。</div>
 <div style="text-align: center;">图48 定位销装置</div>
 </div>
@@ -340,7 +340,7 @@ $$
 内管清理完毕后，还需清理管外壁的浮药。当时所采用的方法是，在工作台上铺一层中间夹有棉花的细白布垫子，把清理过内壁浮药的雷管，水平地排在垫子上，在雷管的上面再盖上一块沾上酒精的细白布垫，用手轻轻地推动雷管来回滚动，这样往复推动，就将管壁外面的浮药擦净。擦外管浮药的工具如图 49 所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_104_1134_485_1348.jpg" alt="Image" width="36%" />
+<img src="../images/img_in_image_box_104_1134_485_1348.jpg" alt="Image" width="36%" />
 <div style="text-align: center;">1—雷管；2—沾有酒精的细白布；3—细白布垫子。</div>
 <div style="text-align: center;">图49 外壁清理装置</div>
 </div>
@@ -350,7 +350,7 @@ $$
 雷管内表面清理干净后，为提高防潮能力，在加强帽与雷管接缝处涂50%的酒精虫胶漆(虫胶50%，酒精50%)。涂漆时，用小竹签蘸上漆，轻轻地在加强帽与管壁结合处涂一圈，要涂得均匀，涂层不能过厚(图50)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_784_443_916_768.jpg" alt="Image" width="12%" />
+<img src="../images/img_in_image_box_784_443_916_768.jpg" alt="Image" width="12%" />
 <div style="text-align: center;">图50 涂虫胶漆</div>
 </div>
 

@@ -50,7 +50,7 @@
 硝酸铵有五种结晶形状(如图 25 所示): 正方晶体、正六面晶体、菱形晶体(分为  $\alpha$ 和  $\beta$ 两种)和斜六面晶体。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_142_1093_870_1255.jpg" alt="Image" width="69%" />
+<img src="../images/img_in_image_box_142_1093_870_1255.jpg" alt="Image" width="69%" />
 <div style="text-align: center;">1—正方晶体；2—正六面晶体；3—α菱形晶体；4—β菱形晶体；5—斜六面晶体。</div>
 <div style="text-align: center;">图25 硝酸铵各种晶体形状</div>
 </div>
@@ -68,7 +68,7 @@
 由上述情况看来，制造硝铵炸药，要尽量减少室内湿度。室内不要放置散发湿气的设备。不要向地面上洒水，雨季生产要适时关启门窗，保持室内低温干燥。硝酸铵的吸湿临界湿度如图25.A所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_chart_box_114_703_685_1216.jpg" alt="Image" width="54%" />
+<img src="../images/img_in_chart_box_114_703_685_1216.jpg" alt="Image" width="54%" />
 <div style="text-align: center;">图25. A 硝酸铵吸湿临界温湿度</div>
 </div>
 
@@ -153,7 +153,7 @@ $$
 为了充分利用氨气，中和反应缸可采用两组，并在缸口上反盖一瓷盆以防止氨气挥发(稀硫酸加入后将缸盖扣紧)。经中和作用制出的产品为粗制硫酸铵，其中含有不少杂质和有机物。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_357_262_938_563.jpg" alt="Image" width="55%" />
+<img src="../images/img_in_image_box_357_262_938_563.jpg" alt="Image" width="55%" />
 <div style="text-align: center;">1—蒸氨炉；2—管道；3—火瓷盆；4—缸体。</div>
 <div style="text-align: center;">图26 动物骨干馏炉及中和反应缸</div>
 </div>
@@ -163,7 +163,7 @@ $$
 硫酸铵精制，主要有浓缩、结晶、再熔解、再浓缩和再结晶等工序组成。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_151_1051_863_1439.jpg" alt="Image" width="67%" />
+<img src="../images/img_in_image_box_151_1051_863_1439.jpg" alt="Image" width="67%" />
 <div style="text-align: center;">1—物料；2—陶缸；3—砂子；4—火炕。</div>
 <div style="text-align: center;">图27 火炕砂盘干燥装置</div>
 </div>
@@ -190,7 +190,7 @@ flowchart TD
 
 <div style="text-align: center;">
 <div style="text-align: center;">流程 7 用动物骨干镏制造硫酸铵的工艺流程</div>
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_242_630_850_1270.jpg" alt="Image" width="57%" /> -->
+<!-- <img src="../images/img_in_image_box_242_630_850_1270.jpg" alt="Image" width="57%" /> -->
 </div>
 
 ## 5 用硫酸铵制造硝酸铵
@@ -228,7 +228,7 @@ flowchart TD
 
 <div style="text-align: center;">
 <div style="text-align: center;">流程 8 用硫酸铵制造硝酸铵的工艺流程</div>
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_257_776_777_1346.jpg" alt="Image" width="49%" /> -->
+<!-- <img src="../images/img_in_image_box_257_776_777_1346.jpg" alt="Image" width="49%" /> -->
 </div>
 
 ### (三) 工艺过程和设备
@@ -236,7 +236,7 @@ flowchart TD
 将硫酸铵与火硝准备好，先在铁锅(或缸)中加入约为容积一半的清水，再将20公斤的硫酸铵加入，用棒搅拌，令它全部溶解。然后再将 33 公斤的火硝加入并迅速地搅拌和加热，约经 30 分钟，在锅底部即有硫酸钾结晶生成，这时可用工具将结晶捞出。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_121_253_390_606.jpg" alt="Image" width="25%" />
+<img src="../images/img_in_image_box_121_253_390_606.jpg" alt="Image" width="25%" />
 <div style="text-align: center;">1—白布；2—筛子；3—木框；4—陶缸；5—过滤后的溶液。</div>
 <div style="text-align: center;">图28 过滤装置</div>
 </div>
@@ -260,7 +260,7 @@ flowchart TD
 2. 硝酸铵干燥：要求硝酸铵含水量不大于0.3%。其干燥方法很多，如烟道气干燥法，热风干燥法和干燥室干燥法等，但不允许直接用火加热干燥。抗战时期是采用火炕干燥的方法，先在火炕上安置一些干燥架，然后将粉碎的物料置于干燥盘内铺平，放入干燥架上(如图29所示)进行干燥。
 
     <div style="text-align: center;">
-    <img src="/baopojianyishengchanfa/images/img_in_image_box_215_763_837_1214.jpg" alt="Image" width="59%" />
+    <img src="../images/img_in_image_box_215_763_837_1214.jpg" alt="Image" width="59%" />
     <div style="text-align: center;">1—干燥架；2—干燥盘；3—物料；4—炉灶。 </div>
     <div style="text-align: center;">图29 火炕法干燥硝酸铵</div>
     </div>
@@ -268,7 +268,7 @@ flowchart TD
     以火炕法干燥时，应将干燥室的门窗封严，防止室内热量散失。室内温度保持在60～80℃，干燥时间约为24小时。每隔2～4小时用木铲翻动一次物料，以加速干燥。经干燥的物料，再经碾细或人工捣细。人工捣细时，是将硝酸铁加入瓷缸或木槽中，用铜锤或铁锤捣碎，操作要迅速，以免长时间与空气接触而吸湿。其捣碎工具如图30所示。
 
     <div style="text-align: center;">
-    <img src="/baopojianyishengchanfa/images/img_in_image_box_114_173_316_503.jpg" alt="Image" width="19%" />
+    <img src="../images/img_in_image_box_114_173_316_503.jpg" alt="Image" width="19%" />
     <div style="text-align: center;">图30 人工捣碎工具 1—锤；2—缸； 3—物料。</div>
     </div>
 
@@ -289,7 +289,7 @@ flowchart TD
     1. 烟道气干燥法：是利用烟道气的热量，加热铁板来干燥木粉、谷糠粉等。烟道气的干燥装置如图31所示。烟道气干燥装置，是用一块10～15厘米厚的铁板制成长方形的平底锅。将物料置于平底锅上，在燃烧室生火加热，使平底锅温度升高，同时用人工翻动物料。干燥过程中温度不宜过高，以免物料碳化。这种装置的设备简单，效率较高。
 
         <div style="text-align: center;">
-        <img src="/baopojianyishengchanfa/images/img_in_image_box_150_383_863_785.jpg" alt="Image" width="67%" />
+        <img src="../images/img_in_image_box_150_383_863_785.jpg" alt="Image" width="67%" />
         <div style="text-align: center;">1—炉灶；2—平底锅。</div>
         <div style="text-align: center;">图31 烟道气干燥法</div>
         </div>
@@ -372,7 +372,7 @@ flowchart TB
 
 <div style="text-align: center;">流程 9 “第一类型”粉状硝铵甘油炸药生产工艺流程</div>
 <div style="text-align: center;">
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_163_217_841_1056.jpg" alt="Image" width="64%" /> -->
+<!-- <img src="../images/img_in_image_box_163_217_841_1056.jpg" alt="Image" width="64%" /> -->
 </div>
 
 ## 8 含有固体敏感剂的硝酸炸药配制
@@ -417,11 +417,11 @@ flowchart TB
 
 <div style="text-align: center;">
 <div style="text-align: center;">流程10 “第二类型”含有固体敏感剂的硝铵炸药生产工艺流程</div>
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_166_224_900_912.jpg" alt="Image" width="69%" /> -->
+<!-- <img src="../images/img_in_image_box_166_224_900_912.jpg" alt="Image" width="69%" /> -->
 </div>
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_112_937_543_1400.jpg" alt="Image" width="40%" />
+<img src="../images/img_in_image_box_112_937_543_1400.jpg" alt="Image" width="40%" />
 <div style="text-align: center;">图32 球磨机</div> 
 </div>
 
@@ -469,7 +469,7 @@ flowchart TB
 
 <div style="text-align: center;">
 <div style="text-align: center;">流程11 “第三类型”不含敏感剂的硝铵炸药生产工艺流程</div>
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_207_653_799_1359.jpg" alt="Image" width="56%" /> -->
+<!-- <img src="../images/img_in_image_box_207_653_799_1359.jpg" alt="Image" width="56%" /> -->
 </div>
 
 ## 10 硝铵机油炸药配制
@@ -496,7 +496,7 @@ flowchart TB
 
 <div style="text-align: center;">
 <div style="text-align: center;">流程12 “第四类型”硝铵机油(柴油)炸药生产工艺流程</div>
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_189_598_896_1305.jpg" alt="Image" width="67%" /> -->
+<!-- <img src="../images/img_in_image_box_189_598_896_1305.jpg" alt="Image" width="67%" /> -->
 </div>
 
 ## 11 爆破药包装药

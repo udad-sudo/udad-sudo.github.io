@@ -21,7 +21,7 @@
 制取雷汞的原料为水银、硝酸和酒精。其主要工序是化合反应，通常采用耐 100℃ 以上的玻璃制的曲颈瓶(如图1所示)来完成反应。
 
 <div align="center">
-  <img src="/baopojianyishengchanfa/images/img_in_image_box_633_931_969_1180.jpg" alt="居中图片" width="200">
+  <img src="../images/img_in_image_box_633_931_969_1180.jpg" alt="居中图片" width="200">
   <p>图 1 曲颈瓶</p>
 </div>
 
@@ -88,7 +88,7 @@ $$
 如前所述，水银、硝酸和酒精是制取雷汞的主要原料。对这三种原料的要求分别为：水银纯度为99.9%，酒精浓度不低于92%，其中不应含有杂质，硝酸浓度为 $60\pm1.5\%$。
 
 <div style="text-align: center;">
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_132_685_957_1622.jpg" alt="Image" width="78%" /> -->
+<!-- <img src="../images/img_in_image_box_132_685_957_1622.jpg" alt="Image" width="78%" /> -->
 <div style="text-align: center;">流程 1 制取雷汞的工艺流程</div>
 </div>
 
@@ -181,7 +181,7 @@ $n_1$ ——待修正酸的浓度(%)。
 硝酸对金属有强烈的腐蚀作用，所以在抗日战争时期是采用瓷缸作为配酸设备的。当时所用的配酸方法是：用比重计测定出硝酸的浓度，计算出需要水的数量，将酸和水按需要量称取好；
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_141_740_321_1012.jpg" alt="Image" width="17%" />
+<img src="../images/img_in_image_box_141_740_321_1012.jpg" alt="Image" width="17%" />
 <div style="text-align: center;">图 2 配酸缸</div>
 </div>
 
@@ -212,7 +212,7 @@ $n_1$ ——待修正酸的浓度(%)。
 当时所用的酒精，主要是以民间酿造的烧酒(又称毛酒)为原料进行蒸馏制得。所采用的工艺装置如图3所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_202_671_886_1071.jpg" alt="Image" width="65%" />
+<img src="../images/img_in_image_box_202_671_886_1071.jpg" alt="Image" width="65%" />
 <p>1—火炉；2—蒸馏桶；3—加料口；4—温度计；5—连接管；6—冷却缸；7—冷水缸；8—支架；9—酒精罐。</p>
 <div style="text-align: center;">图 3 酒精蒸馏装置</div>
 </div>
@@ -244,13 +244,13 @@ $$
 为了排出在反应中所产生的硝烟，可用木板制成排风筒通出屋外，或者在晴朗无灰尘的露天进行操作，以便排除有害气体。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_128_497_249_765.jpg" alt="Image" width="11%" />
-<img src="/baopojianyishengchanfa/images/img_in_image_box_315_499_473_766.jpg" alt="Image" width="15%" />
+<img src="../images/img_in_image_box_128_497_249_765.jpg" alt="Image" width="11%" />
+<img src="../images/img_in_image_box_315_499_473_766.jpg" alt="Image" width="15%" />
 <div style="text-align: center;">图 4 细口瓶</div>
 </div>
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_578_281_944_765.jpg" alt="Image" width="34%" />
+<img src="../images/img_in_image_box_578_281_944_765.jpg" alt="Image" width="34%" />
 <p>1—排气管；2—排气罩；3—硝酸汞瓶；4—温水槽；5—温度计。</p>
 <div style="text-align: center;">图 5 硝酸汞预温槽</div>
 </div>
@@ -262,7 +262,7 @@ $$
 化合反应所用的原料为硝酸汞和酒精(其用量为水银的10倍)，即一份配制好的硝酸汞与5000克浓度92%以上的酒精。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_107_1170_347_1424.jpg" alt="Image" width="22%" />
+<img src="../images/img_in_image_box_107_1170_347_1424.jpg" alt="Image" width="22%" />
 <div style="text-align: center;">图 6 瓷罐</div>
 </div>
 
@@ -281,7 +281,7 @@ $$
 当时我们把它叫做是世界上“最新式”的雷汞化合工厂，既不受硝烟的侵害，也不受作业面积的限制。的确，在那战争的岁月里，广阔的天地就是革命者战斗的厂房。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_412_623_956_801.jpg" alt="Image" width="51%" />
+<img src="../images/img_in_image_box_412_623_956_801.jpg" alt="Image" width="51%" />
 <p>1—反应罐；2—砖墩。</p>
 <div style="text-align: center;">图 7 露天化合反应作业</div>
 </div>
@@ -309,7 +309,7 @@ $$
 洗涤是在化合反应结束后，物料温度逐渐下降到75℃以下时进行。将箩筐或本质滤盆放在洁净的瓷盆上，内铺细白布，把雷汞和母液一起缓慢地倒入箩筐中。母液经布过滤，流入盆里，再将箩筐中的雷汞倒入另一个洁净的盆中(也可用表面光洁的玻璃缸)。再以过滤的净水洗涤，边加水边搅拌，反复洗涤，一直洗至中性为止。通常需洗10次以上(图8)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_668_861_949_1166.jpg" alt="Image" width="26%" />
+<img src="../images/img_in_image_box_668_861_949_1166.jpg" alt="Image" width="26%" />
 <p>   1—细白布; 2—笼筐; 3—木架; 4—瓷盆; 5—工作台</p>
 <div style="text-align: center;">图 8 雷汞洗涤装置</div>
 </div>
@@ -325,7 +325,7 @@ $$
 首先将湿雷汞用细白布包好，置于手搬压力机上，除去其中大部分水分。除水后，雷汞中的含水量可由30%以上降低到8～12%左右。在干燥前，雷汞中的含水量不要低于8%，如含水量过低会增加分盘工序的危险性(图 9)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_118_766_460_1119.jpg" alt="Image" width="32%" />
+<img src="../images/img_in_image_box_118_766_460_1119.jpg" alt="Image" width="32%" />
 <p>1—手扳压力机；2—湿雷汞；3—工作台。</p>
 <div style="text-align: center;">图 9 手扳压力机除水</div>
 </div>
@@ -333,7 +333,7 @@ $$
 火墙式干燥室的墙是空心的，从室外专用的房间烧火，使烟气进入四周的空心区域，通过加热室内的空气来提高室温。保持室温在38～45℃，不宜过高。在室内放置木制的干燥架，架上置有干燥盘。经过除水后的雷汞，应小心地分配到每个干燥盘里，每一盘的装量不宜超过200克。干燥架用木制材料制成，结合方式采用榫接，如果用铁钉结合时，必须将铁钉头深深地嵌入结合件内，并在钉帽上涂漆。干燥架的高度，以低于2米为宜，其中可分成3～4层，每层均铺隔板，在板上铺以外包漆布的毛毡，使表面光滑柔软，在每层隔板的后面装上一排凸出的木条，以防止药盘入架时用力过猛由架后掉下来。在架子的前面挂上网布或细白布，架子的顶部需装置顶板，以防止灰尘落入药中(图10)。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_183_500_843_982.jpg" alt="Image" width="62%" />
+<img src="../images/img_in_image_box_183_500_843_982.jpg" alt="Image" width="62%" />
 <p>1—干燥架；2—火墙。</p>
 <div style="text-align: center;">图10 火墙干燥室</div>
 </div>
@@ -343,7 +343,7 @@ $$
 烘干以后的雷汞，装入纸盒中。这个操作要注意安全，装盒工作最好是在单独的工作间里进行。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_711_1215_958_1471.jpg" alt="Image" width="23%" />
+<img src="../images/img_in_image_box_711_1215_958_1471.jpg" alt="Image" width="23%" />
 <div style="text-align: center;">图11 药盘</div>
 </div>
 
@@ -352,7 +352,7 @@ $$
 倒药装置除框架是木制以外，其他部件均用厚纸板制成。内外均以纸糊成光洁无缝，并涂上两层虫胶漆，在药盒的下面铺以橡皮板。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_99_255_529_897.jpg" alt="Image" width="40%" />
+<img src="../images/img_in_image_box_99_255_529_897.jpg" alt="Image" width="40%" />
 <div style="text-align: center;">1—拉绳；2—药盘；3—支架；4—输药漏斗；5—纸盒；6—橡皮板；7—厚毡垫</div>
 <div style="text-align: center;">图12 倒药装置</div>
 </div>
@@ -370,7 +370,7 @@ $$
 在生产和战斗的间隙，职工们开展了各种科学研究活动，虽然参考资料缺乏，书籍不多，但由于职工们积极努力，充分利用当时条件，所以研究成果很显著，并多用于生产上。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_712_475_953_745.jpg" alt="Image" width="22%" />
+<img src="../images/img_in_image_box_712_475_953_745.jpg" alt="Image" width="22%" />
 <div style="text-align: center;">图13 量筒</div>
 </div>
 
@@ -396,7 +396,7 @@ $$
 
 <div style="text-align: center;">
 <div style="text-align: center;">流程 2 雷银制造工艺流程</div> 
-<!-- <img src="/baopojianyishengchanfa/images/img_in_image_box_128_249_918_1013.jpg" alt="Image" width="75%" /> -->
+<!-- <img src="../images/img_in_image_box_128_249_918_1013.jpg" alt="Image" width="75%" /> -->
 <div style="text-align: center;">物料投料比——银：硝酸：酒精为1:15:15。</div>
 </div>
 
@@ -468,7 +468,7 @@ $$
 洗涤后轻轻地将绸布的四角合拢起来，装入布袋内，系好口袋，置于水中保存。在整个洗涤过程中都必须精心细致，以免发生危险。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_606_253_932_557.jpg" alt="Image" width="30%" />
+<img src="../images/img_in_image_box_606_253_932_557.jpg" alt="Image" width="30%" />
 <div style="text-align: center;">图14 洗涤用木漏斗</div>
 </div>
 

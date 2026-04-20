@@ -53,12 +53,12 @@ $$ SO_3 + H_2O \longrightarrow H_2SO_4 $$
 缸塔法的特点是，设备来源广阔，就地取材，不受条件限制，建设速度快，投产速度快。如采用其他方法制造硫酸时，从建厂到投产需要1～2年的时间，而采用缸塔法则只需一个月的时间。在抗战年代，由于环境条件的限制，多采用此种方法。缸塔法制造硫酸平面布置如图150所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_187_185_910_342.jpg" alt="Image" width="68%" />
+<img src="../images/img_in_image_box_187_185_910_342.jpg" alt="Image" width="68%" />
 <div style="text-align: center;">图150 缸塔法制造硫酸平面视图</div>
 </div>
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_148_387_913_683.jpg" alt="Image" width="72%" />
+<img src="../images/img_in_image_box_148_387_913_683.jpg" alt="Image" width="72%" />
 <div style="text-align: center;">1—风箱；2—气包；3—硫磺燃烧箱；4—立缸；5—$NO_2$发生缸；6—保温炉；7—1塔(脱硝塔)；8—2塔；9—3塔(循环塔)；10—4塔；11—5塔；12—6塔；13—7塔；14—8塔；15—9塔；16—10塔；17—11塔。</div>
 <div style="text-align: center;">图151 缸塔法制造硫酸的立面视图</div>
 </div>
@@ -69,7 +69,7 @@ $$ SO_3 + H_2O \longrightarrow H_2SO_4 $$
 B 进气口进入，由出气口排出。当拉杆向 B 进气口方向推进时，A 进气口活斗开启，B 进气口关闭，空气由排气口排出。为加大风挡作用，一般是在风挡上捆有许多羽毛。箱体要严密，以免漏气。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_97_1139_540_1369.jpg" alt="Image" width="42%" />
+<img src="../images/img_in_image_box_97_1139_540_1369.jpg" alt="Image" width="42%" />
 <div style="text-align: center;">1—手柄；2—拉杆；3—箱体；4—风挡；5—鸡毛；6—进气口；7—出气口；8—进气口。</div>
 <div style="text-align: center;">图152 风箱</div>
 </div>
@@ -79,7 +79,7 @@ B 进气口进入，由出气口排出。当拉杆向 B 进气口方向推进时
 将缸安装在水泥制成的底座上，在缸与底座接触的部位，为防止漏气，在空隙处可加水进行水封。当空气由入气口充满缸时，缸内压力不断增高，则缸受气体压力作用而上升，当气体排出，缸内压力降低，缸即下降到底。操作人员由此可掌握气包的压力，使之均衡。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_140_595_425_845.jpg" alt="Image" width="27%" />
+<img src="../images/img_in_image_box_140_595_425_845.jpg" alt="Image" width="27%" />
 <div style="text-align: center;">1—缸；2—进气口；3—水封；4—底座；5—排气口。</div>
 <div style="text-align: center;">图153 气包</div>
 </div>
@@ -87,7 +87,7 @@ B 进气口进入，由出气口排出。当拉杆向 B 进气口方向推进时
 (3)硫磺燃烧箱：是一个三角形的铁箱，一端有进气口，另一端有  $ SO_2 $ 的出口，上部有一个加料盖，其构造如图 154 所示。它是用来使硫磺在其中燃烧生成二氧化硫。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_474_614_933_855.jpg" alt="Image" width="43%" />
+<img src="../images/img_in_image_box_474_614_933_855.jpg" alt="Image" width="43%" />
 <div style="text-align: center;">1—空气入口；2—硫磺加料口；3— $ SO_2 $出口。</div>
 <div style="text-align: center;">图154 硫磺燃烧箱</div>
 </div>
@@ -95,7 +95,7 @@ B 进气口进入，由出气口排出。当拉杆向 B 进气口方向推进时
 (4)立缸：是用一个大陶缸制成的，在缸口上盖一个大盆，用泥封严；硫磺燃烧所生成的二氧化硫经立缸清除尘土和硫磺杂质。同时，立缸可使空气与二氧化硫混合均匀。立缸如图155所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_118_1120_394_1447.jpg" alt="Image" width="26%" />
+<img src="../images/img_in_image_box_118_1120_394_1447.jpg" alt="Image" width="26%" />
 <div style="text-align: center;">1—盆；2—缸；3—$SO_2$入口。</div>
 <div style="text-align: center;">图155. 立缸</div>
 </div>
@@ -119,7 +119,7 @@ $$ 2HNO_3 \longrightarrow 2NO_2 + H_2O + \frac{1}{2} O_2 $$
 在塔内装漏碎瓷充填物，上部的碎瓷片尺寸小一些，下部的大一些；上部碎瓷之间的间隙小些，下部的间隙要大些，使上述的  $ SO_2 $ 分布均匀和下落的脱硝硫酸散布均匀。在塔的上部有导管与第2塔相通，下部有一根导管与立缸相连接，作为  $ NO_2 $、 $ O_2 $、 $ SO_2 $ 气体的入口。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_166_706_354_1338.jpg" alt="Image" width="17%" />
+<img src="../images/img_in_image_box_166_706_354_1338.jpg" alt="Image" width="17%" />
 <div style="text-align: center;">1—塔盖(瓦片)；2—分酸器；3—填充物；4—陶瓷缸；5—气体出口；6—多孔板；7—出酸口；8—盛酸盘；9—$SO_2$入口。</div>
 <div style="text-align: center;">图156 脱硝塔(1塔)</div>
 </div>
@@ -149,7 +149,7 @@ $$ 2HNO_3 \longrightarrow 2NO_2 + H_2O + \frac{1}{2} O_2 $$
 用缸制成的塔体，有两种形式，一种是重叠法(如图 157 所示)，即将缸底多余的部分打掉，以一缸的小口放在另一缸的大口上，这样依次重叠成塔，为防止下缸的口部由缸的自重而压裂，可以在缸壁加一道箍。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_222_719_371_1072.jpg" alt="Image" width="14%" />
+<img src="../images/img_in_image_box_222_719_371_1072.jpg" alt="Image" width="14%" />
 <div style="text-align: center;">1—缸；2—耐酸胶泥。</div>
 <div style="text-align: center;">图157 重叠法</div>
 </div>
@@ -157,7 +157,7 @@ $$ 2HNO_3 \longrightarrow 2NO_2 + H_2O + \frac{1}{2} O_2 $$
 另一种方法是对口法(图158)，即选择口径尺寸相同的缸，利用缸口对缸口，缸底对缸底的办法，一对对重叠成塔，只将缸底打掉即可。上述两种办法，均可组成缸塔。但在打缸底时要打的整齐，不要打裂。打缸底时，可先划好线，用锥形小凿子和小铁锤轻轻敲打。先打一道沟，再逐步加深和加宽，这样可顺利地打掉缸底。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_684_692_843_1123.jpg" alt="Image" width="15%" />
+<img src="../images/img_in_image_box_684_692_843_1123.jpg" alt="Image" width="15%" />
 <div style="text-align: center;">图158 对口法 1—陶缸。</div> 
 </div>
 
@@ -175,11 +175,11 @@ $$ 2HNO_3 \longrightarrow 2NO_2 + H_2O + \frac{1}{2} O_2 $$
 
 <div style="text-align: center;">
 <div style="float:left;width:50%;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_88_786_280_890.jpg" alt="Image"/>
+<img src="../images/img_in_image_box_88_786_280_890.jpg" alt="Image"/>
 <div style="text-align: center;">A</div>
 </div>
 <div style="float:left;width:50%;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_363_786_543_899.jpg" alt="Image"/>
+<img src="../images/img_in_image_box_363_786_543_899.jpg" alt="Image"/>
 <div style="text-align: center;">B</div>
 </div>
 <div style="text-align: center;">1—瓷盆；2—玻璃管。</div>
@@ -275,7 +275,7 @@ $$  NH_4NO_3 + H_2SO_4 \longrightarrow NH_4HSO_4 + HNO_3 $$
 缸法制造硝酸所采用的工艺装置如图 160 所示。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_401_1131_959_1418.jpg" alt="Image" width="53%" />
+<img src="../images/img_in_image_box_401_1131_959_1418.jpg" alt="Image" width="53%" />
 <div style="text-align: center;">1—加热炉；2—反应器；3—反应器盖；4—导气管；5—冷却室；6—冷却室。</div>
 <div style="text-align: center;">图160 缸法制造硝酸的装置</div>
 </div>
@@ -319,7 +319,7 @@ D点——加入水的含酸浓度；
 E 点——要求的漫度。
 
 <div style="text-align: center;">
-<img src="/baopojianyishengchanfa/images/img_in_image_box_655_1142_899_1404.jpg" alt="Image" width="23%" />
+<img src="../images/img_in_image_box_655_1142_899_1404.jpg" alt="Image" width="23%" />
 <p>图161 配酸渡度计算</p>
 </div>
 
