@@ -120,15 +120,16 @@ nav:
 - Home: index.md
 - Guide:
     - about: baopojianyishengchanfa\about.md
-    - chapter 1: baopojianyishengchanfa\chapter 1.md
-    - chapter 2: baopojianyishengchanfa\chapter 2.md
-    - chapter 3: baopojianyishengchanfa\chapter 3.md
-    - chapter 4: baopojianyishengchanfa\chapter 4.md
-    - chapter 5: baopojianyishengchanfa\chapter 5.md
-    - chapter 6: baopojianyishengchanfa\chapter 6.md
-    - chapter 7: baopojianyishengchanfa\chapter 7.md
-    - chapter 8: baopojianyishengchanfa\chapter 8.md
-    - chapter 9: baopojianyishengchanfa\chapter 9.md
-    - chapter 10: baopojianyishengchanfa\chapter 10.md
-    - chapter 11: baopojianyishengchanfa\chapter 11.md
-    - chapter 12: baopojianyishengchanfa\chapter 12.md
+    - "第一章:起爆药制造法": baopojianyishengchanfa\chapter 1.md
+    - "第二章:硝化甘油制造法": baopojianyishengchanfa\chapter 2.md
+    - "第三章:周氏炸药制造法": baopojianyishengchanfa\chapter 3.md
+    - "第四章:硝酸铵类炸药制造法": baopojianyishengchanfa\chapter 4.md
+    - "第五章:黑火药粉制造法": baopojianyishengchanfa\chapter 5.md
+    - "第六章:火雷管制造法": baopojianyishengchanfa\chapter 6.md
+    - "第七章:电雷管制造法": baopojianyishengchanfa\chapter 7.md
+    - "第八章:手榴弹制造法": baopojianyishengchanfa\chapter 8.md
+    - "第九章:地雷制造法": baopojianyishengchanfa\chapter 9.md
+    - "第十章:燃烧纵火器材制造法": baopojianyishengchanfa\chapter 10.md
+    - "第十一章:简易军事爆破法": baopojianyishengchanfa\chapter 11.md
+    - "第十二章:硫酸及硝酸制造法": baopojianyishengchanfa\chapter 12.md
+    - "第十三章:火硝制造法": baopojianyishengchanfa\chapter 13.md
