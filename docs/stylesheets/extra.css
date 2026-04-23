@@ -1,7 +1,23 @@
 /* 如果希望浅色/深色模式分开设置 */
 [data-md-color-scheme="default"] {
-  --md-footer-bg-color: #fd0000; /* 浅色模式页脚色 */
+  --md-footer-bg-color: #fd0000;
+  /* 浅色模式页脚色 */
+
 }
+
 [data-md-color-scheme="slate"] {
-  --md-footer-bg-color--dark: rgb(41, 140, 211); /* 深色模式页脚色 */
+  --md-footer-bg-color--dark: rgb(41, 140, 211);
+  /* 深色模式页脚色 */
+}
+
+.center-th {
+  text-align: center !important;
+  font-weight: bold;
+  word-wrap: break-word;
+  vertical-align: middle !important;
+}
+
+.center {
+  text-align: center !important;
+  word-wrap: break-word;
 }

@@ -1,4 +1,4 @@
-# 第十二章 原料酸——硫酸及硝酸制造法
+# 第十二章 硫酸及硝酸制造法
 
 ## 1 概述
 
@@ -59,7 +59,7 @@ $$ SO_3 + H_2O \longrightarrow H_2SO_4 $$
 
 <div style="text-align: center;">
 <img src="../images/img_in_image_box_148_387_913_683.jpg" alt="Image" width="72%" />
-<div style="text-align: center;">1—风箱；2—气包；3—硫磺燃烧箱；4—立缸；5—$NO_2$发生缸；6—保温炉；7—1塔(脱硝塔)；8—2塔；9—3塔(循环塔)；10—4塔；11—5塔；12—6塔；13—7塔；14—8塔；15—9塔；16—10塔；17—11塔。</div>
+<div style="text-align: center;">1—风箱；2—气包；3—硫磺燃烧箱；4—立缸；5—$NO_2$发生缸；6—保温炉；7—1塔(脱硝塔)；8—2塔；<br/>9—3塔(循环塔)；10—4塔；11—5塔；12—6塔；13—7塔；14—8塔；15—9塔；16—10塔；17—11塔。</div>
 <div style="text-align: center;">图151 缸塔法制造硫酸的立面视图</div>
 </div>
 
@@ -102,7 +102,7 @@ B 进气口进入，由出气口排出。当拉杆向 B 进气口方向推进时
 
 由立缸引出一对导管，利用部分二氧化硫气体的压力使二氧化氮进入脱硝塔(1塔)。
 
-(5)二氧化氮发生器：是一个铁罐子，以导管与立缸相连通，在罐内加入无水硝酸钾和酸性硫酸钾，加热后即有 $NO_2$ 气体流出。可准备两个发生器进行交替使用，使 $NO_2$ 气体的供应连续不断。无水硝酸钾与酸性硫酸钾在罐中按下式反应
+(5)二氧化氮发生器：是一个铁罐子，以导管与立缸相连通，在罐内加入无水硝酸钾和硫酸氢钾，加热后即有 $NO_2$ 气体流出。可准备两个发生器进行交替使用，使 $NO_2$ 气体的供应连续不断。无水硝酸钾与硫酸氢钾在罐中按下式反应
 
 $$ KNO_3 + KHSO_4 \longrightarrow HNO_3 + K_2SO_4 $$ 
 
@@ -308,15 +308,15 @@ $$  NH_4NO_3 + H_2SO_4 \longrightarrow NH_4HSO_4 + HNO_3 $$
 
 根据需要，有时要调整酸的浓度，例如用100公斤浓度93%的酸，要求稀释到75%，则需要加入的水量是多少？可按下法计算(如图161所示)。
 
-图中 A 点——原料酸的浓度；
+图中 A 点—原料酸的浓度；
 
-B 点——E 点与 D 点渡度之差值；
+B 点—E 点与 D 点渡度之差值；
 
-C 点——A 点与 E 点浓度之差值；
+C 点—A 点与 E 点浓度之差值；
 
-D点——加入水的含酸浓度；
+D点—加入水的含酸浓度；
 
-E 点——要求的漫度。
+E 点—要求的漫度。
 
 <div style="text-align: center;">
 <img src="../images/img_in_image_box_655_1142_899_1404.jpg" alt="Image" width="23%" />
@@ -329,7 +329,7 @@ $$ 75:18=100:x $$
 
 $$ x=24 $$ 
 
-式中 x ——加入的水量(公斤)。
+式中 x —加入的水量(公斤)。
 
 由上式可知，需加水 24 公斤。
 
@@ -337,13 +337,13 @@ $$ x=24 $$
 
 <div style="text-align: center;">表44 硫酸制造所用的设备、工具和仪器</div>
 
-<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;' colspan="2">设备</td><td rowspan="2">工具</td><td rowspan="2">仪器</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>名称</td><td style='text-align: center; word-wrap: break-word;'>材料</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>风箱</td><td style='text-align: center; word-wrap: break-word;'>木、鸡毛</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>气包</td><td style='text-align: center; word-wrap: break-word;'>瓷缸</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>硫磺燃烧箱</td><td style='text-align: center; word-wrap: break-word;'>铁箱</td><td style='text-align: center; word-wrap: break-word;'>铁条</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>立缸</td><td style='text-align: center; word-wrap: break-word;'>瓷缸</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>$ NO_2 $发生罐</td><td style='text-align: center; word-wrap: break-word;'>铁罐</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>脱硝塔</td><td style='text-align: center; word-wrap: break-word;'>瓷盆、瓷缸、土坯、填料</td><td style='text-align: center; word-wrap: break-word;'>盛酸用的酸坛</td><td style='text-align: center; word-wrap: break-word;'>比重计、温度计</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2塔</td><td style='text-align: center; word-wrap: break-word;'>瓷缸</td><td style='text-align: center; word-wrap: break-word;'>酸坛</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3塔</td><td style='text-align: center; word-wrap: break-word;'>瓷缸、瓷盆、填料</td><td style='text-align: center; word-wrap: break-word;'>酸坛</td><td style='text-align: center; word-wrap: break-word;'>比重计、温度计</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4~10塔</td><td style='text-align: center; word-wrap: break-word;'>瓷盆、填料</td><td style='text-align: center; word-wrap: break-word;'>酸坛</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>吸收塔</td><td style='text-align: center; word-wrap: break-word;'>瓷缸、填料、瓷管、填料</td><td style='text-align: center; word-wrap: break-word;'>酸坛</td><td style='text-align: center; word-wrap: break-word;'>比重计、温度计</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>管路</td><td style='text-align: center; word-wrap: break-word;'>瓷管、玻璃管</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>水蒸汽发生炉</td><td style='text-align: center; word-wrap: break-word;'>小茶炉</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>
+<table border=1><tr><td class="center-th" colspan="2">设备</td><td  class="center-th" rowspan="2">工具</td><td  class="center-th" rowspan="2">仪器</td></tr><tr><td class="center-th">名称</td><td  class="center-th">材料</td></tr><tr><td  class="center">风箱</td><td  class="center">木、鸡毛</td><td  class="center"></td><td  class="center"></td></tr><tr><td  class="center">气包</td><td  class="center">瓷缸</td><td  class="center"></td><td  class="center"></td></tr><tr><td  class="center">硫磺燃烧箱</td><td  class="center">铁箱、硫磺</td><td  class="center">铁条</td><td  class="center"></td></tr><tr><td  class="center">立缸</td><td  class="center">瓷缸</td><td  class="center"></td><td  class="center"></td></tr><tr><td  class="center">$ NO_2 $发生罐</td><td  class="center">铁罐、硝酸钾、硫酸氢钾</td><td  class="center"></td><td  class="center"></td></tr><tr><td  class="center">脱硝塔</td><td  class="center">瓷盆、瓷缸、土坯、填料</td><td  class="center">盛酸用的酸坛</td><td  class="center">比重计、温度计</td></tr><tr><td  class="center">2塔</td><td  class="center">瓷缸</td><td  class="center">酸坛</td><td  class="center"></td></tr><tr><td  class="center">3塔</td><td  class="center">瓷缸、瓷盆、填料</td><td  class="center">酸坛</td><td  class="center">比重计、温度计</td></tr><tr><td  class="center">4~10塔</td><td  class="center">瓷盆、填料</td><td  class="center">酸坛</td><td  class="center"></td></tr><tr><td  class="center">吸收塔</td><td  class="center">瓷缸、填料、瓷管、填料</td><td  class="center">酸坛</td><td  class="center">比重计、温度计</td></tr><tr><td  class="center">管路</td><td  class="center">瓷管、玻璃管</td><td  class="center"></td><td  class="center"></td></tr><tr><td  class="center">水蒸汽发生炉</td><td  class="center">小茶炉</td><td  class="center"></td><td  class="center"></td></tr></table>
 
-<div style="text-align: center;"><div style="text-align: center;">表45 硝酸制造所使用的设备、工具和仪器</div> </div>
+<div style="text-align: center;">表45 硝酸制造所使用的设备、工具和仪器</div>
 
 | 序号 | 工序 | 设备 | 工具 | 仪器 |
 | --- | --- | --- | --- | --- |
 | 1 | 反应 | 炉子 |  | 温度计 |
 |  |  | 大锅炉 |  |  |
-|  |  | 壳缸 |  |  |
-| 2 | 冷却 | 釭缸 | 酸坛 | 比重计 |
+|  |  | 瓷缸 |  |  |
+| 2 | 冷却 | 瓷缸 | 酸坛 | 比重计 |
