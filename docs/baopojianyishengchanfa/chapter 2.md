@@ -64,13 +64,13 @@ $$
 
 $$
 \ce{
-2 \begin{matrix}
-  \ce{CH2COOCR}\\
-  |\\
-  \ce{CHCOOCR}\\
-  |\\
+2 \begin{array}{l}
+  \ce{CH2COOCR} \\
+  | \\
+  \ce{CHCOOCR}  \\
+  | \\
   \ce{CH2COOCR}
-\end{matrix}
+\end{array}
 + 3 Ca(OH)2
 ->
 \begin{matrix}
@@ -80,13 +80,13 @@ $$
   \\
   \ce{(RCOO)2Ca}
 \end{matrix}
-+ 2 \begin{matrix}
++ 2 \begin{array}{l}
   \ce{CH2OH}\\
   |\\
   \ce{CHOH}\\
   |\\
   \ce{CH2OH}
-\end{matrix}
+\end{array}
 }
 $$
 
