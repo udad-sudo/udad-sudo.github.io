@@ -5,20 +5,22 @@
 火硝主要成分是硝酸钾或硝酸钠，它是制造黑火药和周氏炸药主要原料之一。硝酸钾为无色透明或白色结晶体，化学式为 $KNO_3$，分子量为101，比重为1.9～2.1，熔点336℃，吸湿性较强，受热分解时按下式反应放出氧
 
 $$
-2KNO_3 \longrightarrow K_2O+N_2 + 2\frac12 O_2 
+4 KNO_3 \longrightarrow 2 K_2O + 2 N_2 + 5 O_2
 $$ 
 
 硝酸钠的化学式为  $NaNO_3$，分子量为 85，外观为无色透明的斜方六面结晶体，比重为 2.21，熔点为 208℃，吸湿性较强，受热分解时按下式反应放出氧
 
 $$
-2NaNO_3 \longrightarrow Na_2O + N_2 + 2\frac12 O_2
+4 NaNO_3 \longrightarrow 2 Na_2O + 2\ N_2 + 5 O_2
 $$ 
 
 火硝在周氏炸药中用量很大，约占组成物成分的  $64 \pm 2\%$。
 
-火硝是采用民间副业生产的土硝，经提纯精制而得。土硝俗称毛硝，由含硝的土壤中提取，成分中含纯硝约50%，另含有结晶水，探盐和其他杂质，精制提纯后即为火硝。
+火硝是采用民间副业生产的土硝，经提纯精制而得。土硝俗称毛硝，由含硝的土壤中提取，成分中含纯硝约50%，另含有结晶水，食盐和其他杂质，精制提纯后即为火硝。
 
 土硝生产是沿河岸居住的人民多年来的传统副业生产，有丰富的提制土硝的经验。他们提炼出的土硝源源不断地供给军火生产的需要。
+
+制硝流程
 
 1. 扫取硝土：
 
@@ -31,7 +33,8 @@ $$
     1. 砌筑淋硝池：淋硝池的大小，主要根据计划装硝土的多少而定。一般做法是用砖砌成长3.3米，宽1.7米，高0.5米的长方形池子（淋硝池外形见图1）。池子底部用红粘土做成左右两边高于中间5—10厘米，前端低于后端5—10厘米的鱼背形状，并用夯夯实。在低的一端砖墙上做一洞口，以备向外流硝水。然后在池内的两端垫上15—20厘米高的砖，砖的上面每隔0.5米放一根木棒，在木棒上面铺上秣稽，秣稽上再铺上旧席（新席不易漏水）。另外，还要准备瓷缸、铁锅、木盆等做为淋具。
 
         <div style="text-align: center;">
-        <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//5195e199-954a-4d76-91a8-844890f6dfd3/markdown_0/imgs/img_in_image_box_104_147_535_487.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-23T11%3A23%3A14Z%2F-1%2F%2Fb4f7f1bc1786ab2779576241fd61d76ee8d0bf251e0687c22db9c89e002486b8" alt="Image" width="64%" />
+        <img src="../images/img_in_image_box_104_147_535_487.png" alt="Image" width="64%" />
+        <img src="../images/img_in_image_box_104_147_535_488.png" alt="Image" width="64%" />
         <div style="text-align: center;">图 1 淋硝池外形</div>
         </div>
 
@@ -46,7 +49,7 @@ $$
     5. 提硝：第一次熬的硝渣，杂质较多，必须加以提炼。提炼的办法是：把原硝砸碎放到盆内，先用清水洗涮一次，然后再放到锅内，添上高出硝块3厘米的清水进行烧沸，等起沫时，加入水胶水少许（胶水制法，是用水胶1两兑水1斤4两，熬成胶水。提炼100斤硝用胶水4两左右），把沫粘在一起，用策篤捞出来。等锅内的硝，熬到用链子挑起硝水，见链子成鱼鳞状并像皮带似的向下流，这时再等五分钟左右，硝便成熟。然后从锅内舀出放到泥盆内（并在盆边放上两根秫稽以备起硝）。8小时左右，泥盆的硝水便会凝结成洁白色的纯硝，取出后放到用草木灰垫的台子上吸干水分即可（硝盆与硝块见图2）。
 
     <div style="text-align: center;">
-    <img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//3ffeab18-b1df-4e29-8aaf-e4747f1c51df/markdown_0/imgs/img_in_image_box_109_180_539_522.jpg?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2026-04-23T11%3A23%3A02Z%2F-1%2F%2F055ba5939ed2d1a24f88d1d4583b94628b36039eadfa7238d50239440fc1da72" alt="Image" width="64%" />
+    <img src="../images/img_in_image_box_109_180_539_522.png" alt="Image" width="64%" />
     <div style="text-align: center;">图 2 硝盆与硝块</div>
     </div>
 
