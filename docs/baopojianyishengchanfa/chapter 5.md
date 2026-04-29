@@ -21,7 +21,7 @@
 (一)硝酸钾：作为氧化剂，当火药燃烧时，按下列反应放出氧：
 
 $$
-2KNO_3 \longrightarrow 2KNO_2 + O_2
+2KNO_3 \ce{->} 2KNO_2 + O_2
 $$ 
 
 $$
@@ -31,11 +31,11 @@ $$
 硝酸钾所放出的氧，帮助火药中硫磺与火药的燃烧，其反应式如下:
 
 $$
-C + O_2 \longrightarrow CO_2
+C + O_2 \ce{->} CO_2
 $$ 
 
 $$
-S + O_2 \longrightarrow SO_2
+S + O_2 \ce{->} SO_2
 $$ 
 
 (二)木炭粉：为燃烧物质。
