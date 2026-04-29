@@ -38,7 +38,7 @@ $$ 4Zn+5H_2SO_4\longrightarrow4ZnSO_4+H_2S+4H_2O $$
 
 $$ S(硫磺或硫铁矿) + O_2(空气中的氧) \rightarrow  SO_2 $$
 
-$$ SO_2 + \frac{1}{2} O_2 \longrightarrow SO_3 $$ 
+$$ 2SO_2 + O_2 \longrightarrow 2SO_3 $$ 
 
 $$ SO_3 + H_2O \longrightarrow H_2SO_4 $$ 
 
@@ -106,11 +106,11 @@ B 进气口进入，由出气口排出。当拉杆向 B 进气口方向推进时
 
 $$ KNO_3 + KHSO_4 \longrightarrow HNO_3 + K_2SO_4 $$ 
 
-$$ 2HNO_3 \longrightarrow 2NO_2 + H_2O + \frac{1}{2} O_2 $$ 
+$$ 4HNO_3 \longrightarrow 4NO_2 + 2H_2O + O_2 $$ 
 
 但也可以直接使用硝酸，使其按下式分解
 
-$$ 2HNO_3 \longrightarrow 2NO_2 + H_2O + \frac{1}{2} O_2 $$ 
+$$ 4HNO_3 \xrightarrow 2H_2O + 4NO_2+O_2\uparrow $$ 
 
 (6)脱硝塔(1塔)：脱硝塔使二氧化硫与含硝硫酸在其内作用，一部分转化成三氧化硫然后生成硫酸；其余部分经脱硝塔进入反应室。由第3塔出来的酸再加入脱硝塔浓缩，其所制成的硫酸其浓度可达57～60%。
 
